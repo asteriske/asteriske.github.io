@@ -1,0 +1,230 @@
+html, body {
+        margin: 0;
+}
+
+.aboveMean{
+	color:#FF0000;
+	font-weight:bold;
+}
+
+.aboveNational{
+	color:#FF0000;
+	font-weight:bold;
+}
+
+#barChart{
+	float:left;
+	height:300px;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	width: 400px;
+}
+
+#belowMapContainer{
+	height: 280px;
+	width: 900px;
+	margin-left:10px;
+}
+
+.belowMean{
+	color:#005A32;
+	font-weight:bold;
+}
+
+.belowNational{
+	color:#005A32;
+	font-weight:bold;
+}
+
+.chartLocation{
+	color:#575757;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:85%;
+	font-weight:bold;
+	text-align:center;
+}
+
+.chartProvider{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+
+	text-align:center;
+	width = 275;
+	word-wrap: break-word;
+}
+
+.colorLegend{
+	fill: #222;
+	margin-bottom: 0px;
+	margin-left: auto;	
+	margin-right: 10px;
+	position: relative;
+	border-radius: 7px;
+	white-space: nowrap; 
+}
+
+#compareToMean{
+	text-align:center;
+	width:300px;
+}
+
+.data{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:450;
+	font-size:90%;
+
+	position:relative;	
+	right:0px;
+	
+	text-align:right;
+	width:100px;
+}
+
+.dataContainer{
+	position:relative;
+	align:center;
+	margin:auto;
+}
+
+.dataLabel{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:600;
+	font-size:90%;
+	
+	left:0px;
+	width:100px;
+}
+
+#document{
+	/*position:absolute;*/
+}
+
+#legendTitle{
+	width:180px;
+}
+
+#legendTitleText{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	text-align:center;
+	text-decoration:underline;
+}
+
+.location{
+	color:#575757;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:85%;
+	font-weight:bold;
+	text-align:center;
+}
+
+#map { 
+	height:500px;
+	width: 875px;
+	margin-left:10px;
+}
+
+path {
+	fill: #aaa;
+	fill-opacity: .8;
+	stroke: #fff;
+	stroke-width: 1.5px;
+}
+
+path.natlAvgTriangle{
+	fill-opacity:.7;
+	fill:steelblue
+}
+
+path.providerTriangle{
+	fill-opacity:1;
+	fill:red;
+}
+
+path.regionTriangle{
+	fill-opacity:1;
+	fill:brown
+}
+
+.percent{
+	font-weight:bold;
+	width:50px;
+}
+
+pre {
+	background-color:#DEDEDE;
+}
+
+.provider{
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+
+	text-align:center;
+	width = 275;
+	word-wrap: break-word;
+}
+
+#regionBox{
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+	width: 270px;
+	height: 300px;
+}
+
+#regionOverall{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#rightControl {
+	width:200px;
+	float:left;
+	font-size:85%;
+}
+
+line.tick{
+	stroke:black;
+	fill:none;
+}
+
+.stateTd{
+	width:85px;
+}
+
+#regionName{
+	text-align:center;
+}
+
+.regionTitle{
+	font-weight:bold;
+}
+
+.sampleSize{
+	font-size:75%;
+}
+
+.tooltip{
+        border-radius:4px;
+	display:none;
+	position: absolute;
+        padding: 10px;
+        background-color: rgba(200,200,200,1);
+	box-shadow: 5px 5px 5px #000000;
+	z-index:90;
+}
+
+.tooltipLabel{
+	font-weight:bold;
+	width:150px;
+}
+.totalTr{
+	font-weight:bold;
+}
+
+p {
+        margin: 0;
+}
+~       

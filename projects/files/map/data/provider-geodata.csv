@@ -1,0 +1,2991 @@
+provider_id,provider_name,city,state,latitude,longitude
+50701,Southwest Healthcare System,Murrieta,CA,33.56,-117.18
+50704,Mission Community Hospital - Panorama,Panorama City,CA,34.22,-118.46
+50709,Desert Valley Hospital,Victorville,CA,34.47,-117.30
+50724,Bakersfield Heart Hospital,Bakersfield,CA,35.38,-119.04
+50727,Community Hospital Of Long Beach,Long Beach,CA,33.79,-118.15
+30119,Mercy Gilbert Medical Center,Gilbert,AZ,33.29,-111.75
+50039,Enloe Medical Center,Chico,CA,39.74,-121.85
+310070,Saint Peter's University Hospital,New Brunswick,NJ,40.50,-74.46
+50732,Fresno Heart And Surgical Hospital,Fresno,CA,36.86,-119.79
+50735,Whittier Hospital Medical Center,Whittier,CA,33.95,-118.00
+50736,Monterey Park Hospital,Monterey Park,CA,34.05,-118.14
+50040,Lac/Olive View-Ucla Medical Center,Sylmar,CA,34.33,-118.45
+50737,Garfield Medical Center,Monterey Park,CA,34.07,-118.12
+50738,Greater El Monte Community Hospital,South El Monte,CA,34.05,-118.04
+50739,Centinela Hospital Medical Center,Inglewood,CA,33.95,-118.35
+50740,Marina Del Rey Hospital,Marina Del Rey,CA,33.99,-118.45
+50742,Olympia Medical Center,Los Angeles,CA,34.06,-118.36
+50744,Western Medical Center Hosp Anaheim,Anaheim,CA,33.82,-117.91
+50745,Chapman Medical Center,Orange,CA,33.79,-117.83
+300014,Frisbie Memorial Hospital,Rochester,NH,43.30,-70.96
+50746,Western Medical Center Santa Ana,Santa Ana,CA,33.75,-117.83
+50747,Coastal Communities Hospital,Santa Ana,CA,33.71,-117.89
+310118,Meadowlands Hospital Medical Center,Secaucus,NJ,40.79,-74.08
+50752,Brotman Medical Center,Culver City,CA,34.02,-118.40
+50755,Sherman Oaks Hospital,Sherman Oaks,CA,34.16,-118.45
+50757,Alvarado Hospital Medical Center,San Diego,CA,32.78,-117.06
+310073,Jersey Shore University Medical Center,Neptune,NJ,40.21,-74.04
+50758,Montclair Hospital Medical Center,Montclair,CA,34.08,-117.70
+50016,Arroyo Grande Community Hospital,Arroyo Grande,CA,35.11,-120.59
+310092,Capital Health System-Fuld Campus,Trenton,NJ,40.24,-74.75
+300017,Parkland Medical Center,Derry,NH,42.88,-71.32
+50042,St Elizabeth Community Hospital,Red Bluff,CA,40.15,-122.22
+310064,Atlanticare Regional Medical Center - City Div,Atlantic City,NJ,39.36,-74.43
+300018,Wentworth-Douglass Hospital,Dover,NH,43.21,-70.88
+50043,Alta Bates Summit Medical Center,Oakland,CA,37.82,-122.26
+50038,Santa Clara Valley Medical Center,San Jose,CA,37.32,-121.93
+50688,Saint Louise Regional Hospital,Gilroy,CA,37.04,-121.57
+50689,San Ramon Regional Medical Ctr,San Ramon,CA,37.78,-121.96
+310069,South Jersey Healthcare-Elmer Hospital,Elmer,NJ,39.59,-75.18
+50696,Keck Hospital Of Usc,Los Angeles,CA,34.06,-118.20
+60049,Yampa Valley Medical Center,Steamboat Springs,CO,40.46,-106.82
+50055,California Pacific Medical Ctr - St. Luke's Campus,San Francisco,CA,37.75,-122.42
+50056,Antelope Valley Hospital Med Center,Lancaster,CA,34.69,-118.16
+60054,Community Hospital,Grand Junction,CO,39.09,-108.55
+140184,Heartland Regional Medical Center,Marion,IL,37.73,-88.93
+110194,Donalsonville Hospital Inc,Donalsonville,GA,31.05,-84.88
+60064,Centura Health-Porter Adventist Hospital,Denver,CO,39.67,-104.97
+60065,North Suburban Medical Center,Thornton,CO,39.86,-104.98
+60071,Delta County Memorial Hospital,Delta,CO,38.75,-108.05
+110105,Colquitt Regional Medical Center,Moultrie,GA,31.13,-83.78
+140052,Saint Anthony's Health Center,Alton,IL,38.91,-90.17
+60075,Valley View Hospital Association,Glenwood Springs,CO,39.53,-107.32
+50057,Kaweah Delta Medical Center,Visalia,CA,36.33,-119.30
+60076,Sterling Regional Medcenter,Sterling,CO,40.61,-103.22
+60100,"Medical Center Of Aurora, The",Aurora,CO,39.69,-104.83
+60103,Centura Health-Avista Adventist Hospital,Louisville,CO,39.95,-105.15
+60104,Centura Health-St Anthony North Hospital,Westminster,CO,39.85,-105.02
+140210,Harrisburg Medical Center,Harrisburg,IL,37.74,-88.53
+110073,Dorminy Medical Center,Fitzgerald,GA,31.70,-83.26
+300019,Cheshire Medical Center,Keene,NH,42.95,-72.29
+60113,Centura Health-Littleton Adventist Hospital,Littleton,CO,39.58,-104.99
+300020,Southern Nh Medical Center,Nashua,NH,42.76,-71.46
+310096,"Saint Michael's Medical Center, Inc",Newark,NJ,40.74,-74.17
+60114,Parker Adventist Hospital,Parker,CO,39.55,-104.77
+300023,Exeter Hospital Inc,Exeter,NH,42.98,-70.94
+50058,Glendale Mem Hospital & Hlth Center,Glendale,CA,34.13,-118.26
+50060,Community Regional Medical Center,Fresno,CA,36.74,-119.78
+320009,Lovelace Medical Center,Albuquerque,NM,35.09,-106.64
+300029,Portsmouth Regional Hospital,Portsmouth,NH,43.06,-70.79
+10008,Crenshaw Community Hospital,Luverne,AL,31.72,-86.26
+50045,El Centro Regional Medical Center,El Centro,CA,32.78,-115.57
+100051,South Lake Hospital,Clermont,FL,28.55,-81.77
+50046,Ojai Valley Community Hospital,Ojai,CA,34.44,-119.26
+60001,North Colorado Medical Center,Greeley,CO,40.41,-104.71
+50047,California Pacific Medical Ctr-Pacific Campus Hosp,San Francisco,CA,37.79,-122.43
+60003,Longmont United Hospital,Longmont,CO,40.18,-105.13
+60004,Platte Valley Medical Center,Brighton,CO,39.96,-104.77
+60006,Montrose Memorial Hospital,Montrose,CO,38.48,-107.87
+60008,San Luis Valley Regional Medical Center,Alamosa,CO,37.47,-105.88
+60009,Exempla Lutheran Medical Center,Wheat Ridge,CO,39.77,-105.09
+60010,Poudre Valley Hospital,Fort Collins,CO,40.57,-105.06
+60011,Denver Health Medical Center,Denver,CO,39.73,-104.99
+60012,Centura Health-St Mary Corwin Medical Center,Pueblo,CO,38.23,-104.62
+50054,San Gorgonio Memorial Hospital,Banning,CA,33.93,-116.95
+60013,Mercy Regional Medical Center,Durango,CO,37.24,-107.83
+60014,Presbyterian/St Luke's Medical Center,Denver,CO,39.75,-104.97
+60015,Centura Health-St Anthony Hospital,Lakewood,CO,39.72,-105.13
+60016,Centura Health-St Thomas More Hospital,Canon City,CO,38.46,-105.23
+60020,Parkview Medical Center Inc,Pueblo,CO,38.28,-104.61
+60022,Memorial Hospital Central,Colorado Springs,CO,38.84,-104.80
+60023,St Marys Hospital And Medical Center,Grand Junction,CO,39.09,-108.56
+60024,University Of Colorado Hospital Anschutz Inpatient,Aurora,CO,39.74,-104.84
+60027,Boulder Community Hospital,Boulder,CO,40.03,-105.28
+60028,Exempla Saint Joseph Hospital,Denver,CO,39.75,-104.97
+60030,Mckee Medical Center,Loveland,CO,40.41,-105.05
+60031,Centura Health-Penrose St Francis Health Services,Colorado Springs,CO,38.89,-104.82
+60032,Rose Medical Center,Denver,CO,39.73,-104.93
+60034,Swedish Medical Center,Englewood,CO,39.65,-104.98
+60036,Arkansas Valley Regional Medical Center,La Junta,CO,37.98,-103.55
+60044,Colorado Plains Medical Center,Fort Morgan,CO,40.26,-103.80
+140286,Kishwaukee Community Hospital,Dekalb,IL,41.93,-88.75
+110032,Stephens County Hospital,Toccoa,GA,34.59,-83.35
+50063,Hollywood Presbyterian Medical Center,Los Angeles,CA,34.10,-118.29
+50067,Oak Valley District Hospital,Oakdale,CA,37.76,-120.86
+50069,St Joseph Hospital,Orange,CA,33.78,-117.86
+150012,Saint Joseph Regional Medical Center,Mishawaka,IN,41.70,-86.18
+150018,Elkhart General Hospital,Elkhart,IN,41.71,-85.93
+110190,Flint River Hospital,Montezuma,GA,32.29,-84.03
+110135,Taylor Regional Hospital,Hawkinsville,GA,32.30,-83.48
+110150,Oconee Regional Medical Center,Milledgeville,GA,33.09,-83.25
+70001,Hospital Of St Raphael,New Haven,CT,41.31,-72.94
+70002,St Francis Hospital & Medical Center,Hartford,CT,41.78,-72.70
+70003,Day Kimball Hospital,Putnam,CT,41.91,-71.91
+70004,Sharon Hospital,Sharon,CT,41.88,-73.48
+70005,Waterbury Hospital,Waterbury,CT,41.56,-73.06
+70006,Stamford Hospital,Stamford,CT,41.06,-73.55
+70007,Lawrence & Memorial Hospital,New London,CT,41.34,-72.10
+310074,Libertyhealth-Jersey City Medical Center Campus,Jersey City,NJ,40.72,-74.05
+10109,Pickens County Medical Center,Carrollton,AL,33.26,-88.10
+70008,Johnson Memorial Hospital,Stafford Springs,CT,41.98,-72.39
+70010,Bridgeport Hospital,Bridgeport,CT,41.19,-73.17
+70011,Charlotte Hungerford Hospital,Torrington,CT,41.79,-73.13
+70012,Rockville General Hospital,Rockville,CT,41.87,-72.45
+70015,New Milford Hospital,New Milford,CT,41.58,-73.41
+110041,Habersham County Medical Ctr,Demorest,GA,34.58,-83.53
+70016,Saint Marys Hospital,Waterbury,CT,41.55,-73.04
+70017,Midstate Medical Center,Meriden,CT,41.55,-72.80
+70018,Greenwich Hospital Association,Greenwich,CT,41.03,-73.63
+70019,"Milford Hospital, Inc",Milford,CT,41.22,-73.07
+70020,Middlesex Hospital,Middletown,CT,41.55,-72.65
+70021,Windham Comm Mem Hosp & Hatch Hosp,Willimantic,CT,41.72,-72.22
+10125,Lakeland Community Hospital,Haleyville,AL,34.25,-87.58
+70022,Yale-New Haven Hospital,New Haven,CT,41.30,-72.94
+30071,Fort Defiance Indian Hospital,Fort Defiance,AZ,35.76,-109.05
+70024,William W Backus Hospital,Norwich,CT,41.54,-72.09
+180018,St Claire Regional Medical Center,Morehead,KY,38.18,-83.43
+70025,Hartford Hospital,Hartford,CT,41.75,-72.68
+70027,Manchester Memorial Hospital,Manchester,CT,41.78,-72.53
+70028,St Vincent's Medical Center,Bridgeport,CT,41.20,-73.20
+320038,Rehoboth Mckinley Christian Health Ser,Gallup,NM,35.51,-108.73
+70033,Danbury Hospital,Danbury,CT,41.40,-73.45
+70034,Norwalk Hospital Association,Norwalk,CT,41.11,-73.42
+70035,"Hospital Of Central Connecticut, The",New Britain,CT,41.66,-72.79
+30084,Chinle Comprehensive Health Care Facility,Chinle,AZ,36.11,-109.55
+70036,John Dempsey Hospital,Farmington,CT,41.74,-72.79
+70039,Masonic Home And Hospital,Wallingford,CT,41.46,-72.84
+30073,Tuba City Regional Health Care Corporation,Tuba City,AZ,36.14,-111.24
+180053,Fleming County Hospital,Flemingsburg,KY,38.42,-83.73
+50077,Scripps Mercy Hospital,San Diego,CA,32.75,-117.16
+80001,"Christiana Care Health Services, Inc.",Newark,DE,39.69,-75.67
+80004,Bayhealth - Kent General Hospital,Dover,DE,39.15,-75.52
+80006,Nanticoke Memorial Hospital,Seaford,DE,38.64,-75.61
+80007,Beebe Medical Center,Lewes,DE,38.77,-75.14
+90001,George Washington Univ Hospital,Washington,DC,38.90,-77.05
+90003,Howard University Hospital,Washington,DC,38.92,-77.02
+90004,Georgetown University Hospital,Washington,DC,38.91,-77.07
+90005,Sibley Memorial Hospital,Washington,DC,38.94,-77.11
+90006,Providence Hospital,Washington,DC,38.94,-76.99
+90008,United Medical Center,Washington,DC,38.84,-76.98
+90011,Washington Hospital Center,Washington,DC,38.93,-77.01
+100001,Shands Jacksonville Medical Center,Jacksonville,FL,30.35,-81.66
+100002,Bethesda Memorial Hospital,Boynton Beach,FL,26.50,-80.07
+100006,Orlando Health,Orlando,FL,28.53,-81.38
+50078,Providence Little Co Of Mary Med Ctr San Pedro,San Pedro,CA,33.74,-118.31
+100007,Florida Hospital,Orlando,FL,28.58,-81.37
+100008,Baptist Hospital Of Miami Inc,Miami,FL,25.68,-80.34
+100009,University Of Miami Hospital,Miami,FL,25.79,-80.21
+180002,Whitesburg Arh Hospital,Whitesburg,KY,37.11,-82.81
+190015,"North Oaks Medical Center, Llc",Hammond,LA,30.50,-90.46
+100012,Lee Memorial Hospital,Fort Myers,FL,26.63,-81.87
+100014,Bert Fish Medical Center,New Smyrna Beach,FL,29.02,-80.92
+100017,Halifax Health Medical Center,Daytona Beach,FL,29.20,-81.06
+100018,Naples Community Hospital,Naples,FL,26.15,-81.80
+50280,Mercy Medical Center Redding,Redding,CA,40.57,-122.40
+100019,Holmes Regional Medical Center,Melbourne,FL,28.09,-80.61
+180019,Meadowview Regional Medical Center,Maysville,KY,38.64,-83.81
+100022,Jackson Memorial Hospital,Miami,FL,25.79,-80.21
+100023,Citrus Memorial Hospital,Inverness,FL,28.83,-82.34
+310119,Umdnj University Hospital,Newark,NJ,40.74,-74.19
+100025,Sacred Heart Hospital,Pensacola,FL,30.48,-87.21
+50079,Doctors Medical Center-San Pablo,San Pablo,CA,37.95,-122.34
+100026,Bay Medical Center Sacred Heart Health System,Panama City,FL,30.16,-85.65
+100028,Parrish Medical Center,Titusville,FL,28.63,-80.82
+100029,North Shore Medical Center,Miami,FL,25.86,-80.21
+100030,Health Central,Ocoee,FL,28.55,-81.53
+190145,Lasalle General Hospital,Jena,LA,31.68,-92.13
+100032,Bayfront Medical Center Inc,Saint Petersburg,FL,27.76,-82.64
+100034,Mount Sinai Medical Center,Miami Beach,FL,25.81,-80.14
+100035,Manatee Memorial Hospital,Bradenton,FL,27.50,-82.56
+100038,Memorial Regional Hospital,Hollywood,FL,26.02,-80.18
+180029,Hazard Arh Regional Medical Center,Hazard,KY,37.28,-83.23
+100039,Broward Health Medical Center,Fort Lauderdale,FL,26.10,-80.14
+100040,St Vincent's Medical Center,Jacksonville,FL,30.31,-81.69
+100043,Mease Hospital Dunedin,Dunedin,FL,28.01,-82.78
+100044,Martin Memorial Medical Center,Stuart,FL,27.20,-80.24
+190177,Lakeview Regional Medical Center,Covington,LA,30.48,-90.10
+100045,Florida Hospital Deland,Deland,FL,29.04,-81.32
+100046,Florida Hospital Zephyrhills,Zephyrhills,FL,28.26,-82.19
+100047,Charlotte Regional Medical Center,Punta Gorda,FL,26.94,-82.04
+20018,Yukon Kuskokwim Delta Reg Hospital,Bethel,AK,60.79,-161.77
+100048,Jay Hospital,Jay,FL,30.95,-87.15
+180043,Memorial Hospital,Manchester,KY,37.16,-83.76
+100049,Highlands Regional Medical Center,Sebring,FL,27.47,-81.43
+50082,St Johns Regional Medical Center,Oxnard,CA,34.22,-119.16
+100050,Palm Springs General Hospital,Hialeah,FL,25.87,-80.31
+100052,Winter Haven Hospital,Winter Haven,FL,28.03,-81.72
+100053,Hialeah Hospital,Hialeah,FL,25.85,-80.27
+100054,Twin Cities Hospital,Niceville,FL,30.53,-86.50
+50084,St Josephs Med Center Of Stockton,Stockton,CA,37.97,-121.29
+100055,Florida Hospital North Pinellas,Tarpon Springs,FL,28.13,-82.76
+10001,Southeast Alabama Medical Center,Dothan,AL,31.22,-85.36
+10005,Marshall Medical Center South,Boaz,AL,34.19,-86.15
+50089,Community Hospital Of San Bernardino,San Bernardino,CA,34.13,-117.32
+100062,Munroe Regional Medical Center,Ocala,FL,29.18,-82.14
+100063,Morton Plant North Bay Hospital,New Port Richey,FL,28.25,-82.72
+100067,St Anthony's Hospital,Saint Petersburg,FL,27.78,-82.65
+100068,Florida Hospital Memorial Medical Center,Daytona Beach,FL,29.24,-81.11
+100069,Florida Hospital Carrollwood,Tampa,FL,28.01,-82.50
+10006,Eliza Coffee Memorial Hospital,Florence,AL,34.80,-87.69
+310108,Jfk Medical Ctr - Anthony M. Yelencsics Community,Edison,NJ,40.56,-74.35
+100070,Venice Regional Medical Center,Venice,FL,27.09,-82.44
+50090,Sonoma Valley Hospital,Sonoma,CA,38.29,-122.47
+100071,Brooksville Regional Hospital,Brooksville,FL,28.54,-82.44
+100072,Florida Hospital Fish Memorial,Orange City,FL,28.91,-81.28
+100073,Holy Cross Hospital Inc,Fort Lauderdale,FL,26.19,-80.12
+100075,St Joseph's Hospital,Tampa,FL,27.98,-82.49
+100076,Metropolitan Hospital Of Miami,Miami,FL,25.78,-80.29
+100077,Peace River Regional Medical Center,Port Charlotte,FL,26.99,-82.10
+100080,Jfk Medical Center,Atlantis,FL,26.60,-80.09
+100081,Healthmark Regional Medical Center,Defuniak Springs,FL,30.65,-86.11
+100084,Leesburg Regional Medical Center,Leesburg,FL,28.81,-81.87
+100086,Broward Health North,Pompano Beach,FL,26.28,-80.12
+10007,Mizell Memorial Hospital,Opp,AL,31.29,-86.26
+180050,Harlan Appalachian Regional Healthcare Hospital,Harlan,KY,36.81,-83.31
+100087,Sarasota Memorial Hospital,Sarasota,FL,27.32,-82.53
+100088,Baptist Medical Center,Jacksonville,FL,30.32,-81.66
+100090,Flagler Hospital,Saint Augustine,FL,29.86,-81.32
+100092,Wuesthoff Medical Center  Rockledge,Rockledge,FL,28.34,-80.72
+50091,Community And Mission  Hospital Of Huntington Park,Huntington Park,CA,33.99,-118.22
+100093,Baptist Hospital,Pensacola,FL,30.43,-87.23
+300034,Catholic Medical Center,Manchester,NH,42.99,-71.47
+100099,Lake Wales Medical Center,Lake Wales,FL,27.90,-81.57
+320013,Holy Cross Hospital A Div Of Taos Health Systems,Taos,NM,36.38,-105.56
+10009,Hartselle Medical Center,Hartselle,AL,34.45,-86.94
+100102,Shands Lake Shore Regional Medical Center,Lake City,FL,30.19,-82.63
+100105,Indian River Medical Center,Vero Beach,FL,27.66,-80.39
+100106,Doctor's Memorial Hospital Inc,Perry,FL,30.12,-83.59
+100107,Lehigh Regional Medical Center,Lehigh Acres,FL,26.62,-81.66
+100109,Florida Hospital Heartland Medical Center,Sebring,FL,27.54,-81.51
+100110,Osceola Regional Medical Center,Kissimmee,FL,28.30,-81.41
+320033,Los Alamos Medical Center,Los Alamos,NM,35.88,-106.32
+320011,Espanola Hospital,Espanola,NM,36.00,-106.09
+100113,Shands Hospital At The University Of Florida,Gainesville,FL,29.64,-82.34
+100117,Baptist Medical Center  Beaches,Jacksonville Beach,FL,30.27,-81.40
+100118,Florida Hospital Flagler,Palm Coast,FL,29.48,-81.19
+100121,Bartow Regional Medical Center,Bartow,FL,27.92,-81.84
+100122,North Okaloosa Medical Center,Crestview,FL,30.74,-86.56
+100124,Santa Rosa Medical Center,Milton,FL,30.63,-87.07
+310120,Saint Clare's Hospital/Sussex,Sussex,NJ,41.21,-74.60
+10010,Marshall Medical Center North,Guntersville,AL,34.36,-86.42
+100125,Homestead Hospital,Homestead,FL,25.48,-80.43
+100126,Palms Of Pasadena Hospital,Saint Petersburg,FL,27.75,-82.74
+100127,Morton Plant Hospital,Clearwater,FL,27.95,-82.80
+50093,Saint Agnes Medical Center,Fresno,CA,36.84,-119.77
+100128,Tampa General Hospital,Tampa,FL,27.94,-82.46
+100130,Lakeside Medical Center,Belle Glade,FL,26.72,-80.67
+100131,Aventura Hospital And Medical Center,Aventura,FL,25.97,-80.15
+100132,South Florida Baptist Hospital,Plant City,FL,28.02,-82.14
+100135,Tallahassee Memorial Healthcare,Tallahassee,FL,30.46,-84.26
+180064,Saint Joseph Mount Sterling,Mount Sterling,KY,38.13,-83.58
+100137,Heart Of Florida Regional Medical Center,Davenport,FL,28.22,-81.64
+50099,San Antonio Community Hospital,Upland,CA,34.10,-117.64
+100139,Tri County Hospital - Williston,Williston,FL,29.38,-82.45
+100140,Baptist Medical Center - Nassau,Fernandina Beach,FL,30.65,-81.45
+180095,Crittenden Health System,Marion,KY,37.33,-88.09
+50100,Sharp Memorial Hospital,San Diego,CA,32.80,-117.15
+50101,Sutter Solano Medical Center,Vallejo,CA,38.13,-122.24
+50102,Parkview Community Hospital Medical Center,Riverside,CA,33.93,-117.44
+10011,St Vincent's East,Birmingham,AL,33.60,-86.67
+10012,Dekalb Regional Medical Center,Fort Payne,AL,34.44,-85.76
+100142,Jackson Hospital,Marianna,FL,30.79,-85.24
+100150,Lower Keys Medical Center,Key West,FL,24.58,-81.74
+180104,Western Baptist Hospital,Paducah,KY,37.08,-88.61
+100151,Mayo Clinic,Jacksonville,FL,30.26,-81.44
+100154,"South Miami Hospital, Inc",South Miami,FL,25.70,-80.29
+100157,Lakeland Regional Medical Center,Lakeland,FL,28.06,-81.95
+100161,Central Florida Regional Hospital,Sanford,FL,28.82,-81.28
+100166,Doctors Hospital Of Sarasota,Sarasota,FL,27.30,-82.45
+100167,Plantation General Hospital,Plantation,FL,26.13,-80.21
+100168,Boca Raton Regional Hospital,Boca Raton,FL,26.36,-80.10
+100173,Florida Hospital Tampa,Tampa,FL,28.07,-82.42
+10015,Southwest Alabama Medical Center,Thomasville,AL,31.95,-87.74
+100175,Desoto Memorial Hospital,Arcadia,FL,27.23,-81.85
+100176,Palm Beach Gardens Medical Center,Palm Beach Gardens,FL,26.83,-80.09
+50103,White Memorial Medical Center,Los Angeles,CA,34.05,-118.22
+50104,Saint Francis Medical Center,Lynwood,CA,33.93,-118.20
+100177,Cape Canaveral Hospital,Cocoa Beach,FL,28.36,-80.62
+180127,Frankfort Regional Medical Center,Frankfort,KY,38.16,-84.90
+100179,Memorial Hospital Jacksonville,Jacksonville,FL,30.29,-81.60
+100180,St Petersburg General Hospital,Saint Petersburg,FL,27.81,-82.73
+50107,Marian Regional Medical Center,Santa Maria,CA,34.95,-120.41
+10016,Shelby Baptist Medical Center,Alabaster,AL,33.26,-86.81
+100181,Larkin Community Hospital,South Miami,FL,25.71,-80.29
+100183,Coral Gables Hospital,Coral Gables,FL,25.74,-80.25
+50108,Sutter General Hospital,Sacramento,CA,38.57,-121.47
+100187,Palmetto General Hospital,Hialeah,FL,25.89,-80.32
+100189,Northwest Medical Center,Margate,FL,26.26,-80.20
+100191,Medical Center Of Trinity,Trinity,FL,28.21,-82.67
+100200,Broward Health Imperial Point,Fort Lauderdale,FL,26.21,-80.11
+100204,North Florida Regional Medical Center,Gainesville,FL,29.66,-82.41
+100206,Memorial Hospital Of Tampa,Tampa,FL,27.94,-82.49
+100209,Kendall Regional Medical Center,Miami,FL,25.73,-80.39
+420085,Grand Strand Reg Med Center,Myrtle Beach,SC,33.71,-78.89
+100211,Pasco Regional Medical Center,Dade City,FL,28.35,-82.20
+440034,Methodist Medical Center Of Oak Ridge,Oak Ridge,TN,35.99,-84.28
+100212,Ocala Regional Medical Center,Ocala,FL,29.18,-82.14
+100213,Blake Medical Center,Bradenton,FL,27.48,-82.62
+180128,Three Rivers Medical Center,Louisa,KY,38.09,-82.60
+10019,Helen Keller Memorial Hospital,Sheffield,AL,34.75,-87.70
+100217,Sebastian River Medical Center,Sebastian,FL,27.85,-80.49
+250020,Webster General Hospital/Swing Bed,Eupora,MS,33.54,-89.27
+50111,Temple Community Hospital,Los Angeles,CA,34.08,-118.28
+50112,Santa Monica - Ucla Med Ctr & Orthopaedic Hospital,Santa Monica,CA,34.03,-118.49
+50113,San Mateo Medical Center,San Mateo,CA,37.53,-122.30
+100230,Memorial Hospital Pembroke,Pembroke Pines,FL,26.03,-80.25
+100223,Fort Walton Beach Medical Center,Fort Walton Beach,FL,30.45,-86.63
+100224,University Hospital And Medical Center,Tamarac,FL,26.21,-80.25
+50110,Lompoc Valley Medical Center,Lompoc,CA,34.64,-120.44
+100226,Orange Park Medical Center,Orange Park,FL,30.17,-81.74
+100228,Westside Regional Medical Center,Plantation,FL,26.12,-80.26
+490009,University Of Virginia Medical Center,Charlottesville,VA,38.03,-78.50
+10021,Dale Medical Center,Ozark,AL,31.45,-85.63
+250058,South Central Reg Med Ctr,Laurel,MS,31.69,-89.13
+100231,West Florida Hospital,Pensacola,FL,30.52,-87.22
+100232,Putnam Community Medical Center,Palatka,FL,29.64,-81.69
+490032,Medical College Of Virginia Hospitals,Richmond,VA,37.54,-77.43
+100234,Columbia Hospital,West Palm Beach,FL,26.76,-80.09
+50115,Palomar Medical Center,Escondido,CA,33.13,-117.07
+500015,Auburn Regional Medical Center,Auburn,WA,47.34,-122.27
+50116,Northridge Hospital Medical Center,Northridge,CA,34.22,-118.53
+10022,Cherokee Medical Center,Centre,AL,34.16,-85.65
+50118,Doctors Hospital Of Manteca,Manteca,CA,37.80,-121.20
+50121,Adventist Medical Center,Hanford,CA,36.32,-119.67
+100236,Fawcett Memorial Hospital,Port Charlotte,FL,26.99,-82.10
+10023,Baptist Medical Center South,Montgomery,AL,32.33,-86.27
+100238,Northside Hospital,Saint Petersburg,FL,27.83,-82.70
+100239,Edward White Hospital,Saint Petersburg,FL,27.78,-82.66
+10024,Jackson Hospital & Clinic Inc,Montgomery,AL,32.37,-86.29
+50122,Dameron Hospital,Stockton,CA,37.96,-121.30
+50124,Verdugo Hills Hospital,Glendale,CA,34.20,-118.22
+10025,George H. Lanier Memorial Hospital,Valley,AL,32.82,-85.17
+100242,Gulf Coast Medical Center,Panama City,FL,30.19,-85.67
+100243,Brandon Regional Hospital,Brandon,FL,27.93,-82.29
+100244,Cape Coral Hospital,Cape Coral,FL,26.64,-81.94
+100246,Lawnwood Regional Medical Center & Heart Institute,Fort Pierce,FL,27.43,-80.34
+100248,Largo Medical Center,Largo,FL,27.91,-82.80
+100249,Seven Rivers Regional Medical Center,Crystal River,FL,28.95,-82.62
+50125,Regional Medical Center Of San Jose,San Jose,CA,37.36,-121.85
+100252,Raulerson Hospital,Okeechobee,FL,27.26,-80.83
+100253,Jupiter Medical Center,Jupiter,FL,26.92,-80.10
+50126,Valley Presbyterian Hospital,Van Nuys,CA,34.19,-118.51
+100254,Capital Regional Medical Center,Tallahassee,FL,30.48,-84.23
+40001,Siloam Springs Memorial Hospital,Siloam Springs,AR,36.18,-94.54
+10027,Elba General Hospital,Elba,AL,31.43,-86.08
+40002,Johnson Regional Medical Center,Clarksville,AR,35.46,-93.44
+100255,Town & Country Hospital,Tampa,FL,28.00,-82.57
+50127,Woodland Memorial Hospital,Woodland,CA,38.66,-121.79
+100256,Regional Medical Center Bayonet Point,Hudson,FL,28.36,-82.69
+100258,Delray Medical Center,Delray Beach,FL,26.44,-80.13
+50128,Tri-City Medical Center,Oceanside,CA,33.18,-117.29
+50129,St Bernardine Medical Center,San Bernardino,CA,34.13,-117.28
+100259,South Bay Hospital,Sun City Center,FL,27.71,-82.37
+100260,St Lucie Medical Center,Port Saint Lucie,FL,27.29,-80.29
+100264,Oak Hill Hospital,Brooksville,FL,28.54,-82.53
+250122,Natchez Community Hospital/Swing Bed,Natchez,MS,31.56,-91.40
+100265,Mease Countryside Hospital,Safety Harbor,FL,28.04,-82.71
+100266,Gulf Breeze Hospital,Gulf Breeze,FL,30.36,-87.16
+100267,Englewood Community Hospital,Englewood,FL,26.95,-82.33
+50131,Novato Community Hospital,Novato,CA,38.10,-122.56
+100268,West Boca Medical Center,Boca Raton,FL,26.36,-80.20
+100269,Palms West Hospital,Loxahatchee,FL,26.68,-80.25
+50132,San Gabriel Valley Medical Center,San Gabriel,CA,34.10,-118.11
+100275,Wellington Regional Medical Center,Wellington,FL,26.65,-80.20
+100276,Broward Health Coral Springs,Coral Springs,FL,26.27,-80.26
+10029,East Alabama Medical Center And Snf,Opelika,AL,32.64,-85.40
+10032,Wedowee Hospital,Wedowee,AL,33.32,-85.49
+50133,Rideout Memorial Hospital,Marysville,CA,39.14,-121.59
+100277,Douglas Gardens Hospital,Miami,FL,25.82,-80.19
+100281,Memorial Hospital West,Pembroke Pines,FL,26.01,-80.31
+100284,Westchester General Hospital,Miami,FL,25.75,-80.32
+100285,Memorial Hospital Miramar,Miramar,FL,25.99,-80.38
+100286,Physicians Regional Medical Center - Pine Ridge,Naples,FL,26.21,-81.73
+100287,Good Samaritan Medical Center,West Palm Beach,FL,26.70,-80.05
+50135,Hollywood Community Hospital Of Hollywood,Hollywood,CA,34.10,-118.33
+190175,River Parishes Hospital,Laplace,LA,30.07,-90.52
+100288,St Mary's Medical Center,West Palm Beach,FL,26.76,-80.06
+190184,Citizens Medical Center,Columbia,LA,32.16,-92.09
+100289,Cleveland Clinic Hospital,Weston,FL,26.08,-80.36
+100290,"Villages Regional Hospital, The",The Villages,FL,28.95,-81.96
+100291,Wuesthoff Medical Center - Melbourne,Melbourne,FL,28.11,-80.67
+100292,Sacred Heart Hospital On The Emerald Coast,Miramar Beach,FL,30.38,-86.31
+100296,Doctors Hospital Inc,Coral Gables,FL,25.72,-80.27
+10033,University Of Alabama Hospital,Birmingham,AL,33.51,-86.80
+100299,Lakewood Ranch Medical Center,Bradenton,FL,27.39,-82.43
+50136,Petaluma Valley Hospital,Petaluma,CA,38.25,-122.63
+100302,St Cloud Regional Medical Center,Saint Cloud,FL,28.24,-81.30
+10034,Community Hospital Inc,Tallassee,AL,32.53,-85.91
+10035,Cullman Regional Medical Center,Cullman,AL,34.21,-86.87
+10038,Stringfellow Memorial Hospital,Anniston,AL,33.67,-85.83
+40014,White County Medical Center,Searcy,AR,35.25,-91.71
+110001,Hamilton Medical Center,Dalton,GA,34.79,-84.98
+10039,Huntsville Hospital,Huntsville,AL,34.72,-86.58
+50017,Mercy General Hospital,Sacramento,CA,38.57,-121.45
+110002,Upson Regional Medical Center,Thomaston,GA,32.89,-84.33
+110003,Satilla Regional Medical Center,Waycross,GA,31.23,-82.35
+110004,Hutcheson Medical Center,Fort Oglethorpe,GA,34.95,-85.26
+110005,Northside Hospital Forsyth,Cumming,GA,34.18,-84.14
+260011,St Marys Health Center,Jefferson City,MO,38.58,-92.17
+110006,St Mary's Hospital,Athens,GA,33.95,-83.41
+10040,Gadsden Regional Medical Center,Gadsden,AL,34.01,-85.97
+110007,Phoebe Putney Memorial Hospital,Albany,GA,31.59,-84.16
+110008,Northside Hospital Cherokee,Canton,GA,34.25,-84.49
+110010,Emory University Hospital,Atlanta,GA,33.79,-84.32
+10043,Chilton Medical Center,Clanton,AL,32.85,-86.62
+110011,Tanner Medical Center - Carrollton,Carrollton,GA,33.57,-85.08
+200002,Miles Memorial Hospital (Lincoln County Healthcare,Damariscotta,ME,44.03,-69.53
+110015,Tanner Medical Center Villa Rica,Villa Rica,GA,33.74,-84.92
+40015,Mena Regional Health System,Mena,AR,34.59,-94.22
+110016,West Georgia Medical Center,Lagrange,GA,33.03,-85.06
+110018,Newton Medical Center,Covington,GA,33.60,-83.85
+110023,Gordon Hospital,Calhoun,GA,34.51,-84.92
+110024,Candler Hospital,Savannah,GA,32.03,-81.10
+110025,Southeast Georgia Health System- Brunswick Campus,Brunswick,GA,31.17,-81.49
+110027,Cobb Memorial Hospital,Royston,GA,34.28,-83.12
+110028,University Hospital,Augusta,GA,33.47,-81.98
+110029,"Northeast Georgia Medical Center, Inc",Gainesville,GA,34.30,-83.82
+110030,Cartersville Medical Center,Cartersville,GA,34.20,-84.79
+40017,North Arkansas Regional Medical Center,Harrison,AR,36.24,-93.11
+110031,Spalding Regional Medical Center,Griffin,GA,33.24,-84.27
+40019,Forrest City Medical Center,Forrest City,AR,35.05,-90.77
+110034,Medical College Of Ga Hospitals And Clinics,Augusta,GA,33.47,-81.99
+50145,Community Hospital Of The Monterey Peninsula,Monterey,CA,36.58,-121.91
+110035,Wellstar Kennestone Hospital,Marietta,GA,33.97,-84.55
+110036,"Memorial Health Univ Med Cen, Inc",Savannah,GA,32.03,-81.09
+110039,Trinity Hospital Of Augusta,Augusta,GA,33.47,-82.02
+110040,Northridge Medical Center,Commerce,GA,34.22,-83.47
+110042,Wellstar Paulding Hospital,Dallas,GA,33.92,-84.85
+110043,St Joseph's Hospital - Savannah,Savannah,GA,31.99,-81.15
+110045,Barrow Regional Medical Center,Winder,GA,34.01,-83.71
+110046,Clearview  Regional Medical Center,Monroe,GA,33.79,-83.74
+10044,Marion Regional Medical Center,Hamilton,AL,34.13,-87.99
+10045,Fayette Medical Center,Fayette,AL,33.71,-87.82
+110050,Murray Medical Center,Chatsworth,GA,34.78,-84.79
+110054,Floyd Medical Center,Rome,GA,34.26,-85.18
+260141,University Of Missouri Health Care,Columbia,MO,38.95,-92.33
+40020,St Bernards Medical Ctr,Jonesboro,AR,35.84,-90.70
+110059,Hart County Hospital,Hartwell,GA,34.35,-82.94
+110069,Houston Medical Center,Warner Robins,GA,32.62,-83.63
+110071,Appling Hospital,Baxley,GA,31.77,-82.36
+110074,Athens Regional Medical Center,Athens,GA,33.96,-83.40
+110075,East Georgia Regional Medical Center,Statesboro,GA,32.41,-81.77
+110076,Dekalb Medical Center,Decatur,GA,33.79,-84.28
+110078,Emory University Hospital Midtown,Atlanta,GA,33.77,-84.39
+10036,Andalusia Regional Hospital,Andalusia,AL,31.30,-86.49
+10046,Riverview Regional Medical Center,Gadsden,AL,34.00,-86.00
+110079,Grady Memorial Hospital,Atlanta,GA,33.75,-84.38
+10047,Georgiana Hospital,Georgiana,AL,31.64,-86.74
+110082,"Saint Joseph's Hospital Of Atlanta, Inc",Atlanta,GA,33.91,-84.35
+200025,Parkview Adventist Medical Center,Brunswick,ME,43.92,-69.97
+270074,P H S Indian Hospital At Browning - Blackfeet,Browning,MT,48.56,-113.01
+10049,Medical Center Enterprise,Enterprise,AL,31.32,-85.86
+110083,Piedmont Hospital,Atlanta,GA,33.81,-84.40
+50149,California Hospital Medical Center La,Los Angeles,CA,34.04,-118.27
+50150,Sierra Nevada Memorial Hospital,Grass Valley,CA,39.23,-121.05
+110086,Washington County Regional Medical Center,Sandersville,GA,33.00,-82.81
+200034,St Marys Regional Medical Center,Lewiston,ME,44.10,-70.20
+110087,Gwinnett Medical Center,Lawrenceville,GA,33.96,-84.02
+110089,Coffee Regional Medical Center,Douglas,GA,31.51,-82.86
+110091,Rockdale Medical Center,Conyers,GA,33.68,-84.00
+110092,Dodge County Hospital,Eastman,GA,32.19,-83.18
+110100,Jefferson Hospital,Louisville,GA,33.01,-82.40
+110101,Memorial Hospital Of Adel Inc,Adel,GA,31.14,-83.43
+110104,Crisp Regional Hospital,Cordele,GA,31.98,-83.78
+110107,Medical Center Of Central Georgia,Macon,GA,32.83,-83.63
+110109,Emanuel Medical Center,Swainsboro,GA,32.59,-82.35
+110111,Mcduffie Regional Medical Center,Thomson,GA,33.46,-82.51
+110112,Berrien County Hospital,Nashville,GA,31.20,-83.24
+200063,Penobscot Bay Medical Center,Rockport,ME,44.14,-69.09
+110113,Burke Medical Center,Waynesboro,GA,33.08,-82.01
+110115,Atlanta Medical Center,Atlanta,GA,33.76,-84.37
+10050,St Vincents Blount,Oneonta,AL,33.93,-86.49
+110121,Grady General Hospital,Cairo,GA,30.86,-84.20
+50153,O'Connor Hospital,San Jose,CA,37.33,-121.94
+110122,South Georgia Medical Center,Valdosta,GA,30.86,-83.29
+110124,Wayne Memorial Hospital,Jesup,GA,31.60,-81.89
+110125,Fairview Park Hospital,Dublin,GA,32.54,-82.96
+110128,Meadows Regional Medical Center,Vidalia,GA,32.21,-82.38
+110129,"St Francis Hospital, Inc",Columbus,GA,32.51,-84.96
+110130,Irwin County Hospital,Ocilla,GA,31.60,-83.25
+110132,Memorial Hospital And Manor,Bainbridge,GA,30.90,-84.55
+110142,Evans Memorial Hospital,Claxton,GA,32.16,-81.90
+110143,Wellstar Cobb Hospital,Austell,GA,33.86,-84.60
+110153,Perry Hospital,Perry,GA,32.46,-83.71
+310075,Monmouth Medical Center,Long Branch,NJ,40.30,-73.99
+110161,Northside Hospital,Atlanta,GA,33.91,-84.35
+110164,Coliseum Medical Center,Macon,GA,32.85,-83.62
+110165,Southern Regional Medical Center,Riverdale,GA,33.58,-84.39
+40022,"Nw Arkansas Hospitals, Llc",Springdale,AR,36.18,-94.14
+110168,Redmond Regional Medical Center,Rome,GA,34.28,-85.20
+110177,Doctors Hospital,Augusta,GA,33.48,-82.09
+110183,Emory-Adventist Hospital,Smyrna,GA,33.86,-84.51
+110184,Wellstar Douglas Hospital,Douglasville,GA,33.74,-84.73
+110186,Doctors Hospital,Columbus,GA,32.48,-84.99
+110187,Chestatee Regional Hospital,Dahlonega,GA,34.52,-83.98
+10051,Greene County Hospital,Eutaw,AL,32.84,-87.89
+110189,Fannin Regional Hospital,Blue Ridge,GA,34.92,-84.37
+50158,Encino Hospital Medical Center,Encino,CA,34.16,-118.49
+110191,Piedmont Henry Hospital,Stockbridge,GA,33.51,-84.23
+110192,Emory Eastside Medical Center,Snellville,GA,33.88,-84.02
+110198,North Fulton Regional Hospital,Roswell,GA,34.06,-84.32
+110201,Coliseum Northside Hospital,Macon,GA,32.87,-83.69
+110203,Wesley Woods Geriatric Hospital,Atlanta,GA,33.81,-84.34
+110205,North Georgia Medical Center,Ellijay,GA,34.68,-84.49
+50159,Ventura County Medical Center,Ventura,CA,34.28,-119.25
+110212,Smith Northview Hospital,Valdosta,GA,30.90,-83.34
+320014,Mimbres Memorial Hospital,Deming,NM,32.26,-107.75
+110215,Piedmont Fayette Hospital,Fayetteville,GA,33.45,-84.51
+110219,South Fulton Medical Center,East Point,GA,33.68,-84.43
+110225,Piedmont Mountainside Hospital Inc,Jasper,GA,34.45,-84.45
+110226,Dekalb Medical Center At Hillandale,Lithonia,GA,33.71,-84.15
+110229,"Piedmont Newnan Hospital, Inc",Newnan,GA,33.36,-84.75
+50167,San Joaquin General Hospital,French Camp,CA,37.89,-121.28
+230078,Community Hospital,Watervliet,MI,42.19,-86.25
+10059,Lawrence Medical Center,Moulton,AL,34.48,-87.29
+230197,Genesys Regional Medical Center - Health Park,Grand Blanc,MI,42.89,-83.64
+10061,Highlands Medical Center,Scottsboro,AL,34.66,-86.05
+120001,The Queens Medical Center,Honolulu,HI,21.31,-157.86
+120002,Maui Memorial Medical Center,Wailuku,HI,20.88,-156.49
+340036,Franklin Regional Medical Center,Louisburg,NC,36.10,-78.30
+120004,Wahiawa General Hospital,Wahiawa,HI,21.50,-158.03
+120005,Hilo Medical Center,Hilo,HI,19.72,-155.11
+120006,Castle Medical Center,Kailua,HI,21.38,-157.76
+120007,Kuakini Medical Center,Honolulu,HI,21.32,-157.86
+120010,Hawaii Medical Center East,Honolulu,HI,21.33,-157.85
+50189,George L Mee Memorial Hospital,King City,CA,36.21,-121.13
+10066,Florala Memorial Hospital,Florala,AL,31.00,-86.32
+120014,Wilcox Memorial Hospital,Lihue,HI,21.99,-159.36
+120019,Kona Community Hospital,Kealakekua,HI,19.52,-155.92
+120022,Straub Clinic And Hospital,Honolulu,HI,21.30,-157.85
+120026,Pali Momi Medical Center,Aiea,HI,21.38,-157.94
+120027,Hawaii Medical Center West,Ewa Beach,HI,21.37,-158.03
+120028,North Hawaii Community Hospital,Kamuela,HI,20.02,-155.67
+130002,St Lukes Magic Valley Rmc,Twin Falls,ID,42.59,-114.50
+130003,St Joseph Regional Medical Center,Lewiston,ID,46.42,-117.02
+130006,St Lukes Regional Medical Center,Boise,ID,43.61,-116.19
+130007,St Alphonsus Regional Medical Center,Boise,ID,43.61,-116.25
+130013,Saint Alphonsus Medical Center - Nampa,Nampa,ID,43.55,-116.57
+40027,Baxter Regional Medical Center,Mountain Home,AR,36.34,-92.39
+50191,St Mary Medical Center,Long Beach,CA,33.78,-118.19
+130014,West Valley Medical Center,Caldwell,ID,43.66,-116.69
+50192,Adventist Medical Center - Reedley,Reedley,CA,36.61,-119.45
+230222,Midmichigan Medical Center-Midland,Midland,MI,43.64,-84.26
+130018,Eastern Idaho Regional Medical Center,Idaho Falls,ID,43.47,-111.99
+130025,Madison Memorial Hospital,Rexburg,ID,43.83,-111.77
+130028,Portneuf Medical Center,Pocatello,ID,42.87,-112.42
+130049,Kootenai Medical Center,Coeur D'Alene,ID,47.70,-116.79
+10095,Hale County Hospital,Greensboro,AL,32.69,-87.59
+10062,Wiregrass Medical Center,Geneva,AL,31.05,-85.89
+10128,Jackson Medical Center,Jackson,AL,31.53,-87.89
+50194,Watsonville Community Hospital,Watsonville,CA,36.93,-121.79
+10065,Russell Hospital,Alexander City,AL,32.95,-85.99
+310110,Robert Wood Johnson University Hospital Hamilton,Hamilton,NJ,40.22,-74.68
+50195,Washington Hospital,Fremont,CA,37.56,-121.98
+340085,Thomasville Medical Center,Thomasville,NC,35.88,-80.08
+40029,Conway Regional Medical Center,Conway,AR,35.08,-92.46
+340090,Johnston Memorial Hospital,Smithfield,NC,35.51,-78.34
+40036,Baptist Health Medical Center North Little Rock,North Little Rock,AR,34.78,-92.22
+50196,Central Valley General Hospital,Hanford,CA,36.34,-119.65
+140001,Graham Hospital Association,Canton,IL,40.55,-90.04
+140002,Alton Memorial Hospital,Alton,IL,38.90,-90.16
+140007,Provena St Joseph Medical Center,Joliet,IL,41.53,-88.13
+40039,Arkansas Methodist Medical Center,Paragould,AR,36.05,-90.50
+140008,Loyola Gottlieb Memorial Hospital,Melrose Park,IL,41.91,-87.84
+140010,Evanston Hospital,Evanston,IL,42.07,-87.68
+140011,Herrin Hospital,Herrin,IL,37.80,-89.03
+140012,Katherine Shaw Bethea Hospital,Dixon,IL,41.84,-89.48
+140013,Proctor Hospital,Peoria,IL,40.75,-89.60
+40041,St Marys Regional Medical Center,Russellville,AR,35.28,-93.15
+240141,Fairview Northland Regional Hospital,Princeton,MN,45.56,-93.59
+140019,Shelby Memorial Hospital,Shelbyville,IL,39.41,-88.81
+140026,St Marys Hospital,Streator,IL,41.11,-88.84
+140029,Copley Memorial Hospital,Aurora,IL,41.73,-88.27
+140030,Sherman Hospital,Elgin,IL,42.07,-88.33
+140032,St Anthonys Memorial Hospital,Effingham,IL,39.13,-88.55
+50197,Sequoia Hospital,Redwood City,CA,37.48,-122.25
+140034,St Marys Hospital,Centralia,IL,38.53,-89.12
+140040,Galesburg Cottage Hospital,Galesburg,IL,40.96,-90.37
+140043,Cgh Medical Center,Sterling,IL,41.80,-89.70
+50204,Palmdale Regional Medical Center,Palmdale,CA,34.58,-118.14
+10069,Medical Center Barbour,Eufaula,AL,31.89,-85.16
+140046,Good Samaritan Regional Hlth Center,Mount Vernon,IL,38.32,-88.91
+140048,Advocate Trinity Hospital,Chicago,IL,41.73,-87.57
+340127,Granville Medical Center,Oxford,NC,36.31,-78.59
+140049,West Suburban Medical Center,Oak Park,IL,41.89,-87.78
+10148,Evergreen Medical Center,Evergreen,AL,31.43,-86.94
+140051,Skokie Hospital,Skokie,IL,42.06,-87.74
+140053,St Johns Hospital,Springfield,IL,39.81,-89.64
+140054,Macneal  Hospital,Berwyn,IL,41.83,-87.79
+140058,Passavant Area Hospital,Jacksonville,IL,39.75,-90.26
+140059,Jersey Community Hospital,Jerseyville,IL,39.11,-90.34
+40042,Crittenden Memorial Hospital,West Memphis,AR,35.14,-90.19
+140062,Palos Community Hospital,Palos Heights,IL,41.67,-87.81
+10073,Clay County Hospital,Ashland,AL,33.28,-85.82
+10078,Northeast Alabama Regional Med Center,Anniston,AL,33.66,-85.82
+140063,Rush Oak Park Hospital,Oak Park,IL,41.88,-87.80
+140064,St Mary Medical Center,Galesburg,IL,40.99,-90.36
+50205,East Valley Hospital Medical Center,Glendora,CA,34.13,-117.87
+40047,Five Rivers Medical Center,Pocahontas,AR,36.29,-91.00
+340132,Maria Parham Medical Center,Henderson,NC,36.33,-78.40
+50211,Alameda Hospital,Alameda,CA,37.76,-122.25
+50219,Coast Plaza Hospital,Norwalk,CA,33.91,-118.10
+140065,Adventist La Grange Memorial Hospital,La Grange,IL,41.80,-87.89
+140067,Saint Francis Medical Center,Peoria,IL,40.70,-89.59
+140068,Roseland Community Hospital,Chicago,IL,41.69,-87.62
+140077,Touchette Regional Hospital Inc,Centreville,IL,38.57,-90.11
+50222,Sharp Chula Vista Medical Center,Chula Vista,CA,32.62,-117.02
+40050,Ouachita County Medical Center,Camden,AR,33.58,-92.83
+140080,Rhc St Francis Hospital,Evanston,IL,42.03,-87.68
+140082,Louis A Weiss Memorial Hospital,Chicago,IL,41.97,-87.65
+320016,Gila Regional Medical Center,Silver City,NM,32.80,-108.26
+140083,Loretto Hospital,Chicago,IL,41.87,-87.76
+140084,Vista Medical Center East,Waukegan,IL,42.38,-87.83
+10079,Athens-Limestone Hospital,Athens,AL,34.80,-86.98
+50225,Feather River Hospital,Paradise,CA,39.76,-121.57
+140088,The University Of Chicago Medical Center,Chicago,IL,41.79,-87.60
+140089,Mc Donough District Hospital,Macomb,IL,40.45,-90.67
+140091,Carle Foundation Hospital,Urbana,IL,40.12,-88.22
+140093,Provena United Samaritans Medctr-Logan,Danville,IL,40.14,-87.65
+140095,Saint Anthony Hospital,Chicago,IL,41.86,-87.70
+10083,South Baldwin Regional Medical Center,Foley,AL,30.43,-87.68
+140100,Midwestern Region Med Center,Zion,IL,42.45,-87.83
+340156,Cherokee Indian Hospital Authority,Cherokee,NC,35.48,-83.32
+250015,Grenada Lake Medical Center,Grenada,MS,33.76,-89.82
+140101,Morris Hospital & Healthcare Centers,Morris,IL,41.37,-88.43
+50226,Ahmc Anaheim Regional Medical Center,Anaheim,CA,33.85,-117.93
+50228,San Francisco General Hospital,San Francisco,CA,37.76,-122.40
+250093,Bolivar Medical Center,Cleveland,MS,33.75,-90.72
+140103,St Bernard Hospital,Chicago,IL,41.78,-87.63
+140110,Ottawa Regional Hospital & Healthcare Center,Ottawa,IL,41.36,-88.82
+40051,Drew Memorial Hospital,Monticello,AR,33.61,-91.81
+250138,River Oaks Hospital,Jackson,MS,32.39,-90.11
+140113,Provena Covenant Medical Center- Urbana,Urbana,IL,40.12,-88.23
+140114,Swedish Covenant Hospital,Chicago,IL,41.98,-87.70
+140115,Thorek Memorial Hospital,Chicago,IL,41.95,-87.65
+10085,Decatur General Hospital,Decatur,AL,34.59,-86.97
+140116,Centegra Health System - Mc Henry Hospital,Mchenry,IL,42.32,-88.28
+140117,Resurrection Medical Center,Chicago,IL,41.99,-87.81
+140118,Metrosouth Medical Center,Blue Island,IL,41.66,-87.68
+10086,Northwest Medical Center,Winfield,AL,33.93,-87.82
+10087,Univ Of South Alabama Medical Center,Mobile,AL,30.71,-88.10
+140119,Rush University Medical Center,Chicago,IL,41.88,-87.67
+140120,Pekin Memorial Hospital,Pekin,IL,40.56,-89.63
+140122,Hinsdale Hospital,Hinsdale,IL,41.82,-87.92
+140124,John H Stroger Jr Hospital,Chicago,IL,41.87,-87.67
+140125,Gateway Regional Medical Center,Granite City,IL,38.70,-90.14
+140127,Bromenn Healthcare,Normal,IL,40.50,-88.99
+50230,Garden Grove Hospital & Medical Center,Garden Grove,CA,33.77,-117.91
+140130,Lake Forest Hospital,Lake Forest,IL,42.26,-87.87
+140133,Holy Cross Hospital,Chicago,IL,41.77,-87.69
+10089,Walker Baptist Medical Center,Jasper,AL,33.84,-87.24
+140135,Decatur Memorial Hospital,Decatur,IL,39.87,-88.96
+10090,Providence Hospital,Mobile,AL,30.68,-88.20
+260004,Cooper County Memorial Hospital,Boonville,MO,38.96,-92.74
+140137,Greenville Regional Hospital,Greenville,IL,38.90,-89.41
+140143,St Margarets Hospital,Spring Valley,IL,41.33,-89.19
+140145,St Josephs Hospital,Breese,IL,38.63,-89.52
+140147,Richland Memorial Hospital,Olney,IL,38.74,-88.08
+140148,Memorial Medical Center,Springfield,IL,39.81,-89.65
+140151,Sacred Heart Hospital,Chicago,IL,41.89,-87.71
+10092,D C H Regional Medical Center,Tuscaloosa,AL,33.21,-87.53
+140155,Provena St Marys Hospital,Kankakee,IL,41.12,-87.87
+140158,Mercy Hospital And Medical Center,Chicago,IL,41.85,-87.62
+140160,Fhn Memorial Hospital,Freeport,IL,42.30,-89.64
+140161,Saint James Hospital,Pontiac,IL,40.87,-88.64
+140162,St Joseph Medical Center,Bloomington,IL,40.48,-88.96
+140164,Memorial Hospital Of Carbondale,Carbondale,IL,37.73,-89.22
+140166,St Marys Hospital,Decatur,IL,39.83,-88.93
+140167,Iroquois Memorial Hospital,Watseka,IL,40.77,-87.73
+140172,Franciscan St James Health,Olympia Fields,IL,41.52,-87.71
+140174,Provena Mercy Medical Center,Aurora,IL,41.79,-88.33
+140176,Centegra Health System - Woodstock Hospital,Woodstock,IL,42.28,-88.40
+140177,Jackson Park Hospital,Chicago,IL,41.76,-87.59
+50168,St Jude Medical Center,Fullerton,CA,33.89,-117.93
+50169,Presbyterian Intercommunity Hospital,Whittier,CA,33.97,-118.05
+50174,Santa Rosa Memorial Hospital,Santa Rosa,CA,38.44,-122.70
+10054,Parkway Medical Center,Decatur,AL,34.58,-87.02
+10055,Flowers Hospital,Dothan,AL,31.24,-85.46
+10056,St Vincent's Birmingham,Birmingham,AL,33.51,-86.79
+50018,Pacific Alliance Medical Center,Los Angeles,CA,34.06,-118.24
+50179,Emanuel Medical Center Inc,Turlock,CA,37.51,-120.84
+50180,John Muir Medical Center - Walnut Creek Campus,Walnut Creek,CA,37.91,-122.04
+220084,Emerson Hospital,W Concord,MA,42.45,-71.38
+40026,St Josephs Mercy Health Center Inc,Hot Springs,AR,34.47,-93.07
+220135,Falmouth Hospital,Falmouth,MA,41.57,-70.63
+10058,Bibb Medical Center,Centreville,AL,32.95,-87.14
+140179,Little Company Of Mary Hospital,Evergreen Park,IL,41.72,-87.69
+140180,St Mary & Elizabeth Med Ctr-Division Campus,Chicago,IL,41.90,-87.68
+140181,South Shore Hospital,Chicago,IL,41.75,-87.57
+140182,Advocate Illinois Masonic Medical Center,Chicago,IL,41.94,-87.65
+140185,Memorial Hospital,Belleville,IL,38.55,-90.02
+140186,Riverside Medical Center,Kankakee,IL,41.13,-87.89
+260023,Jefferson Regional Medical Center,Crystal City,MO,38.17,-90.38
+140187,St Elizabeth Hospital,Belleville,IL,38.51,-89.99
+260025,Hannibal Regional Hospital,Hannibal,MO,39.70,-91.39
+140189,Sarah Bush Lincoln Health Center,Mattoon,IL,39.48,-88.28
+140191,Ingalls Memorial Hospital,Harvey,IL,41.61,-87.66
+260094,Skaggs Regional Medical Center,Branson,MO,36.65,-93.22
+140197,Methodist Hospital Of Chicago,Chicago,IL,41.97,-87.67
+140200,Elmhurst Memorial Hospital,Elmhurst,IL,41.86,-87.94
+140202,Advocate Condell Medical Center,Libertyville,IL,42.27,-87.96
+140206,Norwegian-American Hospital,Chicago,IL,41.90,-87.70
+310076,Saint Barnabas Medical Center,Livingston,NJ,40.76,-74.30
+140208,Advocate Christ Hospital & Medical Center,Oak Lawn,IL,41.72,-87.73
+140209,Methodist Medical Center Of Illinois,Peoria,IL,40.70,-89.60
+50231,Pomona Valley Hospital Medical Center,Pomona,CA,34.08,-117.75
+140211,Delnor Community Hospital,Geneva,IL,41.89,-88.34
+140213,Silver Cross Hospital  And Medical Centers,New Lenox,IL,41.54,-87.98
+260186,Lake Regional Health System,Osage Beach,MO,38.12,-92.68
+140217,Provena - Saint Joseph Hospital,Elgin,IL,42.04,-88.33
+140223,Advocate Lutheran General Hospital,Park Ridge,IL,42.04,-87.85
+10097,Elmore Community Hospital,Wetumpka,AL,32.55,-86.19
+140224,Saint Joseph Hospital,Chicago,IL,41.93,-87.64
+140228,Swedish American Hospital,Rockford,IL,42.27,-89.07
+140231,Edward Hospital,Naperville,IL,41.76,-88.15
+140233,Saint Anthony Medical Center,Rockford,IL,42.27,-89.01
+260200,Ssm St Joseph Hospital West,Lake Saint Louis,MO,38.80,-90.78
+20001,Providence Alaska Medical Center,Anchorage,AK,60.95,-149.17
+140234,Illinois Valley Community Hospital,Peru,IL,41.33,-89.13
+140239,Rockford Memorial Hospital,Rockford,IL,42.30,-89.10
+140240,Westlake Community Hospital,Melrose Park,IL,41.89,-87.85
+140242,Central Dupage Hospital,Winfield,IL,41.87,-88.16
+140250,Advocate South Suburban Hospital,Hazel Crest,IL,41.57,-87.69
+140251,Our Lady Of The Resurrection Med Ctr,Chicago,IL,41.95,-87.77
+10099,D W Mcmillan Memorial Hospital,Brewton,AL,31.12,-87.07
+110051,Union General Hospital,Blairsville,GA,34.89,-83.96
+140252,Northwest Community Hospital,Arlington Heights,IL,42.07,-88.00
+140258,Alexian Brothers Medical Center,Elk Grove Village,IL,42.00,-88.02
+140275,Genesis Medical Center Illini Campus,Silvis,IL,41.50,-90.42
+140276,Loyola University Medical Center,Maywood,IL,41.86,-87.83
+140280,Trinity Rock Island,Rock Island,IL,41.48,-90.57
+140288,Advocate Good Samaritan Hospital,Downers Grove,IL,41.82,-88.01
+140289,Anderson Hospital,Maryville,IL,38.74,-89.95
+140290,St Alexius Medical Center,Hoffman Estates,IL,42.05,-88.14
+140291,Advocate Good Shepherd Hospital,Barrington,IL,42.19,-88.17
+140292,Adventist Glenoaks,Glendale Heights,IL,41.91,-88.06
+140294,Crossroads Community Hospital,Mount Vernon,IL,38.31,-88.94
+140300,Provident Hospital Of Chicago,Chicago,IL,41.80,-87.61
+40055,Sparks Regional Medical Center,Fort Smith,AR,35.37,-94.42
+10100,Thomas Hospital,Fairhope,AL,30.52,-87.89
+40062,St Edward Mercy Medical Center,Fort Smith,AR,35.35,-94.35
+50232,French Hospital Medical Center,San Luis Obispo,CA,35.28,-120.65
+110095,Tift Regional Medical Center,Tifton,GA,31.47,-83.50
+50234,Sharp Coronado Hospital And Hlthcr Ctr,Coronado,CA,32.69,-117.17
+10101,Citizens Baptist Medical Center,Talladega,AL,33.44,-86.09
+50235,Providence Saint Joseph Medical Ctr,Burbank,CA,34.16,-118.33
+50236,Simi Valley Hospital & Health Care Services,Simi Valley,CA,34.29,-118.74
+40067,Magnolia Hospital,Magnolia,AR,33.28,-93.24
+10102,J Paul Jones Hospital,Camden,AL,32.00,-87.30
+50238,Methodist Hospital Of Southern Ca,Arcadia,CA,34.14,-118.04
+150001,Johnson Memorial Hospital,Franklin,IN,39.48,-86.07
+150002,Methodist Hospitals Inc,Gary,IN,41.60,-87.36
+150003,Franciscan St Elizabeth Health - Lafayette Central,Lafayette,IN,40.43,-86.88
+150004,Franciscan St Margaret Health - Hammond,Hammond,IN,41.62,-87.52
+10103,Baptist Medical Center-Princeton,Birmingham,AL,33.50,-86.85
+50239,Glendale Adventist Medical Center,Glendale,CA,34.15,-118.23
+150005,Hendricks Regional Health,Danville,IN,39.76,-86.50
+150006,Indiana University Health La Porte Hospital,La Porte,IN,41.61,-86.72
+150007,Howard Regional Health System,Kokomo,IN,40.45,-86.13
+50242,Dominican Hospital,Santa Cruz,CA,36.99,-121.98
+150008,St Catherine Hospital Inc,East Chicago,IN,41.63,-87.45
+150009,Clark Memorial Hospital,Jeffersonville,IN,38.28,-85.75
+150010,St Joseph Hospital & Health Center Inc,Kokomo,IN,40.49,-86.16
+50243,Desert Regional Medical Center,Palm Springs,CA,33.84,-116.55
+150011,Marion General Hospital,Marion,IN,40.56,-85.67
+150015,Franciscan St Anthony Health - Michigan City,Michigan City,IN,41.71,-86.90
+150017,Lutheran Hospital Of Indiana,Fort Wayne,IN,41.04,-85.24
+150021,Parkview Regional Medical Center,Fort Wayne,IN,41.19,-85.10
+150022,Franciscan St Elizabeth Health - Crawfordsville,Crawfordsville,IN,40.06,-86.91
+150023,Union Hospital Inc,Terre Haute,IN,39.49,-87.41
+150024,William N Wishard Memorial Hospital,Indianapolis,IN,39.78,-86.18
+150026,Iu Health Goshen Hospital,Goshen,IN,41.56,-85.83
+150030,Henry County Memorial Hospital,New Castle,IN,39.94,-85.36
+150033,Franciscan St Francis Health - Beech Grove,Beech Grove,IN,39.72,-86.10
+150034,St Mary Medical Center Inc,Hobart,IN,41.51,-87.26
+150035,Porter Valparaiso Hospital,Valparaiso,IN,41.47,-87.05
+150037,Hancock Regional Hospital,Greenfield,IN,39.79,-85.77
+150038,Indiana University Health Morgan Hospital Inc,Martinsville,IN,39.43,-86.41
+150042,Good Samaritan Hospital,Vincennes,IN,38.67,-87.53
+150044,Floyd Memorial Hospital And Health Services,New Albany,IN,38.30,-85.84
+150045,Dekalb Health,Auburn,IN,41.37,-85.04
+150046,Terre Haute Regional Hospital,Terre Haute,IN,39.42,-87.41
+310001,Hackensack University Medical Center,Hackensack,NJ,40.88,-74.06
+150047,St Joseph Hospital,Fort Wayne,IN,41.08,-85.15
+50245,Arrowhead Regional Medical Center,Colton,CA,34.07,-117.35
+150048,Reid Hospital & Health Care Services,Richmond,IN,39.86,-84.88
+50248,Natividad Medical Center,Salinas,CA,36.70,-121.63
+150051,Indiana University Health Bloomington Hospital,Bloomington,IN,39.16,-86.54
+150056,Indiana University Health,Indianapolis,IN,39.79,-86.16
+150058,Memorial Hospital Of South Bend,South Bend,IN,41.68,-86.25
+150059,Riverview Hospital,Noblesville,IN,40.05,-86.02
+150163,Saint Catherine Regional Hospital,Charlestown,IN,38.47,-85.67
+310010,Univ Medical Center Of Princeton At Plainsboro,Plainsboro,NJ,40.33,-74.59
+10113,Mobile Infirmary,Mobile,AL,30.70,-88.08
+50272,Redlands Community Hospital,Redlands,CA,34.04,-117.20
+50276,Contra Costa Regional Medical Center,Martinez,CA,38.01,-122.13
+50277,Pacific Hospital Of Long Beach,Long Beach,CA,33.81,-118.19
+10114,"Medical West, An Affiliate Of Uab Health System",Bessemer,AL,33.37,-86.99
+150061,Daviess Community Hospital,Washington,IN,38.66,-87.16
+50254,Marshall Medical Center (1-Rh),Placerville,CA,38.73,-120.79
+150064,Fayette Regional Health System,Connersville,IN,39.66,-85.13
+150065,Schneck Medical Center,Seymour,IN,38.96,-85.89
+150069,"King's Daughters' Hospital And Health Services,The",Madison,IN,38.74,-85.38
+150072,Memorial Hospital,Logansport,IN,40.76,-86.36
+150074,Community Hospital East,Indianapolis,IN,39.79,-86.08
+150075,Bluffton Regional Medical Center,Bluffton,IN,40.74,-85.17
+150076,Saint Joseph's Regional Medical Center - Plymouth,Plymouth,IN,41.33,-86.33
+10104,Trinity Medical Center,Birmingham,AL,33.51,-86.75
+150082,Deaconess Hospital Inc,Evansville,IN,37.98,-87.57
+150084,St Vincent Hospital & Health Services,Indianapolis,IN,39.91,-86.20
+150086,Dearborn County Hospital,Lawrenceburg,IN,39.11,-84.88
+40069,Great River Medical Center,Blytheville,AR,35.94,-89.92
+300003,Mary Hitchcock Memorial Hospital,Lebanon,NH,43.67,-72.27
+50261,Sierra View District Hospital,Porterville,CA,36.07,-119.03
+150088,Saint John's Health System,Anderson,IN,40.10,-85.68
+150089,Indiana University Health Ball Memorial Hospital,Muncie,IN,40.20,-85.41
+150090,Franciscan St Margaret Health - Dyer,Dyer,IN,41.49,-87.53
+150091,Parkview Huntington Hospital,Huntington,IN,40.90,-85.49
+150097,Major Hospital,Shelbyville,IN,39.52,-85.78
+150100,St Mary's Medical Center Of Evansville Inc,Evansville,IN,37.96,-87.50
+150101,Parkview Whitley Hospital,Columbia City,IN,41.12,-85.51
+150102,Indiana University Health Starke Hospital,Knox,IN,41.29,-86.62
+150104,Witham Health Services,Lebanon,IN,40.07,-86.47
+150109,Franciscan St Elizabeth Health - Lafayette East,Lafayette,IN,40.39,-86.84
+150112,Columbus Regional Hospital,Columbus,IN,39.22,-85.90
+40071,Jefferson Regional Medical Center,Pine Bluff,AR,34.19,-92.02
+150113,Community Hospital Of Anderson And Madison County,Anderson,IN,40.13,-85.69
+40072,Baptist Health Medical Center-Stuttgart,Stuttgart,AR,34.52,-91.56
+150115,Memorial Hospital And Health Care Center,Jasper,IN,38.39,-86.94
+150125,Community Hospital,Munster,IN,41.55,-87.51
+150126,Franciscan St Anthony Health - Crown Point,Crown Point,IN,41.40,-87.37
+150128,Community Hospital South,Indianapolis,IN,39.64,-86.13
+150129,Westview Hospital,Indianapolis,IN,39.82,-86.22
+150133,Kosciusko Community Hospital,Warsaw,IN,41.25,-85.83
+150146,Parkview Noble Hospital,Kendallville,IN,41.45,-85.29
+10108,Prattville Baptist Hospital,Prattville,AL,32.46,-86.45
+150150,Dupont Hospital Llc,Fort Wayne,IN,41.17,-85.11
+150153,St Vincent Heart Center Of Indiana Llc,Indianapolis,IN,39.94,-86.16
+150154,Indiana Heart Hospital The,Indianapolis,IN,39.90,-86.05
+150157,St Vincent Carmel Hospital Inc,Carmel,IN,39.98,-86.14
+150158,Iu Health West Hospital,Avon,IN,39.78,-86.34
+10110,Bullock County Hospital,Union Springs,AL,32.14,-85.71
+10112,Bryan W Whitfield Mem Hosp Inc,Demopolis,AL,32.50,-87.84
+50262,Ronald Reagan Ucla Medical Center,Los Angeles,CA,34.07,-118.44
+150162,Franciscan St Francis Health - Indianapolis,Indianapolis,IN,39.65,-86.08
+40074,North Metro Medical Center,Jacksonville,AR,34.87,-92.12
+320003,Alta Vista Regional Hospital,Las Vegas,NM,35.62,-105.22
+320059,Northern Navajo Medical Center,Shiprock,NM,36.73,-108.71
+10118,Vaughan Reg Med Center Parkway Campus,Selma,AL,32.43,-87.06
+10120,Monroe County Hospital,Monroeville,AL,31.48,-87.33
+10126,Troy Regional Medical Center,Troy,AL,31.78,-85.95
+330233,Brookdale Hospital Medical Center,Brooklyn,NY,40.66,-73.91
+50278,Providence Holy Cross Medical Center,Mission Hills,CA,34.28,-118.46
+50279,Hi-Desert Medical Center,Joshua Tree,CA,34.13,-116.28
+50281,Alhambra Hospital Medical Center,Alhambra,CA,34.09,-118.14
+310002,Newark Beth Israel Medical Center,Newark,NJ,40.71,-74.21
+40076,Hot Spring County Medical Center,Malvern,AR,34.36,-92.79
+40078,National Park Medical Center,Hot Springs,AR,34.49,-93.04
+160001,Marshalltown Medical & Surgical Center,Marshalltown,IA,42.05,-92.91
+160005,St Anthony Regional Hospital,Carroll,IA,42.06,-94.87
+160008,Keokuk Area Hospital,Keokuk,IA,40.41,-91.39
+160013,Trinity Muscatine,Muscatine,IA,41.43,-91.05
+160016,Trinity Regional Medical Center,Fort Dodge,IA,42.49,-94.19
+160024,Iowa Lutheran Hospital,Des Moines,IA,41.60,-93.61
+340030,Duke University Hospital,Durham,NC,36.01,-78.94
+50283,Valleycare Medical Center,Pleasanton,CA,37.70,-121.88
+160028,Alegent Health Mercy Hospital,Council Bluffs,IA,41.27,-95.84
+10129,North Baldwin Infirmary,Bay Minette,AL,30.90,-87.78
+50289,Seton Medical Center,Daly City,CA,37.68,-122.47
+160029,Mercy Hospital,Iowa City,IA,41.66,-91.53
+160030,Mary Greeley Medical Center,Ames,IA,42.03,-93.61
+160032,Skiff Medical Center,Newton,IA,41.70,-93.06
+160033,Genesis Medical Center-Davenport,Davenport,IA,41.54,-90.56
+340047,North Carolina Baptist Hospital,Winston-Salem,NC,36.09,-80.27
+50290,Saint John's Health Center,Santa Monica,CA,34.03,-118.48
+10130,St Vincent's St Clair,Pell City,AL,33.61,-86.28
+160040,Sartori Memorial Hospital,Cedar Falls,IA,42.53,-92.46
+160045,St Lukes Hospital,Cedar Rapids,IA,41.99,-91.66
+160047,Jennie Edmundson Hospital,Council Bluffs,IA,41.27,-95.84
+50022,Riverside Community Hospital,Riverside,CA,33.98,-117.38
+50291,Sutter Medical Center Of Santa Rosa,Santa Rosa,CA,38.47,-122.71
+10131,Crestwood Medical Center,Huntsville,AL,34.69,-86.57
+50292,Riverside County Regional Medical Center,Moreno Valley,CA,33.91,-117.20
+160057,Great River Medical Center,West Burlington,IA,40.81,-91.17
+160058,University Of Iowa Hospital & Clinics,Iowa City,IA,41.66,-91.55
+160064,Mercy Medical Center-North Iowa,Mason City,IA,43.15,-93.22
+160067,Covenant Medical Center,Waterloo,IA,42.46,-92.35
+50295,Mercy Hospital,Bakersfield,CA,35.37,-119.03
+160069,Mercy Medical Center-Dubuque,Dubuque,IA,42.49,-90.67
+160079,Mercy Medical Center - Cedar Rapids,Cedar Rapids,IA,41.98,-91.66
+160080,Mercy Medical Center-Clinton,Clinton,IA,41.86,-90.19
+160082,Iowa Methodist Medical Center,Des Moines,IA,41.59,-93.63
+320001,Unm Hospital,Albuquerque,NM,35.09,-106.62
+160083,Mercy Medical Center-Des Moines,Des Moines,IA,41.60,-93.62
+160089,Ottumwa Regional Health Center,Ottumwa,IA,41.03,-92.39
+310003,Palisades Medical Ctr-Ny Presbyterian Healthcare S,North Bergen,NJ,40.80,-74.00
+160101,Broadlawns Medical Center,Des Moines,IA,41.62,-93.64
+160104,Trinity Bettendorf,Bettendorf,IA,41.57,-90.52
+160110,Allen Memorial Hospital,Waterloo,IA,42.53,-92.34
+160112,Spencer Municipal Hospital,Spencer,IA,43.15,-95.14
+160117,The Finley Hospital,Dubuque,IA,42.50,-90.69
+160122,Fort Madison Community Hospital,Fort Madison,IA,40.62,-91.38
+370093,O U Medical Center,Oklahoma City,OK,35.48,-97.50
+160124,Lakes Regional Healthcare,Spirit Lake,IA,43.42,-95.13
+160146,St Lukes Regional Medical Center,Sioux City,IA,42.52,-96.41
+370103,"Sayre Memorial Hospital, Inc",Sayre,OK,41.78,-76.45
+160147,Grinnell Regional Medical Center,Grinnell,IA,41.74,-92.73
+40080,Harris Hospital,Newport,AR,35.61,-91.26
+320005,San Juan Regional Medical Center,Farmington,NM,36.72,-108.22
+310005,Hunterdon Medical Center,Flemington,NJ,40.53,-74.86
+290001,Renown Regional Medical Center,Reno,NV,39.53,-119.79
+110146,Southeast Georgia Health System- Camden Campus,Saint Marys,GA,30.78,-81.61
+50296,Hazel Hawkins Memorial Hospital,Hollister,CA,36.84,-121.39
+290003,Sunrise Hospital And Medical Center,Las Vegas,NV,36.13,-115.14
+50298,Barstow Community Hospital,Barstow,CA,34.89,-117.02
+40010,Mercy Medical Center,Rogers,AR,36.31,-94.18
+290008,Northeastern Nevada Regional Hospital,Elko,NV,40.82,-115.73
+50309,Sutter Roseville Medical Center,Roseville,CA,38.76,-121.25
+290009,Saint Mary's Regional Medical Center,Reno,NV,39.53,-119.82
+390130,Miners Medical Center,Hastings,PA,40.66,-78.71
+170001,Newman Regional Health,Emporia,KS,38.41,-96.20
+170009,Saint John Hospital,Leavenworth,KS,39.28,-94.90
+10146,Jacksonville Medical Center,Jacksonville,AL,33.78,-85.76
+170010,Mercy Hospital Independence,Independence,KS,37.22,-95.72
+170012,Salina Regional Health Center,Salina,KS,38.83,-97.61
+10149,Baptist Medical Center East,Montgomery,AL,32.37,-86.17
+170013,Hays Medical Center,Hays,KS,38.88,-99.30
+170014,Ransom Memorial Hospital,Ottawa,KS,38.60,-95.27
+170016,St Francis Health Center Inc,Topeka,KS,39.06,-95.70
+390189,Shamokin Area Community Hospital,Coal Township,PA,40.80,-76.57
+310009,Clara Maass Medical Center,Belleville,NJ,40.79,-74.18
+170017,Susan B Allen Memorial Hospital,El Dorado,KS,37.82,-96.86
+170020,Hutchinson Regional Medical Center Inc,Hutchinson,KS,38.08,-97.89
+290012,Saint Rose Dominican Hospital - De Lima,Henderson,NV,36.04,-114.98
+170023,St Catherine Hospital,Garden City,KS,37.97,-100.87
+170027,Pratt Regional Medical Center,Pratt,KS,37.64,-98.73
+170039,Sumner Regional Medical Center,Wellington,KS,37.28,-97.39
+170040,University Of Kansas Hospital,Kansas City,KS,39.06,-94.61
+170049,Olathe Medical Center,Olathe,KS,38.85,-94.82
+170058,Mercy Hospital-Fort Scott,Fort Scott,KS,37.81,-94.71
+170068,Southwest Medical Center,Liberal,KS,37.05,-100.93
+170074,Geary Community Hospital,Junction City,KS,39.01,-96.85
+170075,Mercy Hospital,Moundridge,KS,38.21,-97.52
+170086,Stormont-Vail Healthcare,Topeka,KS,39.05,-95.70
+40088,Medical Center South Arkansas,El Dorado,AR,33.22,-92.67
+290019,Carson Tahoe Regional Medical Center,Carson City,NV,39.20,-119.78
+170094,Coffey County Hospital,Burlington,KS,38.20,-95.74
+170103,Newton Medical Center,Newton,KS,38.02,-97.33
+170104,Shawnee Mission Medical Center,Shawnee Mission,KS,39.00,-94.69
+170105,Mcpherson Hospital Inc,Mcpherson,KS,38.38,-97.67
+290005,North Vista Hospital,North Las Vegas,NV,36.20,-115.12
+50300,St Mary Medical Center,Apple Valley,CA,34.54,-117.26
+290006,Banner Churchill Community Hospital,Fallon,NV,39.48,-118.77
+290007,Umc Of Southern Nevada,Las Vegas,NV,36.16,-115.17
+40084,Saline Memorial Hospital,Benton,AR,34.57,-92.59
+10139,Brookwood Medical Center,Birmingham,AL,33.46,-86.78
+10144,Springhill Medical Center,Mobile,AL,30.69,-88.13
+50301,Ukiah Valley Medical Center/Hospital D,Ukiah,CA,39.15,-123.20
+40085,Helena Regional Medical Center,Helena,AR,34.51,-90.63
+390068,Heart Of Lancaster Regional Medical Center,Lititz,PA,40.13,-76.31
+40004,Washington Regional Med Ctr At North Hills,Fayetteville,AR,36.07,-94.29
+50305,Alta Bates Summit Medical Center - Alta Bates Camp,Berkeley,CA,37.86,-122.26
+310006,"St Mary's Hospital, Passaic",Passaic,NJ,40.86,-74.14
+390097,Holy Redeemer Hospital And Medical Center,Meadowbrook,PA,40.11,-75.08
+40007,St Vincent Infirmary Medical Center,Little Rock,AR,34.75,-92.34
+50308,El Camino Hospital,Mountain View,CA,37.37,-122.08
+320017,Lovelace Women's Hospital,Albuquerque,NM,35.13,-106.59
+310008,Holy Name Medical Center,Teaneck,NJ,40.88,-74.01
+50313,Sutter Tracy Community Hospital,Tracy,CA,37.74,-121.43
+50315,Kern Medical Center,Bakersfield,CA,35.38,-118.97
+10150,L V Stabler Memorial Hospital,Greenville,AL,31.83,-86.65
+170109,Miami County Medical Center,Paola,KS,38.57,-94.85
+290021,Valley Hospital Medical Center,Las Vegas,NV,36.16,-115.17
+40091,Medical Park Hospital,Hope,AR,33.65,-93.59
+390258,St Mary Medical Center,Langhorne,PA,40.20,-74.93
+310011,Cape Regional Medical Center Inc,Cape May Court House,NJ,39.09,-74.82
+50335,Sonora Regional Medical Center,Sonora,CA,37.98,-120.37
+50336,Lodi Memorial Hospital,Lodi,CA,38.12,-121.29
+50342,Pioneers Memorial Healthcare District,Brawley,CA,32.96,-115.55
+290022,Desert Springs Hospital,Las Vegas,NV,36.11,-115.13
+50348,University Of California Irvine Med Center,Orange,CA,33.79,-117.89
+50378,Pacifica Hospital Of The Valley,Sun Valley,CA,34.24,-118.40
+180103,Central Baptist Hospital,Lexington,KY,38.02,-84.51
+180105,Monroe County Medical Center,Tompkinsville,KY,36.70,-85.68
+180106,"Clinton County Hospital, Inc",Albany,KY,36.70,-85.14
+180115,Rockcastle Reg Hospital & Respiratory Care Ctr,Mount Vernon,KY,37.36,-84.34
+180116,Jackson Purchase Medical Center,Mayfield,KY,36.76,-88.65
+180117,Parkway Regional Hospital,Fulton,KY,36.52,-88.89
+180124,Greenview Regional Hospital,Bowling Green,KY,36.97,-86.44
+180130,Baptist Hospital East,Louisville,KY,38.24,-85.64
+180132,Lake Cumberland Regional Hospital,Somerset,KY,37.09,-84.62
+50380,Good Samaritan Hospital,San Jose,CA,37.25,-121.95
+180138,Baptist Hospital Northeast,La Grange,KY,38.40,-85.37
+40134,Arkansas Heart Hospital,Little Rock,AR,34.74,-92.39
+180139,Kentucky River Medical Center,Jackson,KY,37.56,-83.37
+180141,University Of Louisville Hospital,Louisville,KY,38.25,-85.75
+50350,Beverly Hospital,Montebello,CA,34.01,-118.10
+50351,Torrance Memorial Medical Center,Torrance,CA,33.81,-118.34
+420051,Mcleod Regional Medical Center-Pee Dee,Florence,SC,34.20,-79.76
+420069,Clarendon Memorial Hospital,Manning,SC,33.70,-80.21
+420083,Mary Black Memorial Hospital,Spartanburg,SC,34.95,-81.93
+20006,Mat-Su Regional Medical Center,Palmer,AK,61.56,-149.26
+50352,Barton Memorial Hospital,South Lake Tahoe,CA,38.91,-120.00
+50353,Providence Little Company Of Mary Med Ctr Torrance,Torrance,CA,33.84,-118.36
+180001,St Elizabeth Ft Thomas,Fort Thomas,KY,39.08,-84.47
+180004,Muhlenberg Community Hospital,Greenville,KY,37.20,-87.19
+180005,Highlands Regional Medical Center,Prestonsburg,KY,37.73,-82.77
+40118,Nea Baptist Memorial Hospital,Jonesboro,AR,35.81,-90.67
+20008,Bartlett Regional Hospital,Juneau,AK,58.33,-134.46
+320018,Memorial Medical Center Inc,Las Cruces,NM,32.29,-106.73
+180009,King's Daughters' Medical Center,Ashland,KY,38.47,-82.63
+20012,Fairbanks Memorial Hospital,Fairbanks,AK,64.83,-147.74
+410006,Newport Hospital,Newport,RI,41.50,-71.30
+420019,Chester Regional Medical Center,Chester,SC,34.68,-81.18
+420068,Trmc Of Orangeburg & Calhoun,Orangeburg,SC,33.62,-80.75
+180010,Saint Joseph Hospital,Lexington,KY,38.03,-84.52
+40119,White River Medical Center,Batesville,AR,35.77,-91.63
+180011,Saint Joseph Hospital London,London,KY,37.12,-84.11
+20017,Alaska Regional Hospital,Anchorage,AK,61.21,-149.83
+180012,Hardin Memorial Hospital,Elizabethtown,KY,37.73,-85.89
+420101,Coastal Carolina Hospital,Hardeeville,SC,32.32,-81.06
+180013,The Medical Center At Bowling Green,Bowling Green,KY,37.00,-86.43
+50357,Goleta Valley Cottage Hospital,Santa Barbara,CA,34.43,-119.81
+180016,Jewish Hospital - Shelbyville,Shelbyville,KY,38.21,-85.24
+180017,T J Samson Community Hospital,Glasgow,KY,37.01,-85.90
+180020,Middlesboro Appalachian Regional Healthcare Hospit,Middlesboro,KY,36.61,-83.74
+20024,Central Peninsula General Hospital,Soldotna,AK,60.49,-151.08
+20026,Alaska Native Medical Center,Anchorage,AK,61.18,-149.80
+180021,Pineville Community Hospital,Pineville,KY,36.76,-83.71
+50359,Tulare Regional Medical Center,Tulare,CA,36.22,-119.34
+420091,Carolinas Hospital System,Florence,SC,34.20,-79.76
+180024,Spring View Hospital,Lebanon,KY,37.57,-85.26
+180025,Flaget Memorial Hospital (Member Of Saint Joseph H,Bardstown,KY,37.86,-85.52
+180027,Murray-Calloway County Hospital,Murray,KY,36.61,-88.31
+180035,St Elizabeth Medical Center North,Covington,KY,39.07,-84.50
+180036,Our Lady Of Bellefonte Hospital,Ashland,KY,38.51,-82.70
+50360,Marin General Hospital,Greenbrae,CA,37.95,-122.54
+50367,Northbay Medical Center,Fairfield,CA,38.26,-122.05
+180038,Owensboro Medical Health System,Owensboro,KY,37.77,-87.10
+180040,Jewish Hospital & St Mary's Healthcare,Louisville,KY,38.25,-85.75
+50373,Lac+Usc Medical Center,Los Angeles,CA,34.06,-118.21
+310012,Valley Hospital,Ridgewood,NJ,40.98,-74.10
+50376,Lac/Harbor-Ucla Med Center,Torrance,CA,33.83,-118.29
+180044,Pikeville Medical Center,Pikeville,KY,37.47,-82.53
+180045,St Elizabeth Florence,Florence,KY,39.01,-84.64
+180046,Bourbon Community Hospital,Paris,KY,38.22,-84.24
+180048,Ephraim Mcdowell Regional Medical Center,Danville,KY,37.64,-84.77
+180049,Pattie A Clay Regional Medical Center,Richmond,KY,37.73,-84.29
+180051,Jennie Stuart Medical Center,Hopkinsville,KY,36.86,-87.50
+310014,Cooper University Hospital,Camden,NJ,39.94,-75.12
+180056,Methodist Hospital,Henderson,KY,37.85,-87.58
+180066,Logan Memorial Hospital,Russellville,KY,36.81,-86.88
+180069,Williamson Arh Hospital,South Williamson,KY,37.68,-82.30
+180070,Twin Lakes Regional Medical Center,Leitchfield,KY,37.47,-86.29
+180078,Paul B Hall Regional Medical Center,Paintsville,KY,37.81,-82.81
+180079,Harrison Memorial Hospital,Cynthiana,KY,38.39,-84.28
+180080,Baptist Regional Medical Center,Corbin,KY,36.92,-84.11
+180087,Taylor Regional Hospital,Campbellsville,KY,37.37,-85.34
+310111,Centrastate Medical Center,Freehold,NJ,40.24,-74.31
+310081,Underwood - Memorial Hospital,Woodbury,NJ,39.84,-75.15
+180088,"Norton Hospitals, Inc",Louisville,KY,38.25,-85.75
+180092,Clark Regional Medical Center,Winchester,KY,38.00,-84.20
+180093,Regional Medical Center Of Hopkins County,Madisonville,KY,37.34,-87.49
+310015,Morristown Memorial Hospital,Morristown,NJ,40.79,-74.47
+180101,Georgetown Community Hospital,Georgetown,KY,38.19,-84.56
+180102,Lourdes Hospital,Paducah,KY,37.05,-88.65
+180143,Saint Joseph East,Lexington,KY,38.00,-84.44
+180149,Westlake Regional Hospital,Columbia,KY,37.09,-85.29
+440102,Lincoln Medical Center,Fayetteville,TN,35.15,-86.57
+440144,Harton Regional Medical Center,Tullahoma,TN,35.36,-86.21
+50382,Citrus Valley Medical Center-Ic Campus,Covina,CA,34.09,-117.89
+440001,Unicoi County Memorial Hospital,Erwin,TN,36.13,-82.41
+440006,Skyline Medical Center,Nashville,TN,36.23,-86.76
+40137,St Vincent Medical Center/North,Sherwood,AR,34.81,-92.21
+440175,Crockett Hospital,Lawrenceburg,TN,35.24,-87.33
+440046,Horizon Medical Center,Dickson,TN,36.09,-87.34
+440054,Woods Memorial Hospital,Etowah,TN,35.36,-84.52
+440057,Claiborne County Hospital,Tazewell,TN,36.44,-83.59
+440059,Cookeville Regional Medical Center,Cookeville,TN,36.17,-85.51
+440187,Livingston Regional Hospital,Livingston,TN,36.38,-85.32
+50385,Palm Drive Hospital,Sebastopol,CA,38.40,-122.82
+50390,Hemet Valley Medical Center,Hemet,CA,33.75,-116.96
+440065,Northcrest Medical Center,Springfield,TN,36.48,-86.89
+190001,Washington St Tammany  Regional Medical Center,Bogalusa,LA,30.78,-89.87
+190002,Lafayette General Medical Center,Lafayette,LA,30.20,-92.02
+190003,Dauterive Hospital,New Iberia,LA,30.01,-91.80
+450090,North Texas Medical Center,Gainesville,TX,33.64,-97.16
+190004,Thibodaux Regional Medical Center,Thibodaux,LA,29.78,-90.81
+190006,University Medical Center,Lafayette,LA,30.22,-92.05
+310016,Christ Hospital,Jersey City,NJ,40.74,-74.05
+190007,Natchitoches Regional Medical Center,Natchitoches,LA,31.75,-93.08
+450092,Fort Duncan Medical Center,Eagle Pass,TX,28.71,-100.45
+450099,Pampa Regional Medical Center,Pampa,TX,29.66,-95.20
+450101,Hillcrest Baptist Medical Center,Waco,TX,31.49,-97.16
+50393,Downey Regional Medical Center,Downey,CA,33.94,-118.13
+450214,Gulf Coast Medical Center,Wharton,TX,38.32,-95.25
+190008,Terrebonne General Medical Center,Houma,LA,29.60,-90.71
+190011,E A Conway Medical Center,Monroe,LA,32.45,-92.11
+190013,West Calcasieu Cameron Hospital,Sulphur,LA,30.23,-93.37
+190014,Teche Regional Medical Center,Morgan City,LA,29.71,-91.20
+190017,Opelousas General Health System,Opelousas,LA,30.54,-92.08
+190019,Christus St Frances Cabrini Hospital,Alexandria,LA,31.28,-92.46
+50394,Community Memorial Hospital San Buenaventura,Ventura,CA,34.27,-119.26
+50224,Hoag Memorial Hospital Presbyterian,Newport Beach,CA,33.62,-117.93
+450271,Wise Regional Health System,Decatur,TX,33.22,-97.59
+190020,Lane Regional Medical Center,Zachary,LA,30.65,-91.14
+190025,Savoy Medical Center,Mamou,LA,30.64,-92.42
+190026,Rapides Regional Medical Center,Alexandria,LA,31.31,-92.45
+190027,Christus St Patrick Hospital,Lake Charles,LA,30.22,-93.23
+310083,East Orange General Hospital,East Orange,NJ,40.75,-74.21
+450292,Texas Health Presbyterian Hospital Kaufman,Kaufman,TX,32.59,-96.31
+190034,Abbeville General Hospital,Abbeville,LA,29.97,-92.11
+190036,Ochsner Foundation Hospital,New Orleans,LA,29.96,-90.15
+190039,West Jefferson Medical Center,Marrero,LA,29.89,-90.10
+30001,Maryvale Hospital,Phoenix,AZ,33.50,-112.17
+190040,Slidell Memorial Hospital,Slidell,LA,30.28,-89.77
+30002,Banner Good Samaritan Medical Center,Phoenix,AZ,33.47,-112.06
+190041,Christus Schumpert Health System,Shreveport,LA,32.49,-93.75
+50396,Santa Barbara Cottage Hospital,Santa Barbara,CA,34.43,-119.72
+190044,American Legion Hospital,Crowley,LA,30.23,-92.36
+450293,Frio Regional Hospital,Pearsall,TX,28.74,-99.15
+190045,St Tammany Parish Hospital,Covington,LA,30.47,-90.11
+50534,"John F Kennedy Memorial Hospital, Inc",Indio,CA,33.70,-116.23
+190046,Touro Infirmary,New Orleans,LA,29.93,-90.09
+190050,Beauregard Memorial Hospital,Deridder,LA,30.84,-93.29
+30006,Tucson Medical Center,Tucson,AZ,32.25,-110.88
+450369,Childress Regional Medical Center,Childress,TX,34.49,-100.19
+50397,Coalinga Regional Medical Center,Coalinga,CA,36.15,-120.34
+190053,Jennings American Legion Hospital,Jennings,LA,30.24,-92.66
+50407,Chinese Hospital,San Francisco,CA,37.80,-122.41
+190054,Iberia General Hospital And Medical Center,New Iberia,LA,29.99,-91.78
+290032,Northern Nevada Medical Center,Sparks,NV,39.54,-119.70
+190060,Lake Charles Memorial Hospital,Lake Charles,LA,30.20,-93.20
+190064,Our Lady Of The Lake Regional Medical Center,Baton Rouge,LA,30.40,-91.11
+190065,Baton Rouge General Medical Center,Baton Rouge,LA,30.45,-91.15
+190079,St Charles Parish Hospital,Luling,LA,29.93,-90.37
+190081,West Carroll Memorial Hospital,Oak Grove,LA,32.87,-91.38
+190086,Northern Louisiana Medical Center,Ruston,LA,32.52,-92.63
+310017,Chilton Hospital,Pompton Plains,NJ,40.96,-74.31
+190088,Springhill Medical Center,Springhill,LA,33.01,-93.44
+450558,Abilene Regional Medical Center,Abilene,TX,32.36,-99.74
+190090,Winn Parish Medical Center,Winnfield,LA,31.92,-92.65
+190098,Lsu Health Sciences Center - Shreveport,Shreveport,LA,32.48,-93.76
+190099,Avoyelles Hospital,Marksville,LA,31.14,-92.06
+450641,Nocona General Hospital,Nocona,TX,33.78,-97.73
+190102,"Our Lady Of Lourdes Regional Medical Center, Inc",Lafayette,LA,30.15,-92.04
+190106,Oakdale Community Hospital,Oakdale,LA,30.82,-92.64
+30007,Verde Valley Medical Center,Cottonwood,AZ,34.73,-112.03
+310019,St Joseph's Regional Medical Center,Paterson,NJ,40.90,-74.17
+190111,Willis Knighton Medical Center,Shreveport,LA,32.48,-93.78
+470001,Central Vermont Medical Center,Barre,VT,44.20,-72.50
+190114,Homer Memorial Hospital,Homer,LA,32.79,-93.06
+190116,Morehouse General Hospital,Bastrop,LA,32.78,-91.92
+290039,Mountainview Hospital,Las Vegas,NV,36.22,-115.25
+190118,Desoto Regional Health System,Mansfield,LA,32.04,-93.71
+50414,Mercy Hospital Of Folsom,Folsom,CA,38.67,-121.15
+190125,St Francis Medical Center,Monroe,LA,32.50,-92.11
+450658,East Texas Medical Center - Fairfield,Fairfield,TX,31.72,-96.17
+190133,Allen Parish Hospital,Kinder,LA,30.49,-92.85
+190135,Ochsner Baptist Medical Center Llc,New Orleans,LA,29.94,-90.10
+50417,Sutter Coast Hospital,Crescent City,CA,41.77,-124.19
+190140,Franklin Medical Center,Winnsboro,LA,32.16,-91.71
+190144,Minden Medical Center,Minden,LA,32.62,-93.29
+30010,Carondelet St  Marys Hospital,Tucson,AZ,32.23,-111.00
+190146,East Jefferson General Hospital,Metairie,LA,30.01,-90.18
+450677,Huguley Health System,Fort Worth,TX,32.68,-97.32
+190151,Richardson Medical Center,Rayville,LA,32.47,-91.75
+190160,Glenwood Regional Medical Center,West Monroe,LA,32.51,-92.16
+190164,Byrd Regional Hospital,Leesville,LA,31.14,-93.27
+190167,Mercy Regional Medical Center,Ville Platte,LA,30.68,-92.27
+30011,Carondelet St Josephs Hospital,Tucson,AZ,32.23,-110.86
+30012,Yavapai Regional Medical Center,Prescott,AZ,34.56,-112.48
+190176,Tulane Medical Center,New Orleans,LA,29.96,-90.08
+30013,Yuma Regional Medical Center,Yuma,AZ,32.68,-114.63
+190183,Leonard J Chabert Medical Center,Houma,LA,29.57,-90.69
+290041,Summerlin Hospital Medical Center,Las Vegas,NV,36.17,-115.32
+10152,Infirmary West,Mobile,AL,30.62,-88.17
+170110,Bob Wilson Memorial Grant County Hospital,Ulysses,KS,37.58,-101.36
+170120,Labette Health,Parsons,KS,37.32,-95.26
+170122,Via Christi Hospitals Wichita Inc,Wichita,KS,37.70,-97.33
+170123,Wesley Medical Center,Wichita,KS,37.70,-97.30
+170133,Cushing Memorial Hospital,Leavenworth,KS,39.31,-94.92
+170137,Lawrence Memorial Hospital,Lawrence,KS,38.98,-95.25
+170142,Mercy Regional Health Center,Manhattan,KS,39.20,-96.60
+170145,Coffeyville Regional Medical Center,Coffeyville,KS,37.04,-95.64
+170146,Providence Medical Center,Kansas City,KS,39.13,-94.79
+170150,South Central Ks  Med Center,Arkansas City,KS,37.13,-97.04
+170166,Morton County Hospital,Elkhart,KS,37.00,-101.90
+170175,Western Plains Medical Complex,Dodge City,KS,37.79,-100.01
+170176,Overland Park Reg Med Ctr,Overland Park,KS,38.94,-94.73
+170182,Menorah Medical Center,Overland Park,KS,38.91,-94.65
+170185,Saint Luke's South Hospital,Overland Park,KS,38.90,-94.67
+170186,Kansas Heart Hospital,Wichita,KS,37.75,-97.23
+420011,Cannon Memorial Hospital,Pickens,SC,34.88,-82.71
+170192,Galichia Heart Hospital Llc,Wichita,KS,37.76,-97.26
+420020,Georgetown Memorial Hospital,Georgetown,SC,33.38,-79.29
+10157,Shoals Hospital,Muscle Shoals,AL,34.74,-87.68
+10158,Russellville Hospital,Russellville,AL,34.51,-87.72
+50320,Alameda County Medical Center,Oakland,CA,37.80,-122.23
+50324,Scripps Memorial Hospital La Jolla,La Jolla,CA,32.89,-117.22
+10164,Coosa Valley Medical Center,Sylacauga,AL,33.17,-86.25
+50327,Loma Linda University Medical Center,Loma Linda,CA,34.05,-117.26
+420038,Laurens County Healthcare System,Clinton,SC,34.47,-81.88
+10168,Jack Hughston Memorial Hospital,Phenix City,AL,32.51,-85.01
+420048,Kershaw Health,Camden,SC,34.25,-80.61
+50329,Corona Regional Medical Center,Corona,CA,33.87,-117.57
+50334,Salinas Valley Memorial Hospital,Salinas,CA,36.66,-121.65
+50423,Palo Verde Hospital,Blythe,CA,33.61,-114.60
+190202,Ochsner Medical Center-Baton Rouge,Baton Rouge,LA,30.44,-91.01
+190204,"Ochsner Medical Center - Northshore, Llc",Slidell,LA,30.29,-89.75
+190205,The Regional Medical Center Of Acadiana,Lafayette,LA,30.20,-92.08
+190208,East Carroll Parish Hospital,Lake Providence,LA,32.81,-91.17
+50424,Scripps Green Hospital,La Jolla,CA,32.90,-117.24
+190218,Sabine Medical Center,Many,LA,31.56,-93.47
+190236,Willis Knighton Bossier Health Center,Bossier City,LA,32.56,-93.72
+50426,West Anaheim Medical Center,Anaheim,CA,33.83,-117.99
+30014,John C Lincoln North Mountain Hospital,Phoenix,AZ,33.57,-112.07
+190242,St Elizabeth Hospital,Gonzales,LA,30.21,-90.93
+190250,"Louisiana Medical Center And Heart Hospital, Llc",Lacombe,LA,30.35,-89.92
+50024,Paradise Valley Hospital,National City,CA,32.68,-117.08
+30022,Maricopa Medical Center,Phoenix,AZ,33.46,-112.03
+190274,Ochsner Medical Center-Kenner Llc,Kenner,LA,30.02,-90.27
+50434,Colusa Regional Medical Center,Colusa,CA,39.21,-122.00
+510030,Davis Memorial Hospital,Elkins,WV,38.93,-79.85
+30023,Flagstaff Medical Center,Flagstaff,AZ,35.21,-111.65
+50435,Fallbrook Hospital,Fallbrook,CA,33.38,-117.24
+50438,Huntington Memorial Hospital,Pasadena,CA,34.13,-118.15
+30024,St Joseph's Hospital And Medical Center,Phoenix,AZ,33.48,-112.08
+30030,Phoenix Baptist Hospital,Phoenix,AZ,33.53,-112.10
+200001,St Joseph Hospital,Bangor,ME,44.81,-68.77
+200008,Mercy Hospital,Portland,ME,43.65,-70.26
+200009,Maine Medical Center,Portland,ME,43.65,-70.28
+200018,"Aroostook Medical Center,The",Presque Isle,ME,46.68,-68.00
+200019,Southern Maine Medical Center,Biddeford,ME,43.48,-70.49
+200020,York Hospital,York,ME,43.14,-70.65
+200021,Mid Coast Hospital,Brunswick,ME,43.91,-69.90
+200024,Central Maine Medical Center,Lewiston,ME,44.10,-70.21
+310021,St Francis Medical Center,Trenton,NJ,40.22,-74.74
+200033,Eastern Maine Medical Center,Bangor,ME,44.81,-68.75
+200039,Maine General Medical Center,Augusta,ME,44.31,-69.77
+50441,Stanford Hospital,Stanford,CA,37.43,-122.18
+200040,Henrietta D Goodall Hospital,Sanford,ME,43.45,-70.77
+200041,Inland Hospital,Waterville,ME,44.54,-69.66
+200050,Maine Coast Memorial Hospital,Ellsworth,ME,44.55,-68.42
+200052,Northern Maine Medical Center,Fort Kent,ME,47.27,-68.59
+50444,Mercy Medical Center,Merced,CA,37.34,-120.47
+290045,Saint Rose Dominican Hospital - Siena Campus,Henderson,NV,36.00,-115.12
+30033,Payson Regional Medical Center,Payson,AZ,34.25,-111.32
+60112,Sky Ridge Medical Center,Lone Tree,CO,36.16,-115.31
+50448,Ridgecrest Regional Hospital,Ridgecrest,CA,35.64,-117.67
+50455,San Joaquin Community Hospital,Bakersfield,CA,35.38,-119.02
+310024,Robert Wood Johnson University Hospital At Rahway,Rahway,NJ,40.61,-74.29
+50457,St Mary's Medical Center,San Francisco,CA,37.77,-122.45
+310025,Bayonne Hospital Center,Bayonne,NJ,40.67,-74.11
+310112,Bayshore Community Hospital,Holmdel,NJ,40.41,-74.19
+50464,Doctors Medical Center,Modesto,CA,37.67,-121.00
+30036,Chandler Regional Medical Center,Chandler,AZ,33.30,-111.87
+30037,St Lukes Medical Center,Phoenix,AZ,33.45,-112.04
+310027,Trinitas Regional Medical Center,Elizabeth,NJ,40.66,-74.21
+310028,Newton Memorial Hospital,Newton,NJ,41.06,-74.77
+220001,"Healthalliance Hospitals, Inc",Leominster,MA,42.54,-71.76
+220002,Mount Auburn Hospital,Cambridge,MA,42.37,-71.13
+220008,Sturdy Memorial Hospital,Attleboro,MA,41.94,-71.27
+220010,Lawrence General Hospital,Lawrence,MA,42.71,-71.15
+50468,Memorial Hospital Of Gardena,Gardena,CA,33.89,-118.30
+220011,Cambridge Health Alliance,Cambridge,MA,42.38,-71.12
+220012,Cape Cod Hospital,Hyannis,MA,41.65,-70.27
+220015,"Cooley Dickinson Hospital Inc,The",Northampton,MA,42.33,-72.65
+220016,Baystate Franklin Medical Center,Greenfield,MA,42.60,-72.59
+220017,Carney Hospital,Boston,MA,42.28,-71.07
+220019,Harrington Memorial Hospital,Southbridge,MA,42.08,-72.04
+460010,Intermountain Medical Center,Murray,UT,40.66,-111.89
+220020,Saint Anne's Hospital,Fall River,MA,41.69,-71.16
+290046,Spring Valley Hospital Medical Center,Las Vegas,NV,36.09,-115.24
+220024,Holyoke Medical Center,Holyoke,MA,42.20,-72.63
+220029,Anna Jaques Hospital,Newburyport,MA,42.81,-70.89
+220030,Wing Memorial Hospital And Medical Center,Palmer,MA,42.17,-72.34
+220031,Boston Medical Center Corporation,Boston,MA,42.33,-71.07
+220033,Beverly Hospital Corporation,Beverly,MA,42.56,-70.88
+290047,Southern Hills Hospital And Medical Center,Las Vegas,NV,36.07,-115.30
+310113,Southern Ocean Medical Center,Manahawkin,NJ,39.72,-74.28
+310029,Our Lady Of Lourdes Medical Center,Camden,NJ,39.93,-75.10
+220035,North Shore Medical Center,Salem,MA,42.51,-70.91
+220036,St Elizabeth's Medical Center,Brighton,MA,42.35,-71.15
+220046,Berkshire Medical Center Inc,Pittsfield,MA,42.46,-73.25
+310031,Deborah Heart And Lung Center,Browns Mills,NJ,39.98,-74.59
+220049,Marlborough Hospital,Marlborough,MA,42.35,-71.55
+220050,Baystate Mary Lane Hospital,Ware,MA,42.25,-72.24
+220051,North Adams Regional Hospital,North Adams,MA,42.71,-73.11
+220058,Clinton Hospital Association,Clinton,MA,42.43,-71.69
+220060,Jordan Hospital Inc,Plymouth,MA,41.94,-70.65
+220063,Lowell General Hospital,Lowell,MA,42.65,-71.34
+460021,Dixie Regional Medical Center,St George,UT,37.10,-113.55
+220065,Noble Hospital,Westfield,MA,42.12,-72.76
+220066,Mercy Medical Center,Springfield,MA,42.11,-72.60
+220067,Quincy Medical Center,Quincy,MA,42.25,-71.01
+220070,Hallmark Health System,Melrose,MA,42.46,-71.06
+220071,Massachusetts General Hospital,Boston,MA,42.36,-71.07
+220073,Morton Hospital,Taunton,MA,41.91,-71.09
+220074,"Southcoast Hospital Group, Inc",Fall River,MA,41.71,-71.15
+220077,Baystate Medical Center,Springfield,MA,42.12,-72.61
+310032,South Jersey Healthcare Regional Medical Center,Vineland,NJ,39.45,-75.06
+220080,Holy Family Hospital,Methuen,MA,42.73,-71.17
+220082,Saints  Medical Center Inc,Lowell,MA,42.65,-71.30
+220083,Beth Israel Deaconess Hospital - Needham,Needham,MA,42.28,-71.24
+490002,Russell County Medical Center,Lebanon,VA,36.90,-82.08
+220086,Beth Israel Deaconess Medical Center,Boston,MA,42.34,-71.11
+220088,New England Baptist Hospital,Boston,MA,42.33,-71.11
+220090,Milford Regional Medical Center,Milford,MA,42.13,-71.53
+220095,Heywood Hospital,Gardner,MA,42.59,-71.99
+220098,Nashoba Valley Medical Center,Ayer,MA,42.58,-71.57
+50471,Good Samaritan Hospital,Los Angeles,CA,34.05,-118.27
+220100,South Shore Hospital,South Weymouth,MA,42.18,-70.95
+490012,Lee Regional Medical Center,Pennington Gap,VA,36.75,-83.05
+220101,Newton-Wellesley Hospital,Newton,MA,42.33,-71.25
+50481,West Hills Hospital & Medical Center,West Hills,CA,34.20,-118.63
+220105,Winchester Hospital,Winchester,MA,42.47,-71.12
+220108,Milton Hospital Inc,Milton,MA,42.25,-71.08
+50485,Long Beach Memorial Medical Center,Long Beach,CA,33.81,-118.19
+30038,Scottsdale Healthcare-Osborn Medical Center,Scottsdale,AZ,33.49,-111.92
+310034,Riverview Medical Center,Red Bank,NJ,40.35,-74.06
+490013,Halifax Regional Hospital,Halifax,VA,36.71,-78.91
+290049,Renown South Meadows Medical Center,Reno,NV,39.44,-119.76
+50488,Eden Medical Center,Castro Valley,CA,37.70,-122.09
+220110,Brigham And Women's Hospital,Boston,MA,42.34,-71.11
+220111,Good Samaritan Medical Center,Brockton,MA,42.10,-71.07
+50492,Clovis Community Medical Center,Clovis,CA,36.84,-119.66
+30043,Sierra Vista Regional Health Center Inc,Sierra Vista,AZ,31.55,-110.27
+220116,Tufts Medical Center,Boston,MA,42.35,-71.06
+220119,Faulkner Hospital,Boston,MA,42.30,-71.13
+220126,Norwood Hospital,Norwood,MA,42.19,-71.20
+310038,Robert Wood Johnson University Hospital,New Brunswick,NJ,40.50,-74.45
+220163,Umass Memorial Medical Center Inc,Worcester,MA,42.28,-71.76
+220171,Lahey Clinic Hospital,Burlington,MA,42.49,-71.21
+220174,Merrimack Valley Hospital,Haverhill,MA,42.76,-71.05
+220175,Metrowest Medical Center,Framingham,MA,42.28,-71.42
+220176,St Vincent Hospital,Worcester,MA,42.27,-71.80
+490018,Augusta Health,Fishersville,VA,38.09,-78.99
+490027,Mountain View Regional Medical Center,Norton,VA,36.94,-82.62
+230002,St Mary Mercy Hospital,Livonia,MI,42.39,-83.41
+230003,Spectrum Health Zeeland Community Hospital,Zeeland,MI,42.82,-85.99
+230004,"Mercy Health Partners, Mercy Campus",Muskegon,MI,43.21,-86.21
+230005,Emma L Bixby Medical Center,Adrian,MI,41.91,-84.05
+230013,Doctors' Hospital Of Michigan,Pontiac,MI,42.63,-83.31
+230015,Three Rivers Health,Three Rivers,MI,41.93,-85.65
+230017,Bronson Methodist Hospital,Kalamazoo,MI,42.29,-85.58
+230019,Providence Hospital And Medical Centers,Southfield,MI,42.46,-83.21
+490038,Smyth County Community Hospital,Marion,VA,36.87,-81.52
+230020,Oakwood Hospital And Medical Center,Dearborn,MI,42.29,-83.21
+230021,"Lakeland Hospital, St Joseph",St Joseph,MI,42.09,-86.48
+50496,John Muir Medical Center - Concord Campus,Concord,CA,37.98,-122.03
+490119,Sentara Princess Anne Hospital,Virginia Beach,VA,36.78,-76.10
+230022,Community Health Center Of Branch County,Coldwater,MI,41.94,-84.99
+230024,Sinai-Grace Hospital,Detroit,MI,42.42,-83.18
+320021,Presbyterian Hospital,Albuquerque,NM,35.08,-106.64
+230029,St Joseph Mercy Oakland,Pontiac,MI,42.61,-83.28
+230030,Midmichigan Medical Center-Gratiot,Alma,MI,43.39,-84.66
+230031,St Joseph Mercy Port Huron,Port Huron,MI,42.96,-82.43
+230035,Spectrum Health United Memorial - United Campus,Greenville,MI,43.18,-85.27
+230036,Alpena Regional Medical Center,Alpena,MI,45.08,-83.45
+230037,Hillsdale Community Health Center,Hillsdale,MI,41.91,-84.63
+230038,Spectrum Health - Butterworth Campus,Grand Rapids,MI,42.97,-85.67
+230040,Pennock Hospital,Hastings,MI,42.64,-85.31
+230041,Mclaren Bay Region,Bay City,MI,43.59,-83.87
+230046,University Of Michigan Health System,Ann Arbor,MI,42.28,-83.73
+230047,Henry Ford Macomb Hospital,Clinton Township,MI,42.61,-82.96
+230053,Henry Ford Hospital,Detroit,MI,42.37,-83.08
+490126,Lewisgale Hospital Alleghany,Low Moor,VA,37.79,-79.88
+230054,Marquette General Hospital,Marquette,MI,46.55,-87.39
+230055,Dickinson County Memorial Hospital,Iron Mountain,MI,45.81,-88.04
+230058,Mercy Hospital - Grayling,Grayling,MI,44.67,-84.71
+230059,Saint Mary's Health Care,Grand Rapids,MI,42.96,-85.66
+230066,"Mercy Health Partners, Hackley Campus",Muskegon,MI,43.22,-86.24
+230069,Saint Joseph Mercy Livingston Hospital,Howell,MI,42.62,-83.94
+230070,"Covenant Medical Center, Inc",Saginaw,MI,43.43,-83.95
+230072,Holland Community Hospital,Holland,MI,42.77,-86.11
+230075,Bronson Battle Creek Hospital,Battle Creek,MI,42.33,-85.18
+230077,St Mary's Of Michigan Medical Center,Saginaw,MI,43.43,-83.94
+230080,Central Michigan Community Hospital,Mount Pleasant,MI,43.60,-84.76
+230081,Mercy Hospital - Cadillac,Cadillac,MI,44.25,-85.39
+30055,Kingman Regional Medical Center,Kingman,AZ,35.22,-114.04
+230085,South Haven Community Hospital,South Haven,MI,42.39,-86.26
+230089,"Beaumont Hospital, Grosse Pointe",Grosse Pointe,MI,42.38,-82.91
+30061,Banner Boswell Medical Center,Sun City,AZ,33.60,-112.28
+230092,Allegiance Health,Jackson,MI,42.25,-84.39
+490127,Buchanan General Hospital,Grundy,VA,37.29,-82.06
+230093,Mecosta County Medical Center,Big Rapids,MI,43.69,-85.47
+230095,West Branch Regional Medical Center,West Branch,MI,44.26,-84.25
+230096,Sturgis Hospital,Sturgis,MI,41.79,-85.41
+490136,Bon Secours - St Francis Medical Center,Midlothian,VA,37.47,-77.66
+230097,Munson Medical Center,Traverse City,MI,44.76,-85.64
+230099,Mercy Memorial Hospital System,Monroe,MI,41.93,-83.39
+230100,Tawas St Joseph Hospital,Tawas City,MI,44.28,-83.51
+230101,St Francis Hospital,Escanaba,MI,45.75,-87.10
+230104,Harper University Hospital,Detroit,MI,42.35,-83.06
+230105,Northern Michigan Regional Hospital,Petoskey,MI,45.37,-84.97
+230106,Spectrum Health Gerber Memorial,Fremont,MI,43.47,-85.95
+50498,Sutter Auburn Faith Hospital,Auburn,CA,38.94,-121.10
+230108,Portage Health Hospital,Hancock,MI,47.14,-88.59
+230110,Memorial Medical Center Of West Michigan,Ludington,MI,43.96,-86.43
+230117,Borgess Medical Center,Kalamazoo,MI,42.31,-85.56
+230118,Huron Medical Center,Bad Axe,MI,43.80,-83.05
+230121,Memorial Healthcare,Owosso,MI,43.01,-84.18
+230130,William Beaumont Hospital,Royal Oak,MI,42.51,-83.19
+230132,Hurley Medical Center,Flint,MI,43.02,-83.70
+230133,Otsego Memorial Hospital,Gaylord,MI,45.03,-84.67
+230141,Mclaren Flint,Flint,MI,43.02,-83.73
+230142,Oakwood Annapolis Hospital,Wayne,MI,42.27,-83.37
+50502,Saint Vincent Medical Center,Los Angeles,CA,34.06,-118.27
+30062,Summit Healthcare Regional Medical Center,Show Low,AZ,34.20,-110.02
+230146,Henry Ford Wyandotte Hospital,Wyandotte,MI,42.21,-83.15
+230151,Botsford Hospital,Farmington Hills,MI,42.44,-83.32
+230156,St Joseph Mercy Hospital,Ann Arbor,MI,42.33,-83.82
+230165,St John Hospital And Medical Center,Detroit,MI,42.42,-82.91
+230167,Mclaren - Greater Lansing,Lansing,MI,42.70,-84.55
+230174,North Ottawa Community Hospital,Grand Haven,MI,43.05,-86.23
+230176,Oakwood Southshore Medical Center,Trenton,MI,42.12,-83.21
+230180,Midmichigan Medical Center-Clare,Clare,MI,43.82,-84.77
+230193,Mclaren Lapeer Region,Lapeer,MI,43.06,-83.32
+50503,Scripps Memorial Hospital - Encinitas,Encinitas,CA,33.04,-117.28
+230195,St John Macomb-Oakland Hospital-Macomb Center,Warren,MI,42.51,-83.00
+230207,Mclaren Oakland,Pontiac,MI,42.64,-83.29
+230208,Carson City Hospital,Carson City,MI,43.18,-84.84
+310039,Raritan Bay Medical Center,Perth Amboy,NJ,40.52,-74.28
+50506,Sierra Vista Regional Medical Center,San Luis Obispo,CA,35.29,-120.67
+230216,Port Huron Hospital,Port Huron,MI,42.99,-82.43
+30064,"University Of Arizona Medical Ctr-University, The",Tucson,AZ,32.24,-110.94
+230217,Oaklawn Hospital,Marshall,MI,42.27,-84.96
+30065,Banner Desert Medical Center,Mesa,AZ,33.39,-111.88
+320022,Plains Regional Medical Center  Clovis,Clovis,NM,34.42,-103.23
+230227,Mount Clemens Regional Medical Center,Mount Clemens,MI,42.59,-82.90
+230230,Edward W Sparrow Hospital,Lansing,MI,42.73,-84.54
+230236,Metro Health Hospital,Wyoming,MI,42.86,-85.72
+230239,Chippewa County War Memorial Hospital,Sault Sainte Marie,MI,46.50,-84.35
+40016,Uams Medical Center,Little Rock,AR,34.75,-92.35
+230241,St John River District Hospital,East China,MI,42.79,-82.48
+510001,West Virginia University Hospitals,Morgantown,WV,39.65,-79.96
+230244,Garden City Hospital,Garden City,MI,42.33,-83.31
+230254,Crittenton Hospital Medical Center,Rochester,MI,42.68,-83.15
+230259,Chelsea Community Hospital,Chelsea,MI,42.31,-84.02
+230269,William Beaumont Hospital-Troy,Troy,MI,42.62,-83.09
+230270,Oakwood Heritage Hospital,Taylor,MI,42.23,-83.27
+230273,Detroit Receiving Hospital & Univ Health Center,Detroit,MI,42.35,-83.05
+230277,Huron Valley-Sinai Hospital,Commerce Township,MI,42.59,-83.50
+230297,Karmanos Cancer Center,Detroit,MI,42.35,-83.06
+510085,Camc Teays Valley Hospital,Hurricane,WV,38.45,-81.95
+50516,Mercy San Juan Medical Center,Carmichael,CA,38.67,-121.31
+40114,Baptist Health Medical Center-Little Rock,Little Rock,AR,34.75,-92.35
+50517,Victor Valley Community Hospital,Victorville,CA,34.53,-117.29
+50026,Grossmont Hospital,La Mesa,CA,32.77,-117.01
+50036,Bakersfield Memorial Hospital,Bakersfield,CA,35.39,-119.02
+50523,Sutter Delta Medical Center,Antioch,CA,37.98,-121.80
+50526,Huntington Beach Hospital,Huntington Beach,CA,33.70,-117.99
+310040,Hoboken University Medical Center,Hoboken,NJ,40.74,-74.03
+30067,La Paz Regional Hospital,Parker,AZ,34.14,-114.28
+30068,Mt Graham Regional Medical Center,Safford,AZ,32.82,-109.73
+240001,North Memorial Medical Center,Robbinsdale,MN,45.01,-93.32
+240002,Essentia Health St Mary's Medical Center,Duluth,MN,46.79,-92.10
+240004,Hennepin County Medical Center,Minneapolis,MN,44.97,-93.26
+50528,Memorial Hospital Los Banos,Los Banos,CA,37.06,-120.86
+240006,Olmsted Medical Center,Rochester,MN,44.02,-92.44
+240010,St Marys Hospital,Rochester,MN,44.02,-92.48
+240014,Northfield Hospital,Northfield,MN,44.47,-93.19
+30069,Havasu Regional Medical Center,Lake Havasu City,AZ,34.48,-114.34
+50454,UCSF Medical Center,San Francisco,CA,37.76,-122.46
+240018,Fairview Red Wing Hospital,Red Wing,MN,44.56,-92.57
+240019,Essentia Health Duluth,Duluth,MN,46.79,-92.09
+240020,Cambridge Medical Center,Cambridge,MN,45.57,-93.23
+240022,Sanford  Worthington Medical Center,Worthington,MN,43.62,-95.60
+240030,Douglas County Hospital,Alexandria,MN,45.87,-95.38
+240036,St Cloud Hospital,Saint Cloud,MN,45.58,-94.17
+240038,United Hospital,Saint Paul,MN,44.94,-93.11
+520045,Theda Clark Med Ctr,Neenah,WI,44.19,-88.45
+240040,University Medical Center-Mesabi/ Mesaba Clinics,Hibbing,MN,47.41,-92.93
+240043,Mayo Clinic Health System - Albert Lea,Albert Lea,MN,43.65,-93.37
+240044,Winona Health Services,Winona,MN,44.04,-91.62
+240047,St Lukes Hospital,Duluth,MN,46.80,-92.09
+240050,Fairview Lakes  Health Services,Wyoming,MN,45.32,-93.00
+240052,Lake Region Healthcare Corporation,Fergus Falls,MN,46.28,-96.07
+240053,Park Nicollet Methodist Hospital,Saint Louis Park,MN,44.93,-93.36
+240056,Ridgeview Medical Center,Waconia,MN,44.84,-93.79
+240057,Abbott Northwestern Hospital,Minneapolis,MN,44.95,-93.26
+240059,Regina Medical Center,Hastings,MN,44.75,-92.87
+70029,Bristol Hospital,Bristol,CT,41.68,-72.93
+240061,Mayo Clinic Methodist Hospital,Rochester,MN,44.02,-92.47
+240063,St Joseph's Hospital,Saint Paul,MN,44.95,-93.10
+240064,Grand Itasca Clinic And Hospital,Grand Rapids,MN,47.22,-93.55
+240066,Lakeview Memorial Hospital,Stillwater,MN,45.05,-92.82
+240069,Owatonna Hospital,Owatonna,MN,44.11,-93.25
+240071,District One Hospital,Faribault,MN,44.29,-93.26
+240075,Essentia Health St Joseph's Medical Center,Brainerd,MN,46.36,-94.21
+240076,Buffalo Hospital,Buffalo,MN,45.19,-93.87
+50531,Bellflower Medical Center,Bellflower,CA,33.87,-118.15
+240078,Fairview Southdale Hospital,Edina,MN,44.89,-93.33
+240080,"University Of Minnesota  Medical Center, Fairview",Minneapolis,MN,44.97,-93.24
+240084,Virginia Regional Medical Center,Virginia,MN,47.53,-92.56
+240088,Rice Memorial Hospital,Willmar,MN,45.12,-95.05
+240100,Sanford Bemidji Medical Center,Bemidji,MN,47.50,-94.90
+240101,Essentia Health St Marys,Detroit Lakes,MN,46.81,-95.85
+240104,St Francis Regional Medical Center,Shakopee,MN,44.77,-93.50
+240106,Regions Hospital,Saint Paul,MN,44.96,-93.10
+240117,Mayo Clinic Health System - Austin,Austin,MN,43.67,-92.98
+240132,Unity Hospital,Fridley,MN,45.11,-93.26
+240166,Mayo Clinic Health System - Fairmont,Fairmont,MN,43.64,-94.45
+240187,Hutchinson Area Health Care,Hutchinson,MN,44.88,-94.38
+310041,Community Medical Center,Toms River,NJ,39.97,-74.22
+240207,Fairview Ridges Hospital,Burnsville,MN,44.75,-93.27
+240210,Healtheast St John's Hospital,Maplewood,MN,45.03,-93.03
+240213,Healtheast Woodwinds Hospital,Woodbury,MN,44.92,-92.98
+50537,Sutter Davis Hospital,Davis,CA,38.56,-121.77
+520103,Community Memorial Hsptl,Menomonee Falls,WI,43.16,-88.13
+30083,Paradise Valley Hospital,Phoenix,AZ,33.64,-112.00
+520202,St Clare's Hospital Of Weston Inc,Weston,WI,44.89,-89.58
+110064,"Medical Center, The",Columbus,GA,32.47,-84.99
+30085,Northwest Medical Center,Tucson,AZ,32.32,-111.01
+110163,Phoebe North,Albany,GA,31.53,-84.18
+160153,Mercy Medical Center-Sioux City,Sioux City,IA,42.49,-96.40
+100057,Florida Hospital Waterman,Tavares,FL,28.82,-81.71
+30087,Scottsdale Healthcare-Shea Medical Center,Scottsdale,AZ,33.58,-111.89
+100156,Lake City Medical Center,Lake City,FL,30.18,-82.69
+50549,Los Robles Hospital & Medical Center,Thousand Oaks,CA,34.21,-118.88
+190005,Charity Hospital & Medical Center Of Louisiana At,New Orleans,LA,29.96,-90.08
+50551,Los Alamitos Medical Center,Los Alamitos,CA,33.80,-118.07
+30088,Banner Baywood Medical Center,Mesa,AZ,33.41,-111.69
+240093,Mayo Clinic Health System - Mankato,Mankato,MN,44.16,-94.00
+30089,Banner Thunderbird Medical Center,Glendale,AZ,33.61,-112.18
+50552,Motion Picture & Television Hospital,Woodland Hills,CA,34.16,-118.63
+50557,Memorial  Medical Center,Modesto,CA,37.67,-120.97
+310115,Hackettstown Regional Medical Center,Hackettstown,NJ,40.86,-74.82
+310044,Capital Health Medical Center - Hopewell,Pennington,NJ,40.29,-74.80
+250097,Southwest Ms Regional Medical Center,Mccomb,MS,31.24,-90.45
+30092,John C Lincoln Deer Valley Hospital,Phoenix,AZ,33.67,-112.12
+530011,Memorial Hospital Sweetwater County,Rock Springs,WY,41.59,-109.24
+50025,University Of California San Diego Medical Center,San Diego,CA,32.75,-117.17
+310045,Englewood Hospital And Medical Center,Englewood,NJ,40.91,-73.97
+250001,University Of Mississippi Med Center,Jackson,MS,32.33,-90.17
+250002,Tishomingo Health Services Inc,Iuka,MS,34.80,-88.21
+250004,North Mississippi Medical Center,Tupelo,MS,34.24,-88.72
+250006,Baptist Memorial Hospital Union County,New Albany,MS,34.48,-89.00
+250007,Biloxi Regional Medical Center,Biloxi,MS,30.40,-88.89
+250009,Magnolia Regional Health Center,Corinth,MS,34.93,-88.56
+50567,Mission Hospital Regional Med Center,Mission Viejo,CA,33.56,-117.67
+250010,Tippah County Hospital,Ripley,MS,34.74,-88.95
+250012,Alliance Healthcare System,Holly Springs,MS,34.79,-89.42
+250017,Trace Regional Hosp And Swing Bed,Houston,MS,33.89,-88.98
+320002,St Vincent Hospital,Santa Fe,NM,35.66,-105.95
+250019,Memorial Hospital At Gulfport,Gulfport,MS,30.37,-89.12
+250025,Gilmore Memorial Hospital,Amory,MS,33.97,-88.48
+340004,High Point Regional Hospital,High Point,NC,35.95,-80.00
+250027,Winston Medical Center & Swingbed,Louisville,MS,33.12,-89.03
+310047,Shore Medical Center,Somers Point,NJ,39.31,-74.59
+250031,River Region Health System,Vicksburg,MS,32.38,-90.83
+250034,Baptist Memorial Hospital North Ms,Oxford,MS,34.35,-89.52
+250036,George County Hospital,Lucedale,MS,30.92,-88.59
+340053,Presbyterian Hospital,Charlotte,NC,35.22,-80.83
+250038,Madison River Oaks Medical Center,Canton,MS,32.58,-90.08
+50568,Madera Community Hospital,Madera,CA,36.94,-120.04
+250040,Singing River Hospital,Pascagoula,MS,30.37,-88.53
+50570,Fountain Valley Regional Hospital & Medical Center,Fountain Valley,CA,33.71,-117.94
+250042,Northwest Mississippi Regional Medical Center,Clarksdale,MS,34.20,-90.55
+250043,Neshoba County General Hospital,Philadelphia,MS,32.75,-89.10
+250044,Baptist Memorial Hospital Booneville,Booneville,MS,34.66,-88.57
+100220,Gulf Coast Medical Center Lee Mem Health System,Fort Myers,FL,26.54,-81.85
+250048,St Dominic-Jackson Memorial Hospital,Jackson,MS,32.33,-90.16
+250049,Beacham Memorial Hospital,Magnolia,MS,31.15,-90.46
+250050,Och Regional Medical Center,Starkville,MS,33.48,-88.82
+40011,"John Ed Chambers Mem Hosp, Inc",Danville,AR,35.05,-93.39
+250057,King's Daughters Medical Center-Brookhaven,Brookhaven,MS,31.59,-90.46
+250059,Montfort Jones Memorial Hospital,Kosciusko,MS,33.07,-89.58
+250061,Yalobusha General Hospital,Water Valley,MS,34.13,-89.64
+50573,Eisenhower Medical Center,Rancho Mirage,CA,33.74,-116.41
+320006,Eastern New Mexico Medical Center,Roswell,NM,33.42,-104.53
+250067,Clay County Medical Center,West Point,MS,33.62,-88.66
+250069,Rush Foundation Hospital,Meridian,MS,32.37,-88.70
+250072,Central Mississippi Medical Center,Jackson,MS,32.29,-90.26
+250077,Wayne General Hospital,Waynesboro,MS,31.67,-88.64
+250078,Forrest General Hospital,Hattiesburg,MS,31.35,-89.34
+50575,Tri-City Regional Medical Center,Hawaiian Gardens,CA,33.83,-118.08
+250079,Sharkey Issaquena Community Hospital,Rolling Fork,MS,32.90,-90.88
+250081,Anderson Regional Medical Center South Campus,Meridian,MS,32.37,-88.70
+250082,Delta Regional Medical Center,Greenville,MS,33.41,-91.03
+250084,Natchez Regional Medical Center,Natchez,MS,31.53,-91.38
+30093,Banner Del E Webb Medical Center,Sun City West,AZ,33.66,-112.37
+250085,Marion General Hospital,Columbia,MS,31.26,-89.81
+250094,Wesley Medical Center,Hattiesburg,MS,31.33,-89.37
+250095,South Sunflower County Hospital,Indianola,MS,33.46,-90.65
+250096,Crossgates River Oaks Hospital,Brandon,MS,32.29,-90.03
+50580,La Palma Intercommunity Hospital,La Palma,CA,33.85,-118.04
+250099,Greenwood Leflore Hospital,Greenwood,MS,33.52,-90.20
+250100,Baptist Mem Hosp/Golden Triangle Inc,Columbus,MS,33.50,-88.40
+300001,Concord Hospital,Concord,NH,43.20,-71.56
+250102,Mississippi Baptist Medical Center,Jackson,MS,32.32,-90.18
+50581,Lakewood Regional Medical Center,Lakewood,CA,33.86,-118.15
+300005,Lakes Region General Hospital,Laconia,NH,43.53,-71.46
+40018,Summit Medical Center,Van Buren,AR,35.44,-94.34
+320004,Gerald Champion Regional Medical Cente,Alamogordo,NM,32.93,-105.93
+310084,Kimball Medical Center,Lakewood,NJ,40.08,-74.22
+250104,Anderson Regional Medical Center,Meridian,MS,32.37,-88.70
+80003,St Francis Healthcare,Wilmington,DE,39.75,-75.57
+250117,Highland Community  Hospital,Picayune,MS,30.53,-89.69
+250123,Garden Park Medical Center,Gulfport,MS,30.44,-89.09
+250124,Magee General Hospital,Magee,MS,31.87,-89.73
+110038,John D Archbold Memorial Hospital,Thomasville,GA,30.83,-83.97
+140015,Blessing Hospital,Quincy,IL,39.94,-91.40
+250126,North Oak Regional Medical Center,Senatobia,MS,34.62,-89.96
+310048,Somerset Medical Center,Somerville,NJ,40.57,-74.60
+250128,Tri Lakes Medical Center,Batesville,MS,34.31,-89.92
+250141,Baptist Memorial Hospital Desoto,Southaven,MS,34.97,-90.00
+50586,Chino Valley Medical Center,Chino,CA,34.03,-117.69
+250162,Hancock Medical Center,Bay Saint Louis,MS,30.31,-89.36
+50588,San Dimas Community Hospital,San Dimas,CA,34.10,-117.83
+50589,Placentia Linda Hospital,Placentia,CA,33.89,-117.84
+50590,Methodist Hospital Of Sacramento,Sacramento,CA,38.46,-121.42
+310086,Kennedy University Hospital - Stratford Div,Stratford,NJ,39.83,-75.01
+50597,Foothill Presbyterian Hospital,Glendora,CA,34.14,-117.87
+300011,St Joseph Hospital,Nashua,NH,42.75,-71.48
+310050,Saint Clare's Hospital,Denville,NJ,40.90,-74.46
+140018,Mt Sinai Hospital Medical Center,Chicago,IL,41.86,-87.70
+30094,Arrowhead Hospital,Glendale,AZ,33.66,-112.20
+140301,Oak Forest Hospital,Oak Forest,IL,41.60,-87.74
+310091,Memorial Hospital Of Salem County,Salem,NJ,39.59,-75.45
+260005,Ssm St Joseph Health Center,Saint Charles,MO,38.78,-90.48
+260006,Heartland Regional Medical Center,Saint Joseph,MO,39.77,-94.77
+260009,Bothwell Regional Health Center,Sedalia,MO,38.70,-93.22
+50599,University Of California Davis Medical Center,Sacramento,CA,38.55,-121.46
+260015,Twin Rivers Regional Medical Center,Kennett,MO,36.24,-90.04
+260017,Phelps County Regional Medical Center,Rolla,MO,37.95,-91.76
+260020,Mercy Hospital St Louis,Saint Louis,MO,38.67,-90.44
+260022,Northeast Regional Medical Center,Kirksville,MO,40.19,-92.59
+340141,New Hanover Regional Medical Center,Wilmington,NC,34.24,-77.95
+260024,Texas County Memorial Hospital,Houston,MO,37.32,-91.96
+260027,Research Medical Center,Kansas City,MO,39.01,-94.56
+260032,Barnes Jewish Hospital,Saint Louis,MO,38.64,-90.27
+260034,Bates County Memorial Hospital,Butler,MO,38.25,-94.34
+50603,Saddleback Memorial Medical Center,Laguna Hills,CA,33.61,-117.71
+260048,Truman Medical Center Hospital Hill,Kansas City,MO,39.09,-94.58
+260050,St Francis Hospital,Maryville,MO,40.33,-94.87
+30100,Carondelet Heart And Vascular Institute,Tucson,AZ,32.29,-110.97
+260052,Mercy Hospital Washington,Washington,MO,38.55,-91.00
+260057,Cameron Regional Medical Center,Cameron,MO,39.73,-94.23
+260059,Mercy Hospital Lebanon,Lebanon,MO,37.68,-92.64
+260061,Nevada Regional Medical Center,Nevada,MO,37.83,-94.36
+300012,Elliot Hospital,Manchester,NH,42.98,-71.44
+260062,St Lukes Northland Hospital,Kansas City,MO,39.25,-94.65
+30101,Western Arizona Regional Medical Ctr,Bullhead City,AZ,35.11,-114.56
+260064,Audrain Medical Center,Mexico,MO,39.17,-91.88
+310051,Overlook Hospital,Summit,NJ,40.71,-74.35
+260065,Mercy Hospital Springfield,Springfield,MO,37.18,-93.27
+260068,Boone Hospital Center,Columbia,MO,38.95,-92.32
+260070,Pemiscot Memorial Hospital,Hayti,MO,36.24,-89.74
+260074,Moberly Regional Medical Center,Moberly,MO,39.42,-92.41
+260077,St Anthony's Medical Center,Saint Louis,MO,38.51,-90.38
+260078,Ozarks Medical Center,West Plains,MO,36.74,-91.88
+330385,North Central Bronx Hospital,Bronx,NY,40.88,-73.88
+260080,Ripley County Memorial Hospital,Doniphan,MO,36.62,-90.83
+260081,Ssm St Clare Health Center,Fenton,MO,38.53,-90.47
+260085,St Joseph Medical Center,Kansas City,MO,38.94,-94.60
+30103,Mayo Clinic Hospital,Phoenix,AZ,33.66,-111.96
+260091,Ssm St Marys Health Center,Richmond Heights,MO,38.63,-90.31
+260095,"Centerpoint Medical Center Of Independence, Llc",Independence,MO,39.05,-94.35
+260096,North Kansas City Hospital,North Kansas City,MO,39.15,-94.55
+260097,Western Missouri Medical Center,Warrensburg,MO,38.77,-93.72
+260102,Truman Medical Center Lakewood,Kansas City,MO,38.98,-94.40
+340171,Presbyterian Hospital Matthews,Matthews,NC,35.11,-80.72
+50608,Delano Regional Medical Center,Delano,CA,35.76,-119.24
+260104,Ssm Depaul Health Center,Bridgeton,MO,38.75,-90.43
+30105,Banner Heart Hospital,Mesa,AZ,33.41,-111.69
+260105,St Louis University Hospital,Saint Louis,MO,38.62,-90.24
+260108,Missouri Baptist Medical Center,Town And Country,MO,38.64,-90.45
+260110,Southeast Missouri Hospital,Cape Girardeau,MO,37.31,-89.54
+260113,Missouri Delta Medical Center,Sikeston,MO,36.89,-89.59
+260115,Missouri Baptist Hospital Sullivan,Sullivan,MO,38.20,-91.17
+260116,Mineral Area Regional Medical Center,Farmington,MO,37.80,-90.44
+260119,Poplar Bluff Regional Medical Center,Poplar Bluff,MO,36.79,-90.43
+110026,Elbert Memorial Hospital,Elberton,GA,34.11,-82.88
+370004,Integris Baptist Reg Health Center,Miami,OK,36.88,-94.88
+260137,Freeman Health System - Freeman West,Joplin,MO,37.05,-94.53
+50002,St Rose Hospital,Hayward,CA,37.63,-122.09
+310022,Virtua West Jersey Hospitals Berlin,Berlin,NJ,39.78,-74.92
+260138,St Lukes Hospital Of Kansas City,Kansas City,MO,39.05,-94.59
+50616,St Johns Pleasant Valley Hospital,Camarillo,CA,34.24,-119.02
+50006,St Joseph Hospital,Eureka,CA,40.78,-124.14
+260142,Fitzgibbon Memorial Hospital,Marshall,MO,39.10,-93.21
+310054,Mountainside Hospital,Montclair,NJ,40.81,-74.20
+330014,Jamaica Hospital Medical Center,Jamaica,NY,40.70,-73.82
+260147,Sac-Osage Hospital,Osceola,MO,38.05,-93.69
+330169,Beth Israel Medical Center,New York,NY,40.73,-73.98
+260160,Missouri Southern Healthcare,Dexter,MO,36.80,-89.97
+260162,Barnes-Jewish West County Hospital,Creve Coeur,MO,38.68,-90.47
+260163,Parkland Health Center,Farmington,MO,37.78,-90.44
+260175,Golden Valley Memorial Hospital,Clinton,MO,38.39,-93.77
+260176,Des Peres Hospital,Saint Louis,MO,38.58,-90.45
+260177,Liberty Hospital,Liberty,MO,39.28,-94.43
+260179,St Lukes Hospital,Chesterfield,MO,38.66,-90.51
+260180,Christian Hospital Northeast,Saint Louis,MO,38.78,-90.24
+260183,St Francis Medical Center,Cape Girardeau,MO,37.31,-89.57
+260191,Barnes-Jewish St Peters Hospital,Saint Peters,MO,38.79,-90.58
+260193,St Mary's Medical Center,Blue Springs,MO,39.03,-94.26
+50028,Mad River Community Hospital,Arcata,CA,40.90,-124.09
+320030,Artesia General Hospital,Artesia,NM,32.85,-104.41
+260195,Citizens Memorial Hospital,Bolivar,MO,37.60,-93.42
+260207,Ozarks Community Hospital,Springfield,MO,37.25,-93.27
+30110,West Valley Hospital,Goodyear,AZ,33.46,-112.35
+260209,Callaway Community Hospital,Fulton,MO,38.84,-91.96
+260210,St Alexius Hospital,Saint Louis,MO,38.58,-90.23
+260211,Saint Lukes Cancer Institute,Kansas City,MO,39.05,-94.59
+260214,Research Belton Hospital,Belton,MO,38.81,-94.50
+260216,Saint Luke's East Lee's Summit Hospital,Lees Summit,MO,38.94,-94.38
+330193,Flushing Hospital Medical Center,Flushing,NY,40.76,-73.82
+50624,Henry Mayo Newhall Memorial Hospital,Valencia,CA,34.40,-118.55
+50625,Cedars-Sinai Medical Center,Los Angeles,CA,34.08,-118.38
+30111,"University Of Arizona Medical Ctr- South Cam, The",Tucson,AZ,32.18,-110.93
+370183,Hillcrest Hospital Henryetta,Henryetta,OK,35.44,-96.02
+50633,Twin Cities Community Hospital,Templeton,CA,35.56,-120.72
+30114,Oro Valley Hospital,Oro Valley,AZ,32.43,-110.95
+390133,Lehigh Valley Hospital,Allentown,PA,40.60,-75.47
+390044,Reading Hospital Medical Center,Reading,PA,40.33,-75.95
+270003,St Peter's Hospital,Helena,MT,46.58,-111.99
+270004,Billings Clinic Hospital,Billings,MT,45.79,-108.51
+390066,Good Samaritan Hospital,Lebanon,PA,40.34,-76.42
+30115,Banner Estrella Medical Center,Phoenix,AZ,33.48,-112.26
+270012,Benefis Hospitals Inc,Great Falls,MT,47.49,-111.26
+390108,Montgomery Hospital,Norristown,PA,40.12,-75.34
+310052,Ocean Medical Center,Brick,NJ,40.08,-74.13
+50636,Pomerado Hospital,Poway,CA,33.00,-117.06
+270014,St Patrick Hospital,Missoula,MT,46.87,-114.00
+270017,St James Healthcare,Butte,MT,46.01,-112.55
+30117,Valley View Medical Center,Fort Mohave,AZ,35.00,-114.60
+270023,Community Medical Center Inc,Missoula,MT,46.85,-114.05
+30118,Yavapai Regional Medical Center-East,Prescott Valley,AZ,34.59,-112.34
+270032,Northern Montana Hospital,Havre,MT,48.54,-109.69
+50641,East Los Angeles Doctors Hospital,Los Angeles,CA,34.02,-118.18
+270049,St Vincent Healthcare,Billings,MT,45.79,-108.52
+270051,Kalispell Regional Medical Center,Kalispell,MT,48.22,-114.32
+270057,Bozeman Deaconess Hospital,Bozeman,MT,45.67,-111.02
+280003,Bryanlgh Medical Center,Lincoln,NE,40.80,-96.65
+280009,Good Samaritan Hospital,Kearney,NE,40.71,-99.08
+280020,Saint Elizabeth Regional Medical Center,Lincoln,NE,40.81,-96.63
+280023,St Francis Medical Center,Grand Island,NE,40.92,-98.37
+280030,Creighton University Medical Center - Saint Joseph,Omaha,NE,41.26,-95.96
+50014,Sutter Amador Hospital,Jackson,CA,38.35,-120.76
+280032,Mary Lanning Memorial Hospital,Hastings,NE,40.59,-98.39
+280040,The Nebraska Methodist Hospital,Omaha,NE,41.26,-96.04
+280060,Alegent Health Bergan Mercy Medical Center,Omaha,NE,41.24,-96.03
+280061,Regional West Medical Center,Scottsbluff,NE,41.89,-103.66
+280065,Great Plains Regional Medical Center,North Platte,NE,41.12,-100.77
+280077,Fremont Area Medical Center,Fremont,NE,41.45,-96.49
+280081,Alegent Health Immanuel Medical Center,Omaha,NE,41.32,-96.02
+280105,Alegent Health Midlands Hospital,Papillion,NE,41.14,-96.04
+280111,Columbus Community Hospital,Columbus,NE,41.45,-97.38
+280125,Faith Regional Health Services,Norfolk,NE,42.03,-97.45
+280128,Nebraska Heart Hospital,Lincoln,NE,40.74,-96.59
+50684,Menifee Valley Medical Center,Sun City,CA,33.72,-117.17
+280130,Alegent Health Lakeside Hospital,Omaha,NE,41.24,-96.18
+50007,Peninsula Medical Center,Burlingame,CA,37.59,-122.38
+50644,Los Angeles Metropolitan Medical Ctr,Los Angeles,CA,34.04,-118.31
+390111,Hospital Of Univ Of Pennsylvania,Philadelphia,PA,39.95,-75.19
+310057,Virtua Memorial Hospital Of Burlington County,Mount Holly,NJ,39.99,-74.80
+50663,Los Angeles Community Hospital,Los Angeles,CA,34.02,-118.19
+50668,Laguna Honda Hospital & Rehabilitation Center,San Francisco,CA,37.75,-122.46
+310058,Bergen Regional Medical Center,Paramus,NJ,40.96,-74.06
+50030,Oroville Hospital,Oroville,CA,39.51,-121.54
+390123,Pottstown Memorial Medical Center,Pottstown,PA,40.24,-75.61
+50008,California Pacific Medical Ctr-Davies Campus Hosp,San Francisco,CA,37.77,-122.44
+50009,Queen Of The Valley Medical Center,Napa,CA,38.32,-122.30
+390156,Mercy Fitzgerald Hospital,Darby,PA,39.93,-75.27
+50013,St Helena Hospital,Saint Helena,CA,38.54,-122.47
+420086,Palmetto Health Baptist,Columbia,SC,34.01,-81.03
+50678,Orange Coast Memorial Medical Center,Fountain Valley,CA,33.70,-117.96
+310060,St Luke's Warren Hospital,Phillipsburg,NJ,40.70,-75.18
+310061,Lourdes Medical Center Of Burlington County,Willingboro,NJ,40.05,-74.88
+260040,Cox Medical Center,Springfield,MO,37.15,-93.28
+260047,Capital Region Medical Center,Jefferson City,MO,38.57,-92.18
+320061,Gallup Indian Medical Center,Gallup,NM,35.51,-108.73
+320063,Carlsbad Medical Center,Carlsbad,NM,32.44,-104.26
+320065,Lea Regional Medical Center,Hobbs,NM,32.76,-103.18
+320074,Lovelace Westside Hospital,Albuquerque,NM,35.21,-106.68
+320083,Heart Hospital Of New Mexico,Albuquerque,NM,35.09,-106.64
+320084,Roosevelt General Hospital,Portales,NM,34.25,-103.26
+320085,Mountain View Regional Medical Center,Las Cruces,NM,32.32,-106.73
+330002,Peninsula Hospital Center,Far Rockaway,NY,40.59,-73.78
+330003,Albany Memorial Hospital,Albany,NY,42.67,-73.75
+330004,Kingston Hospital,Kingston,NY,41.93,-74.00
+330006,St Joseph's Medical Center,Yonkers,NY,40.93,-73.90
+330008,Wyoming County Community Hospital,Warsaw,NY,42.75,-78.13
+330009,Bronx-Lebanon Hospital Center,Bronx,NY,40.83,-73.90
+330011,"Our Lady Of Lourdes Memorial Hospital, Inc",Binghamton,NY,42.09,-75.94
+330013,Albany Medical Center Hospital,Albany,NY,42.65,-73.78
+330019,"New York Community Hospital Of Brooklyn, Inc.",Brooklyn,NY,40.61,-73.95
+330023,Vassar Brothers Medical Center,Poughkeepsie,NY,41.69,-73.93
+330024,Mount Sinai Hospital,New York,NY,40.79,-73.95
+330027,Nassau University Medical Center,East Meadow,NY,40.73,-73.55
+330028,Richmond University Medical Center,Staten Island,NY,40.64,-74.11
+330030,Newark-Wayne Community Hospital,Newark,NY,43.06,-77.10
+330033,"Chenango Memorial Hospital, Inc",Norwich,NY,42.54,-75.53
+330037,Lakeside Memorial Hospital,Brockport,NY,43.22,-77.94
+330043,Southside Hospital,Bay Shore,NY,40.73,-73.24
+330044,Faxton-St Luke's Healthcare,Utica,NY,43.10,-75.27
+330045,Huntington Hospital,Huntington,NY,40.88,-73.42
+330046,St Luke's Roosevelt Hospital,New York,NY,40.81,-73.96
+330047,St Mary's Hospital At Amsterdam,Amsterdam,NY,42.95,-74.22
+330049,Northern Dutchess Hospital,Rhinebeck,NY,41.94,-73.91
+330053,Medina Memorial Hospital,Medina,NY,43.22,-78.40
+330055,New York Hospital Medical Center Of Queens,Flushing,NY,40.75,-73.83
+330056,Brooklyn Hospital Center At Downtown Campus,Brooklyn,NY,40.69,-73.98
+330057,St Peter's Hospital,Albany,NY,42.66,-73.80
+330058,Geneva General Hospital,Geneva,NY,42.88,-76.99
+330059,Montefiore Medical Center,Bronx,NY,40.88,-73.88
+330061,Lawrence Hospital Center,Bronxville,NY,40.94,-73.84
+330064,New York Downtown Hospital,New York,NY,40.71,-74.01
+330065,Niagara Falls Memorial Medical Center,Niagara Falls,NY,43.09,-79.05
+330067,St Francis Hospital,Poughkeepsie,NY,41.72,-73.93
+330073,United Memorial Medical Center,Batavia,NY,43.01,-78.18
+330074,F F Thompson Hospital,Canandaigua,NY,42.88,-77.29
+330078,Sisters Of Charity Hospital,Buffalo,NY,42.93,-78.85
+330079,Adirondack Medical Center,Saranac Lake,NY,44.35,-74.14
+330080,Lincoln Medical & Mental Health Center,Bronx,NY,40.82,-73.92
+330084,Alice Hyde Medical Center,Malone,NY,44.86,-74.29
+330085,Aurelia Osborn Fox Memorial Hospital,Oneonta,NY,42.46,-75.05
+330086,Mount Vernon Hospital,Mount Vernon,NY,40.91,-73.84
+330088,Eastern Long Island Hospital,Greenport,NY,41.11,-72.36
+330090,Arnot Ogden Medical Center,Elmira,NY,42.10,-76.83
+330094,Columbia Memorial Hospital,Hudson,NY,42.25,-73.78
+330096,Jones Memorial Hospital,Wellsville,NY,42.12,-77.95
+330101,New York-Presbyterian Hospital,New York,NY,40.76,-73.95
+330102,Kenmore Mercy Hospital,Kenmore,NY,42.97,-78.88
+330103,Olean General Hospital,Olean,NY,42.09,-78.43
+330104,Nyack Hospital,Nyack,NY,41.10,-73.92
+330106,North Shore University Hospital,Manhasset,NY,40.78,-73.70
+330107,Peconic Bay Medical Center,Riverhead,NY,40.93,-72.67
+330108,"St Joseph's Hospital, Inc",Elmira,NY,42.09,-76.80
+330111,Bertrand Chaffee Hospital,Springville,NY,42.51,-78.66
+330115,Oneida Healthcare Center,Oneida,NY,43.08,-75.65
+330119,Lenox Hill Hospital,New York,NY,40.77,-73.96
+330125,Rochester General Hospital,Rochester,NY,43.19,-77.59
+330126,Orange Regional Medical Center,Middletown,NY,41.44,-74.37
+330127,Jacobi Medical Center,Bronx,NY,40.86,-73.84
+330128,Elmhurst Hospital Center,Elmhurst,NY,40.74,-73.89
+330132,Tlc Health Network,Gowanda,NY,42.46,-78.94
+330135,Bon Secours Community Hospital,Port Jervis,NY,41.37,-74.68
+330136,Mary Imogene Bassett Hospital,Cooperstown,NY,42.70,-74.92
+330140,St Joseph's Hospital Health Center,Syracuse,NY,43.06,-76.15
+330141,Brookhaven Memorial Hospital Medical Center,Patchogue,NY,40.79,-72.98
+330144,"Ira Davenport Memorial Hospital, Inc",Bath,NY,42.37,-77.28
+330151,St James Mercy Hospital,Hornell,NY,42.31,-77.66
+330152,Long Island College Hospital,Brooklyn,NY,40.69,-74.00
+330153,Ellis Hospital,Schenectady,NY,42.82,-73.92
+330157,Samaritan Medical Center,Watertown,NY,43.97,-75.91
+330158,Good Samaritan Hospital Of Suffern,Suffern,NY,41.11,-74.13
+330159,Community-General Hospital Of Greater Syracuse,Syracuse,NY,43.01,-76.17
+330160,Staten Island University Hospital,Staten Island,NY,40.58,-74.09
+330162,Northern Westchester Hospital,Mount Kisco,NY,41.20,-73.72
+330163,Eastern Niagara Hospital,Lockport,NY,43.18,-78.67
+330164,Highland Hospital,Rochester,NY,43.14,-77.61
+330166,"Westfield Memorial Hospital, Inc",Westfield,NY,42.33,-79.57
+330167,Winthrop-University Hospital,Mineola,NY,40.74,-73.64
+330175,"Cortland Regional Medical Center, Inc",Cortland,NY,42.61,-76.19
+330177,Edward John  Noble Hospital Of Gouverneur,Gouverneur,NY,44.34,-75.47
+330180,Samaritan Hospital,Troy,NY,42.73,-73.67
+330181,Glen Cove Hospital,Glen Cove,NY,40.87,-73.62
+330182,"St Francis Hospital, Roslyn",Roslyn,NY,40.80,-73.67
+330184,Sound Shore Medical Center Of Westschester,New Rochelle,NY,40.91,-73.79
+330185,John T Mather Memorial Hospital  Of Port Jefferson,Port Jefferson,NY,40.94,-73.05
+330188,Mount St Mary's Hospital And  Health Center,Lewiston,NY,43.15,-79.03
+330191,Glens Falls Hospital,Glens Falls,NY,43.31,-73.65
+330194,Maimonides Medical Center,Brooklyn,NY,40.64,-74.00
+330195,Long Island Jewish Medical Center,New Hyde Park,NY,40.75,-73.71
+330196,Coney Island Hospital,Brooklyn,NY,40.59,-73.97
+330197,Canton-Potsdam Hospital,Potsdam,NY,44.68,-74.98
+330198,South Nassau Communities Hospital,Oceanside,NY,40.65,-73.63
+330199,Metropolitan Hospital Center,New York,NY,40.78,-73.94
+330201,Kingsbrook Jewish Medical Center,Brooklyn,NY,40.66,-73.93
+330202,Kings County Hospital Center,Brooklyn,NY,40.66,-73.94
+330203,Crouse Hospital,Syracuse,NY,43.04,-76.14
+330204,Bellevue Hospital Center,New York,NY,40.74,-73.98
+330205,St Anthony Community Hospital,Warwick,NY,41.26,-74.36
+330208,St John's Riverside Hospital,Yonkers,NY,40.97,-73.88
+330211,Claxton-Hepburn Medical Center,Ogdensburg,NY,44.69,-75.50
+330213,Lewis County General Hospital,Lowville,NY,43.80,-75.50
+330214,Nyu Hospitals Center,New York,NY,40.74,-73.97
+330215,"Rome Memorial Hospital, Inc",Rome,NY,43.23,-75.44
+330218,Oswego Hospital,Oswego,NY,43.45,-76.52
+330219,Erie County Medical Center,Buffalo,NY,42.93,-78.83
+330221,Wyckoff Heights Medical Center,Brooklyn,NY,40.70,-73.92
+330222,Saratoga Hospital,Saratoga Springs,NY,43.09,-73.80
+330223,Massena Memorial Hospital,Massena,NY,44.94,-74.91
+330224,Benedictine Hospital,Kingston,NY,41.92,-74.00
+330225,Long Beach Medical Center,Long Beach,NY,40.59,-73.65
+330226,Unity Hospital Of Rochester,Rochester,NY,43.19,-77.70
+330229,Brooks Memorial Hospital,Dunkirk,NY,42.48,-79.33
+330231,Queens Hospital Center,Jamaica,NY,40.72,-73.80
+330232,Seton Health System-St Mary's Campus,Troy,NY,42.74,-73.68
+330234,Westchester Medical Center,Valhalla,NY,41.09,-73.80
+330235,Auburn Community Hospital,Auburn,NY,42.94,-76.56
+330236,New York Methodist Hospital,Brooklyn,NY,40.67,-73.98
+330238,Nicholas H Noyes Memorial Hospital,Dansville,NY,42.55,-77.70
+330239,Woman's Christian Association,Jamestown,NY,42.09,-79.23
+330240,Harlem Hospital Center,New York,NY,40.81,-73.94
+330241,University Hospital S U N Y Health Science Center,Syracuse,NY,43.04,-76.14
+330245,St Elizabeth Medical Center,Utica,NY,43.08,-75.27
+330246,St Charles Hospital,Port Jefferson,NY,40.95,-73.06
+330249,"Community Memorial Hospital, Inc",Hamilton,NY,42.81,-75.54
+330250,Champlain Valley Physicians Hospital Medical Ctr,Plattsburgh,NY,44.70,-73.47
+330259,Mercy Medical Center,Rockville Centre,NY,40.69,-73.63
+330261,Phelps Memorial Hospital Assn,Sleepy Hollow,NY,41.10,-73.86
+330263,"Carthage Area Hospital, Inc",Carthage,NY,43.99,-75.60
+330264,St Luke's Cornwall Hospital,Newburgh,NY,41.50,-74.02
+330265,Clifton Springs Hospital And Clinic,Clifton Springs,NY,42.96,-77.14
+330267,Hudson Valley Hospital Center,Cortlandt Manor,NY,41.29,-73.90
+330268,Cobleskill Regional Hospital,Cobleskill,NY,42.69,-74.48
+330273,Putnam Hospital Center,Carmel,NY,41.38,-73.66
+330276,Nathan Littauer Hospital,Gloversville,NY,43.07,-74.33
+330277,Corning Hospital,Corning,NY,42.14,-77.05
+330279,Mercy Hospital,Buffalo,NY,42.85,-78.81
+330285,Strong Memorial Hospital,Rochester,NY,43.12,-77.63
+330286,Good Samaritan Hospital Medical Center,West Islip,NY,40.69,-73.29
+330304,White Plains Hospital Center,White Plains,NY,41.03,-73.77
+330306,Lutheran Medical Center,Brooklyn,NY,40.65,-74.02
+330307,Cayuga Medical Center At Ithaca,Ithaca,NY,42.47,-76.54
+330316,New York Westchester Square Medical Center,Bronx,NY,40.84,-73.85
+330331,Plainview Hospital,Plainview,NY,40.77,-73.48
+330332,St Joseph Hospital,Bethpage,NY,40.73,-73.48
+330340,Southampton Hospital,Southampton,NY,40.89,-72.38
+330350,University Hospital Of Brooklyn ( Downstate ),Brooklyn,NY,40.66,-73.95
+330353,Forest Hills Hospital,Forest Hills,NY,40.73,-73.85
+330372,Franklin Hospital,Valley Stream,NY,40.68,-73.69
+330394,"United Health Services Hospitals, Inc",Johnson City,NY,42.11,-75.96
+330395,St John's Episcopal Hospital At South Shore,Far Rockaway,NY,40.60,-73.75
+330396,Woodhull Medical And Mental Health Center,Brooklyn,NY,40.70,-73.94
+330397,Interfaith Medical Center,Brooklyn,NY,40.68,-73.94
+330399,St Barnabas Hospital,Bronx,NY,40.85,-73.89
+330401,St Catherine Of Siena Hospital,Smithtown,NY,40.86,-73.19
+340001,Carolinas Medical Center-Northeast,Concord,NC,35.44,-80.60
+340002,Memorial Mission Hospital And Asheville Surgery Ce,Asheville,NC,35.58,-82.55
+340003,Northern Hospital Of Surry County,Mount Airy,NC,36.49,-80.61
+340008,Scotland Memorial Hospital,Laurinburg,NC,34.75,-79.47
+340010,Wayne Memorial Hospital,Goldsboro,NC,35.40,-77.95
+340011,Spruce Pine Community Hospital,Spruce Pine,NC,35.91,-82.06
+340013,Rutherford Hospital Inc,Rutherfordton,NC,35.36,-81.97
+340014,Forsyth Memorial Hospital,Winston-Salem,NC,36.07,-80.30
+340015,Rowan Regional Medical Center,Salisbury,NC,35.68,-80.47
+340016,Medwest Harris,Sylva,NC,35.39,-83.20
+340017,Margaret R Pardee Memorial Hospital,Hendersonville,NC,35.32,-82.47
+340020,Central Carolina Hospital,Sanford,NC,35.47,-79.19
+340021,Cleveland Regional Medical Center,Shelby,NC,35.30,-81.54
+340023,Park Ridge Health,Hendersonville,NC,35.39,-82.49
+340024,Sampson Regional Medical Center,Clinton,NC,35.01,-78.32
+340027,Lenoir Memorial Hospital,Kinston,NC,35.29,-77.58
+340028,Cape Fear Valley Medical Center,Fayetteville,NC,35.03,-78.93
+340032,Gaston Memorial Hospital,Gastonia,NC,35.27,-81.14
+340037,Kings Mountain Hospital Inc,Kings Mountain,NC,35.24,-81.36
+340038,Beaufort County Medical Center,Washington,NC,35.55,-77.04
+340039,Iredell Memorial Hospital Inc,Statesville,NC,35.80,-80.88
+340040,Vidant Medical Center,Greenville,NC,35.61,-77.40
+340041,Caldwell Memorial Hospital,Lenoir,NC,35.91,-81.54
+340042,Onslow Memorial Hospital,Jacksonville,NC,34.76,-77.38
+340050,Southeastern Regional Medical Center,Lumberton,NC,34.64,-79.01
+340051,Watauga Medical Center,Boone,NC,36.20,-81.65
+340055,Valdese General Hospital Inc,Valdese,NC,35.75,-81.52
+340060,Morehead Memorial Hospital,Eden,NC,36.49,-79.74
+340061,University Of North Carolina Hospital,Chapel Hill,NC,35.90,-79.05
+340064,Wilkes Regional Medical Center,North Wilkesboro,NC,36.16,-81.16
+340068,Columbus Regional Healthcare System,Whiteville,NC,34.34,-78.69
+340069,"Wakemed, Raleigh Campus",Raleigh,NC,35.78,-78.59
+340070,Alamance Regional Medical Center,Burlington,NC,36.06,-79.50
+340071,Betsy Johnson Regional  Hospital,Dunn,NC,35.31,-78.63
+340073,Duke Health Raleigh Hospital,Raleigh,NC,35.83,-78.62
+340075,Grace Hospital Inc,Morganton,NC,35.72,-81.66
+340084,Anson Community Hospital,Wadesboro,NC,34.96,-80.08
+340087,The Mcdowell Hospital,Marion,NC,35.66,-82.03
+340091,"Moses H Cone Memorial Hospital, The",Greensboro,NC,36.09,-79.79
+340096,Lexington Memorial Hospital Inc,Lexington,NC,35.80,-80.29
+340097,Hugh Chatham Memorial Hospital,Elkin,NC,36.26,-80.84
+340098,Carolinas Med Center-Mercy,Charlotte,NC,35.21,-80.82
+340099,Vidant Roanoke Chowan Hospital,Ahoskie,NC,36.29,-76.99
+340106,Sandhills Regional Medical Center,Hamlet,NC,34.90,-79.71
+340107,Vidant Edgecombe Hospital,Tarboro,NC,35.92,-77.56
+340113,Carolinas Medical Center/Behav Health,Charlotte,NC,35.20,-80.84
+340114,Rex Hospital,Raleigh,NC,35.82,-78.70
+340115,Firsthealth Moore Regional Hospital,Pinehurst,NC,35.21,-79.46
+340116,Frye Regional Medical Center,Hickory,NC,35.74,-81.34
+340119,Stanly Regional Medical Center,Albemarle,NC,35.36,-80.19
+340120,Vidant Duplin  Hospital,Kenansville,NC,34.96,-77.96
+340123,Randolph Hospital,Asheboro,NC,35.71,-79.81
+340126,Wilson Medical Center,Wilson,NC,35.72,-77.94
+340129,Lake Norman Regional Medical Center,Mooresville,NC,35.55,-80.86
+340130,Carolinas Medical Center-Union,Monroe,NC,34.97,-80.52
+340131,Carolina East Medical Center,New Bern,NC,35.11,-77.07
+340133,Martin General Hospital,Williamston,NC,35.84,-77.07
+340142,Carteret General Hospital,Morehead City,NC,34.73,-76.75
+340143,Catawba Valley Medical Center,Hickory,NC,35.72,-81.27
+340144,Davis Regional Medical Center,Statesville,NC,35.82,-80.83
+340145,Carolinas Medical Center-Lincoln,Lincolnton,NC,35.49,-81.20
+340147,Nash General Hospital,Rocky Mount,NC,35.97,-77.85
+340151,Halifax Regional Medical Center Inc,Roanoke Rapids,NC,36.43,-77.65
+340155,Durham Regional Hospital,Durham,NC,36.05,-78.91
+340158,Brunswick Community Hospital,Supply,NC,34.01,-78.29
+340159,Person Memorial Hospital,Roxboro,NC,36.41,-78.99
+340160,Murphy Medical Center Inc,Murphy,NC,35.08,-83.97
+340166,Carolinas Med Ctr-University,Charlotte,NC,35.31,-80.75
+340173,"Wakemed, Cary Hospital",Cary,NC,35.74,-78.78
+340183,Presbyterian Hospital Huntersville,Huntersville,NC,35.41,-80.86
+350002,St Alexius Medical Center,Bismarck,ND,46.81,-100.78
+350006,Trinity Hospitals,Minot,ND,48.23,-101.29
+350011,Sanford Medical Center Fargo,Fargo,ND,46.88,-96.79
+350015,Medcenter One,Bismarck,ND,46.81,-100.78
+350019,Altru Hospital,Grand Forks,ND,47.91,-97.07
+350070,Essentia Health-Fargo,Fargo,ND,46.83,-96.83
+360001,Mercy Hospital Anderson,Cincinnati,OH,39.09,-84.35
+360002,Samaritan Hospital - Peoples Hospital,Ashland,OH,40.86,-82.31
+360003,"University Hospital, Inc",Cincinnati,OH,39.14,-84.50
+360006,Riverside Methodist Hospital,Columbus,OH,40.03,-83.03
+360008,Southern Ohio Medical Center,Portsmouth,OH,38.75,-82.98
+360009,Lima Memorial Health System,Lima,OH,40.74,-84.09
+360010,Union Hospital,Dover,OH,40.51,-81.46
+360011,Marion General Hospital,Marion,OH,40.57,-83.13
+360012,Mount Carmel St Ann's Hospital,Westerville,OH,40.11,-82.95
+360013,Wilson Memorial Hospital,Sidney,OH,40.29,-84.18
+360014,O'Bleness Memorial Hospital,Athens,OH,39.33,-82.12
+360016,"Jewish Hospital, Llc",Cincinnati,OH,39.21,-84.38
+360017,Grant Medical Center,Columbus,OH,39.96,-82.99
+360019,Summa Health System Barberton Hospital,Barberton,OH,41.01,-81.59
+360020,Summa Health Systems Hospitals,Akron,OH,41.08,-81.50
+360025,Firelands Regional Medical Center,Sandusky,OH,41.45,-82.71
+360026,Greene Memorial Hospital,Xenia,OH,39.70,-83.93
+360027,Akron General Medical Center,Akron,OH,41.08,-81.53
+360029,Wood County Hospital,Bowling Green,OH,41.38,-83.67
+360032,Grand Lake Health System,Saint Marys,OH,40.55,-84.37
+360035,Mount Carmel Health,Columbus,OH,39.96,-83.02
+360036,Wooster Community Hospital,Wooster,OH,40.82,-81.93
+360037,St Vincent Charity Medical Center,Cleveland,OH,41.50,-81.67
+360039,Genesis Healthcare System,Zanesville,OH,39.98,-82.01
+360040,Knox Community Hospital,Mount Vernon,OH,40.40,-82.45
+360041,Parma Community General Hospital,Parma,OH,41.38,-81.73
+360044,Wayne Hospital,Greenville,OH,40.09,-84.64
+360046,Mccullough-Hyde Memorial Hospital,Oxford,OH,39.51,-84.74
+360048,University Of Toledo Medical Center,Toledo,OH,41.62,-83.62
+360051,Miami Valley Hospital,Dayton,OH,39.75,-84.19
+360052,Good Samaritan Hospital,Dayton,OH,39.79,-84.23
+360054,Holzer Medical Center,Gallipolis,OH,38.84,-82.24
+360055,Trumbull Memorial Hospital,Warren,OH,41.24,-80.80
+360056,Mercy Hospital Fairfield,Fairfield,OH,39.31,-84.52
+360058,Mercer County Joint Township Community Hospital,Coldwater,OH,40.48,-84.64
+360059,Metro Health Medical Center,Cleveland,OH,41.46,-81.70
+360064,St Elizabeth Health Center,Youngstown,OH,41.12,-80.66
+360065,Fisher-Titus Hospital,Norwalk,OH,41.23,-82.60
+360066,St Rita's Medical Center,Lima,OH,40.74,-84.12
+360068,Toledo Hospital The,Toledo,OH,41.67,-83.60
+360070,Mercy Medical Center,Canton,OH,40.81,-81.40
+360071,Van Wert County Hospital,Van Wert,OH,40.85,-84.58
+360072,Fairfield Medical Center,Lancaster,OH,39.72,-82.58
+360074,Flower Hospital,Sylvania,OH,41.71,-83.69
+360075,Uhhs Richmond Heights Hospital,Richmond Heights,OH,41.58,-81.49
+360076,Atrium Medical Center,Franklin,OH,39.50,-84.31
+360077,Fairview Hospital,Cleveland,OH,41.45,-81.82
+360078,Robinson Memorial Hospital,Ravenna,OH,41.18,-81.25
+360079,Kettering Medical Center,Kettering,OH,39.70,-84.19
+360080,East Ohio Regional Hospital,Martins Ferry,OH,40.10,-80.72
+360081,Mercy St Charles Hospital,Oregon,OH,41.63,-83.49
+360082,Euclid Hospital,Euclid,OH,41.60,-81.55
+360084,Aultman Hospital,Canton,OH,40.80,-81.40
+360085,Ohio State University Hospitals,Columbus,OH,39.99,-83.02
+360086,Springfield Regional Medical Center,Springfield,OH,39.93,-83.82
+360087,Lutheran Hospital,Cleveland,OH,41.49,-81.71
+360090,St Luke's Hospital,Maumee,OH,41.56,-83.68
+360091,Medina Hospital,Medina,OH,41.14,-81.84
+360092,Memorial Hospital Of Union County,Marysville,OH,40.23,-83.37
+360095,Blanchard Valley Hospital,Findlay,OH,41.02,-83.65
+360096,East Liverpool City Hospital,East Liverpool,OH,40.62,-80.59
+360098,Lake Health,Concord,OH,41.66,-81.25
+360101,Huron Hospital,Cleveland,OH,41.53,-81.58
+360107,Bellevue Hospital,Bellevue,OH,41.29,-82.88
+360109,Coshocton County Memorial Hospital,Coshocton,OH,40.27,-81.85
+360112,Mercy St Vincent Medical Center,Toledo,OH,41.67,-83.54
+360113,Mercy Franciscan Hospital Western Hills,Cincinnati,OH,39.14,-84.60
+360115,Uhhs Bedford Medical Center,Bedford,OH,41.39,-81.53
+360116,Southwest Regional Medical Center,Georgetown,OH,38.86,-83.90
+360118,Medcentral Health System,Mansfield,OH,40.75,-82.53
+360121,Community Hospitals And Wellness Centers,Bryan,OH,41.47,-84.56
+360123,St John Medical Center,Westlake,OH,41.44,-81.94
+360125,Ashtabula County Medical Center,Ashtabula,OH,41.88,-80.80
+360130,Amherst Hospital,Amherst,OH,41.40,-82.22
+360131,Alliance Community Hospital,Alliance,OH,40.90,-81.10
+360132,Fort Hamilton Hughes Memorial Hospital,Hamilton,OH,39.42,-84.57
+360133,Grandview Hospital & Medical Center,Dayton,OH,39.77,-84.20
+360134,Good Samaritan Hospital,Cincinnati,OH,39.14,-84.52
+360137,University Hospitals Of Cleveland,Cleveland,OH,41.51,-81.61
+360141,Northside Medical Center,Youngstown,OH,41.13,-80.66
+360143,Marymount Hospital,Garfield Heights,OH,41.42,-81.60
+360144,South Pointe Hospital,Warrensville Heights,OH,41.45,-81.54
+360145,Emh Regional Medical Center,Elyria,OH,41.37,-82.10
+360147,Marietta Memorial Hospital,Marietta,OH,39.43,-81.46
+360148,Pomerene Hospital,Millersburg,OH,40.57,-81.92
+360150,Summa Western Reserve Hospital,Cuyahoga Falls,OH,41.13,-81.51
+360151,Affinity Medical Center,Massillon,OH,40.81,-81.52
+360152,Doctors Hospital,Columbus,OH,39.95,-83.14
+360153,Belmont Community Hospital,Bellaire,OH,40.03,-80.74
+360155,Southwest General Health Center,Middleburg Heights,OH,41.37,-81.83
+360156,Memorial Hospital,Fremont,OH,41.34,-83.13
+360159,Adena Regional Medical Center,Chillicothe,OH,39.39,-82.97
+360161,St Joseph Health Center,Warren,OH,41.23,-80.78
+360163,Christ Hospital,Cincinnati,OH,39.12,-84.51
+360170,Berger Hospital,Circleville,OH,39.61,-82.94
+360172,Mercy Regional Medical Center,Lorain,OH,41.44,-82.24
+360174,Upper Valley Medical Center,Troy,OH,40.09,-84.22
+360175,Clinton Memorial Hospital,Wilmington,OH,39.45,-83.84
+360179,Bethesda North,Cincinnati,OH,39.25,-84.34
+360180,Cleveland Clinic,Cleveland,OH,41.50,-81.62
+360185,Salem Community Hospital,Salem,OH,40.90,-80.83
+360189,Madison County Hospital Inc,London,OH,39.89,-83.45
+360192,Uh Geauga Medical Center,Chardon,OH,41.51,-81.19
+360195,Summa Wadsworth-Rittman Hospital,Wadsworth,OH,41.03,-81.75
+360197,Mary Rutan Hospital,Bellefontaine,OH,40.37,-83.76
+360203,Southeastern Ohio Regional Medical Center,Cambridge,OH,40.04,-81.58
+360210,Grady Memorial Hospital,Delaware,OH,40.31,-83.09
+360211,Trinity Medical Ctr East&Trinity Medical Ctr West,Steubenville,OH,40.36,-80.63
+360212,Lakewood Hospital,Lakewood,OH,41.48,-81.80
+360218,Licking Memorial Hospital,Newark,OH,40.05,-82.45
+360230,Hillcrest Hospital,Mayfield Heights,OH,41.52,-81.43
+360234,Mercy Franciscan Hospital - Mt Airy,Cincinnati,OH,39.20,-84.57
+360236,Mercy Hospital Clermont,Batavia,OH,39.08,-84.14
+360239,Kettering Medical Center - Sycamore,Miamisburg,OH,39.64,-84.25
+360259,Bay Park Community Hospital,Oregon,OH,41.62,-83.48
+360262,Mercy St Anne Hospital,Toledo,OH,41.69,-83.62
+360270,Mercy Hospital Of Defiance,Defiance,OH,41.28,-84.34
+370001,Hillcrest Medical Center,Tulsa,OK,36.15,-95.97
+370002,Woodward Regional Hospital,Woodward,OK,36.44,-99.40
+370006,Ponca City Medical Center,Ponca City,OK,36.73,-97.07
+370007,Newman Memorial Hospital,Shattuck,OK,36.27,-99.88
+370008,Norman Regional Health System,Norman,OK,35.23,-97.44
+370011,Mercy Hospital El Reno,El Reno,OK,35.53,-97.98
+370013,"Mercy Health Center, Inc",Oklahoma City,OK,35.61,-97.60
+370014,Medical Center Of Southeastern Oklahoma,Durant,OK,34.01,-96.39
+370015,Integris Mayes County Medical Center,Pryor,OK,36.31,-95.31
+370016,Integris Bass Baptist Health Center,Enid,OK,36.39,-97.89
+370018,Jane Phillips Medical Center,Bartlesville,OK,36.75,-95.94
+370019,Great Plains Regional Medical Center,Elk City,OK,35.41,-99.43
+370020,Valley View Regional Hospital,Ada,OK,34.78,-96.63
+370022,Jackson County Memorial Hospital,Altus,OK,34.64,-99.32
+370023,"Duncan Regional Hospital, Inc",Duncan,OK,34.52,-97.97
+370025,Muskogee Regional Medical Center,Muskogee,OK,35.75,-95.41
+370026,St Mary's Regional Medical Center,Enid,OK,36.39,-97.87
+370028,Integris Baptist Medical Center,Oklahoma City,OK,35.53,-97.57
+370029,Integris Clinton Regional Hospital,Clinton,OK,35.51,-99.00
+370030,Integris Blackwell Regional Hospital,Blackwell,OK,36.80,-97.30
+370032,Deaconess Hospital,Oklahoma City,OK,35.53,-97.58
+370034,Mcalester Regional Health Center,Mcalester,OK,34.93,-95.75
+370036,Harmon Memorial Hospital,Hollis,OK,34.69,-99.91
+370037,St Anthony Hospital,Oklahoma City,OK,35.48,-97.52
+370039,Hillcrest Hospital Claremore,Claremore,OK,36.32,-95.61
+370040,Eastern Oklahoma Medical Center,Poteau,OK,35.04,-94.61
+370041,Bristow Medical Center,Bristow,OK,35.83,-96.40
+370047,Mercy Memorial Health Center,Ardmore,OK,34.19,-97.14
+370048,Mccurtain Memorial Hospital,Idabel,OK,33.88,-94.81
+370049,Stillwater Medical Center,Stillwater,OK,36.12,-97.07
+370051,Memorial Hospital & Physician Group,Frederick,OK,34.40,-99.01
+370054,Grady Memorial Hospital,Chickasha,OK,35.05,-97.96
+370056,Comanche County Memorial Hospital,Lawton,OK,34.61,-98.44
+370057,Okmulgee Memorial Hospital,Okmulgee,OK,35.61,-95.95
+370065,Craig General Hospital,Vinita,OK,36.65,-95.16
+370072,Latimer County General Hospital,Wilburton,OK,34.92,-95.32
+370078,Oklahoma State University Medical Center,Tulsa,OK,36.15,-96.00
+370080,Share Memorial Hospital,Alva,OK,36.79,-98.67
+370083,Pushmataha Cty-Tn Of Antlers Hosp Auth,Antlers,OK,34.23,-95.62
+370089,Tahlequah City Hospital,Tahlequah,OK,35.92,-94.95
+370091,"Saint Francis Hospital, Inc",Tulsa,OK,36.07,-95.92
+370094,Midwest Regional Medical Center,Midwest City,OK,35.47,-97.39
+370097,Southwestern Medical Center,Lawton,OK,34.59,-98.46
+370099,Hillcrest Hospital Cushing,Cushing,OK,35.98,-96.76
+370100,Choctaw Memorial Hospital,Hugo,OK,34.01,-95.49
+370106,Integris Southwest Medical Center,Oklahoma City,OK,35.42,-97.53
+370112,Sequoyah Memorial Hospital,Sallisaw,OK,35.46,-94.79
+370113,Integris Grove Hospital,Grove,OK,36.58,-94.76
+370114,"St John Medical Center, Inc",Tulsa,OK,36.13,-95.97
+370138,Memorial Hospital Of Texas County,Guymon,OK,36.69,-101.48
+370139,Perry Memorial Hospital,Perry,OK,36.29,-97.30
+370149,Unity Health Center,Shawnee,OK,35.36,-96.94
+370153,Elkview General Hospital,Hobart,OK,35.04,-99.10
+370156,Pauls Valley General Hospital,Pauls Valley,OK,34.77,-97.19
+370158,Purcell Municipal Hospital,Purcell,OK,35.03,-97.37
+370166,Wagoner Community Hospital,Wagoner,OK,35.96,-95.39
+370171,W W Hastings Indian Hospital,Tahlequah,OK,35.91,-94.95
+370172,Choctaw Nation Healthcare,Talihina,OK,34.76,-95.08
+370173,Claremore Indian Hospital,Claremore,OK,36.32,-95.63
+370178,Memorial Hospital Of Stilwell,Stilwell,OK,35.81,-94.64
+370180,Chickasaw Nation Medical Center,Ada,OK,34.73,-96.65
+370190,Southwestern Regional Medical Center,Tulsa,OK,36.05,-95.86
+370202,Hillcrest Hospital South,Tulsa,OK,36.04,-95.87
+370211,Integris Canadian Valley  Hospital,Yukon,OK,35.48,-97.76
+370215,Oklahoma Heart Hospital,Oklahoma City,OK,35.61,-97.59
+370218,Saint Francis Hospital South,Tulsa,OK,36.03,-95.86
+380001,Mid-Columbia Medical Center,The Dalles,OR,45.59,-121.17
+380002,Three Rivers Community Hospital,Grants Pass,OR,42.42,-123.34
+380004,Providence St Vincent Medical Center,Portland,OR,45.51,-122.77
+380005,Ashland Community Hospital,Ashland,OR,42.21,-122.72
+380007,Legacy Emanuel Medical Center,Portland,OR,45.54,-122.67
+380009,Ohsu Hospital And Clinics,Portland,OR,45.50,-122.69
+380014,Good Samaritan Regional Medical Center,Corvallis,OR,44.60,-123.25
+380017,Legacy Good Samaritan Medical Center,Portland,OR,45.53,-122.70
+380018,Rogue Valley Medical Center,Medford,OR,42.32,-122.83
+380020,Mckenzie-Willamette Medical Center,Springfield,OR,44.05,-123.00
+380021,Tuality Community Hospital,Hillsboro,OR,45.52,-122.98
+380022,Samaritan Albany General Hospital,Albany,OR,44.63,-123.11
+380025,Legacy Mount Hood Medical Center,Gresham,OR,45.52,-122.41
+380027,Mercy Medical Center,Roseburg,OR,43.24,-123.37
+380029,Silverton Hospital,Silverton,OR,45.00,-122.79
+380033,Sacred Heart University District,Eugene,OR,44.05,-123.08
+380037,Providence Newberg Medical Center,Newberg,OR,45.31,-122.93
+380038,Providence Willamette Falls Medical Center,Oregon City,OR,45.36,-122.59
+380040,St Charles Medical Center - Redmond,Redmond,OR,44.29,-121.17
+380047,St Charles Medical Center - Bend,Bend,OR,44.07,-121.27
+380050,Sky Lakes Medical Center,Klamath Falls,OR,42.25,-121.79
+380051,Salem Hospital,Salem,OR,44.93,-123.03
+380052,"St Alphonsus Medical Center - Ontario, Inc",Ontario,OR,44.03,-116.98
+380056,Santiam Memorial Hospital,Stayton,OR,44.80,-122.79
+380060,Adventist Medical Center,Portland,OR,45.51,-122.56
+380061,Providence Portland Medical Center,Portland,OR,45.53,-122.61
+380071,Willamette Valley Medical Center,Mcminnville,OR,45.20,-123.16
+380075,Providence Medford Medical Center,Medford,OR,42.34,-122.86
+380082,Providence Milwaukie Hospital,Milwaukie,OR,45.45,-122.63
+380089,Legacy Meridian Park Medical Center,Tualatin,OR,45.38,-122.74
+380090,Bay Area Hospital,Coos Bay,OR,43.39,-124.23
+390001,Community Medical Center,Scranton,PA,41.40,-75.65
+390002,Upmc Mckeesport,Mc Keesport,PA,40.35,-79.85
+390003,Bloomsburg Hospital,Bloomsburg,PA,41.01,-76.45
+390004,Holy Spirit Hospital,Camp Hill,PA,40.25,-76.92
+390006,Geisinger Medical Center,Danville,PA,40.97,-76.61
+390008,Ellwood City Hospital,Ellwood City,PA,40.87,-80.28
+390009,Saint Vincent Health Center,Erie,PA,42.11,-80.08
+390012,Lansdale Hospital,Lansdale,PA,40.25,-75.27
+390013,Evangelical Community Hospital,Lewisburg,PA,40.98,-76.89
+390016,Jameson Memorial Hospital,New Castle,PA,41.01,-80.35
+390019,Palmerton Hospital,Palmerton,PA,40.80,-75.62
+390026,Chestnut Hill Hospital,Philadelphia,PA,40.08,-75.21
+390027,Temple University Hospital,Philadelphia,PA,40.01,-75.15
+390028,Upmc Mercy,Pittsburgh,PA,40.44,-79.99
+390030,Schuylkill Medical Center - South Jackson Street,Pottsville,PA,40.68,-76.19
+390031,Schuylkill Medical Center - East Norwegian Street,Pottsville,PA,40.69,-76.19
+390032,Alle Kiski Medical Center,Natrona,PA,40.62,-79.74
+390035,St Luke's Quakertown Hospital,Quakertown,PA,40.44,-75.35
+390036,Heritage Valley Beaver,Beaver,PA,40.71,-80.32
+390037,Heritage Valley Sewickley,Sewickley,PA,40.54,-80.18
+390039,Somerset Hospital,Somerset,PA,40.01,-79.08
+390041,Uniontown Hospital,Uniontown,PA,39.90,-79.74
+390042,"Washington Hospital, The",Washington,PA,40.18,-80.25
+390043,Soldiers And Sailors Memorial Hospital,Wellsboro,PA,41.75,-77.30
+390045,Williamsport Regional Medical Center,Williamsport,PA,41.25,-77.01
+390046,York Hospital,York,PA,39.95,-76.72
+390048,Lewistown Hospital,Lewistown,PA,40.62,-77.57
+390049,St Luke's Hospital Bethlehem,Bethlehem,PA,40.61,-75.39
+390050,Allegheny General Hospital,Pittsburgh,PA,40.46,-80.00
+390052,Clearfield Hospital,Clearfield,PA,41.03,-78.45
+390056,J C Blair Memorial Hospital,Huntingdon,PA,40.49,-78.01
+390057,Grand View Hospital,Sellersville,PA,40.36,-75.33
+390058,Carlisle Regional Medical Center,Carlisle,PA,40.18,-77.22
+390061,Lancaster Regional Medical Center,Lancaster,PA,40.04,-76.32
+390062,Nason Hospital,Roaring Spring,PA,40.34,-78.39
+390063,Upmc Hamot,Erie,PA,42.13,-80.09
+390065,Gettysburg Hospital,Gettysburg,PA,39.82,-77.23
+390067,Pinnacle Health Hospitals,Harrisburg,PA,40.26,-76.88
+390070,Lower Bucks Hospital,Bristol,PA,40.10,-74.86
+390071,Lock Haven Hospital,Lock Haven,PA,41.13,-77.47
+390072,Berwick Hospital Center,Berwick,PA,41.07,-76.23
+390073,Altoona Regional Health System,Altoona,PA,40.52,-78.40
+390076,Brandywine Hospital,Coatesville,PA,40.01,-75.79
+390080,Jeanes Hospital,Philadelphia,PA,40.07,-75.09
+390081,Delaware County Memorial Hospital,Drexel Hill,PA,39.95,-75.28
+390084,Sunbury Community Hospital,Sunbury,PA,40.86,-76.78
+390086,Dubois Regional Medical Center,Dubois,PA,41.11,-78.78
+390090,Western Pennsylvania Hospital,Pittsburgh,PA,40.46,-79.95
+390091,Upmc Northwest,Seneca,PA,41.36,-79.70
+390093,Clarion Hospital,Clarion,PA,41.19,-79.40
+390095,Marian Community Hospital,Carbondale,PA,41.57,-75.50
+390096,St Joseph Medical Center,Reading,PA,40.38,-75.98
+390100,Lancaster General Hospital,Lancaster,PA,40.05,-76.31
+390101,Memorial Hospital York,York,PA,39.97,-76.69
+390102,Upmc St Margaret,Pittsburgh,PA,40.49,-79.90
+390104,Kane Community Hospital,Kane,PA,41.67,-78.82
+390107,Upmc Passavant,Pittsburgh,PA,40.57,-80.02
+390110,Conemaugh Valley Memorial Hospital,Johnstown,PA,40.31,-78.92
+390112,Windber Hospital,Windber,PA,40.24,-78.84
+390113,Meadville Medical Center,Meadville,PA,41.62,-80.15
+390114,Magee Womens Hospital Of Upmc Health System,Pittsburgh,PA,40.44,-79.96
+390115,Aria Health,Philadelphia,PA,40.07,-74.98
+390116,Mercy Suburban Hospital,Norristown,PA,40.14,-75.32
+390117,Upmc Bedford,Everett,PA,40.02,-78.43
+390118,Bradford Regional Medical Center,Bradford,PA,41.96,-78.66
+390119,Moses Taylor Hospital,Scranton,PA,41.41,-75.65
+390122,Titusville Hospital,Titusville,PA,41.63,-79.68
+390125,Wayne Memorial Hospital,Honesdale,PA,41.58,-75.26
+390127,Phoenixville Hospital,Phoenixville,PA,40.12,-75.52
+390132,St Joseph's Hospital,Philadelphia,PA,39.97,-75.16
+390137,Wilkes-Barre General Hospital,Wilkes-Barre,PA,41.26,-75.87
+390138,Waynesboro Hospital,Waynesboro,PA,39.75,-77.57
+390139,Main Line Hospital Bryn Mawr Campus,Bryn Mawr,PA,40.02,-75.32
+390142,Albert Einstein Medical Center,Philadelphia,PA,40.04,-75.14
+390145,Excela Health Westmoreland Regional Hospital,Greensburg,PA,40.30,-79.56
+390146,Warren General Hospital,Warren,PA,41.84,-79.15
+390147,Monongahela Valley Hospital,Monongahela,PA,40.18,-79.92
+390150,Southwest Regional Medical Center,Waynesburg,PA,39.90,-80.17
+390151,Chambersburg Hospital,Chambersburg,PA,39.93,-77.65
+390153,Main Line Hospital Paoli,Paoli,PA,40.04,-75.50
+390154,Elk Regional Health Center,Saint Marys,PA,41.43,-78.58
+390157,Ohio Valley General Hospital,Mckees Rocks,PA,40.47,-80.09
+390160,Canonsburg General Hospital,Canonsburg,PA,40.25,-80.19
+390162,Easton Hospital,Easton,PA,40.69,-75.24
+390163,Acmh Hospital,Kittanning,PA,40.81,-79.56
+390164,Upmc Presbyterian Shadyside,Pittsburgh,PA,40.44,-79.96
+390168,Butler Memorial Hospital,Butler,PA,40.87,-79.88
+390173,Indiana Regional Medical Center,Indiana,PA,40.61,-79.16
+390174,Thomas Jefferson University Hospital,Philadelphia,PA,39.95,-75.16
+390178,Upmc Horizon,Greenville,PA,41.41,-80.37
+390179,Chester County Hospital,West Chester,PA,39.97,-75.60
+390180,Crozer Chester Medical Center,Upland,PA,39.86,-75.37
+390183,St Luke's Miners Memorial Hospital,Coaldale,PA,40.82,-75.91
+390184,Highlands Hospital,Connellsville,PA,40.02,-79.59
+390185,Hazleton General Hospital,Hazleton,PA,40.95,-75.96
+390192,Tyler Memorial Hospital,Tunkhannock,PA,41.55,-75.92
+390194,Gnaden Huetten Memorial Hospital,Lehighton,PA,40.83,-75.73
+390195,Main Line Hospital Lankenau,Wynnewood,PA,39.99,-75.26
+390197,Sacred Heart Hospital,Allentown,PA,40.61,-75.47
+390198,Millcreek Community Hospital,Erie,PA,42.07,-80.09
+390199,Punxsutawney Area Hospital,Punxsutawney,PA,40.96,-79.00
+390201,Pocono Medical Center,East Stroudsburg,PA,40.99,-75.17
+390203,Doylestown Hospital,Doylestown,PA,40.31,-75.15
+390204,Nazareth Hospital,Philadelphia,PA,40.06,-75.04
+390211,Sharon Regional Health System,Sharon,PA,41.23,-80.50
+390217,Excela Health Frick Hospital,Mount Pleasant,PA,40.15,-79.55
+390219,Excela Health Latrobe Hospital,Latrobe,PA,40.32,-79.39
+390220,Jennersville Regional Hospital,West Grove,PA,39.82,-75.89
+390222,Riddle Memorial Hospital,Media,PA,39.91,-75.43
+390223,Penn Presbyterian Medical Center,Philadelphia,PA,39.96,-75.20
+390225,Ephrata Community Hospital,Ephrata,PA,40.19,-76.18
+390226,Pennsylvania Hosp Of The Univ Of Pa Health Sys,Philadelphia,PA,39.95,-75.16
+390228,St Clair Memorial Hospital,Pittsburgh,PA,40.38,-80.07
+390231,Abington Memorial Hospital,Abington,PA,40.12,-75.12
+390233,Hanover Hospital,Hanover,PA,39.81,-76.98
+390236,"Memorial Hospital, Inc  Towanda",Towanda,PA,41.78,-76.45
+390237,Regional Hospital Of Scranton,Scranton,PA,41.41,-75.66
+390256,Milton S Hershey Medical Center,Hershey,PA,40.26,-76.68
+390263,Lehigh Valley Hospital - Muhlenberg,Bethlehem,PA,40.65,-75.41
+390265,Jefferson Regional Medical Center,Pittsburgh,PA,40.32,-79.93
+390267,Western Pennsylvania Hosp Forbes Regional Campus,Monroeville,PA,40.43,-79.75
+390268,Mount Nittany Medical Center,State College,PA,40.80,-77.87
+390270,Geisinger Wyoming Valley Medical Center,Wilkes Barre,PA,41.26,-75.81
+390290,Hahnemann University Hospital,Philadelphia,PA,39.96,-75.16
+390304,Roxborough Memorial Hospital,Philadelphia,PA,40.03,-75.21
+390313,Saint Catherine Medical Center Fountain Springs,Ashland,PA,40.77,-76.33
+410001,Memorial Hospital Of Rhode Island,Pawtucket,RI,41.87,-71.38
+410004,Roger Williams Medical Center,Providence,RI,41.83,-71.44
+410005,St Joseph Health Services Of Ri,North Providence,RI,41.86,-71.46
+410007,Rhode Island Hospital,Providence,RI,41.81,-71.41
+410008,South County Hospital Inc,Wakefield,RI,41.43,-71.50
+410009,Kent County Memorial Hospital,Warwick,RI,41.71,-71.48
+410010,Women And Infants Hospital Of Rhode Island,Providence,RI,41.81,-71.41
+410011,"Landmark Medical Center,  Inc",Woonsocket,RI,42.00,-71.50
+410012,Miriam Hospital,Providence,RI,41.85,-71.40
+410013,Westerly Hospital,Westerly,RI,41.36,-71.82
+420002,Piedmont Medical Center,Rock Hill,SC,34.96,-81.05
+420004,Musc Medical Center,Charleston,SC,32.78,-79.95
+420005,Mcleod Medical Center - Dillon,Dillon,SC,34.42,-79.37
+420007,Spartanburg Regional Medical Center,Spartanburg,SC,34.97,-81.94
+420009,Oconee Medical Center,Seneca,SC,34.70,-82.99
+420010,Carolina Pines Regional Medical Center,Hartsville,SC,34.35,-80.10
+420015,Baptist Easley Hospital,Easley,SC,34.84,-82.61
+420016,Barnwell County Hospital,Barnwell,SC,33.26,-81.36
+420018,Palmetto Health Richland,Columbia,SC,34.03,-81.03
+420023,St Francis-Downtown,Greenville,SC,34.84,-82.42
+420026,Sisters Of Charity Providence Hospitals,Columbia,SC,34.01,-81.01
+420027,Anmed Health,Anderson,SC,34.51,-82.65
+420030,Colleton Medical Center,Walterboro,SC,32.92,-80.67
+420033,Greer Memorial Hospital,Greer,SC,34.92,-82.24
+420036,Springs Memorial Hospital,Lancaster,SC,34.72,-80.79
+420037,Hillcrest Memorial Hospital,Simpsonville,SC,34.72,-82.25
+420039,Wallace Thomson Hospital,Union,SC,34.71,-81.63
+420043,Upstate Carolina Medical Center,Gaffney,SC,35.09,-81.63
+420049,Conway Medical Center,Conway,SC,33.78,-79.00
+420053,Newberry County Memorial Hospital,Newberry,SC,34.29,-81.61
+420054,Marlboro Park Hospital,Bennettsville,SC,34.64,-79.70
+420055,Marion Regional Hospital,Mullins,SC,34.20,-79.27
+420056,Bamberg County Memorial Hospital,Bamberg,SC,33.31,-81.03
+420057,Mcleod Medical Center - Darlington,Darlington,SC,34.32,-79.82
+420062,Chesterfield General Hospital,Cheraw,SC,34.70,-79.92
+420064,Loris Community Hospital,Loris,SC,34.06,-78.90
+420065,Bon Secours-St Francis Xavier Hospital,Charleston,SC,32.81,-80.04
+420066,Lake City Community Hospital,Lake City,SC,33.88,-79.76
+420067,Beaufort County Memorial Hospital,Beaufort,SC,32.42,-80.69
+420070,Tuomey Healthcare System,Sumter,SC,33.92,-80.34
+420071,Self Regional Healthcare,Greenwood,SC,34.18,-82.16
+420072,Hampton Regional Medical Center,Varnville,SC,32.85,-81.09
+420073,Lexington Medical Center,West Columbia,SC,34.01,-81.11
+420078,Greenville Memorial Hospital,Greenville,SC,34.82,-82.41
+420079,Trident Medical Center,Charleston,SC,32.98,-80.07
+420080,Hilton Head Regional Medical Center,Hilton Head Island,SC,32.22,-80.71
+420082,Aiken Regional Medical Center,Aiken,SC,33.57,-81.76
+420087,Roper Hospital,Charleston,SC,32.78,-79.95
+420089,East Cooper Medical Center,Mount Pleasant,SC,32.82,-79.85
+420098,Waccamaw Community Hospital,Murrells Inlet,SC,33.56,-79.04
+430005,Prairie Lakes Hospital,Watertown,SD,44.91,-97.12
+430008,Brookings Hospital,Brookings,SD,44.30,-96.77
+430012,Avera Sacred Heart Hospital,Yankton,SD,42.87,-97.41
+430013,Avera Queen Of Peace,Mitchell,SD,43.71,-98.01
+430014,Avera St Lukes,Aberdeen,SD,45.46,-98.48
+430015,St Marys Hospital,Pierre,SD,44.36,-100.33
+430016,Avera Mckennan Hospital & University Health Center,Sioux Falls,SD,43.53,-96.71
+430027,Sanford Usd Medical Center,Sioux Falls,SD,43.54,-96.74
+430048,Spearfish Regional Hospital,Spearfish,SD,44.50,-103.86
+430077,Rapid City Regional Hospital,Rapid City,SD,44.06,-103.22
+430095,Avera Heart Hospital Of South Dakota Llc,Sioux Falls,SD,43.49,-96.78
+440002,Jackson-Madison County General Hospital,Jackson,TN,35.64,-88.83
+440003,Sumner Regional Medical Center,Gallatin,TN,36.39,-86.43
+440007,United Regional Medical Center,Manchester,TN,35.47,-86.08
+440008,Henderson County Community Hospital,Lexington,TN,35.65,-88.40
+440009,Cumberland Medical Center,Crossville,TN,35.94,-85.02
+440010,Wayne Medical Center,Waynesboro,TN,35.33,-87.76
+440011,Blount Memorial Hospital,Maryville,TN,35.76,-83.96
+440012,Wellmont Bristol Regional Medical Center,Bristol,TN,36.59,-82.26
+440015,University Of Tn Memorial Hospital,Knoxville,TN,35.94,-83.94
+440016,Baptist Memorial Hospital Huntingdon,Huntingdon,TN,36.02,-88.41
+440017,Wellmont Holston Valley Medical Center,Kingsport,TN,36.55,-82.55
+440018,Sycamore Shoals Hospital,Elizabethton,TN,36.35,-82.23
+440020,Hillside Hospital,Pulaski,TN,35.19,-87.01
+440025,"Laughlin Memorial Hospital, Inc",Greeneville,TN,36.18,-82.79
+440029,Williamson Medical Center,Franklin,TN,35.92,-86.82
+440030,Morristown Hamblen Hospital Association,Morristown,TN,36.21,-83.30
+440031,Roane Medical Center,Harriman,TN,35.94,-84.55
+440032,Wellmont Hawkins County Memorial Hospital,Rogersville,TN,36.40,-83.01
+440033,Tennova Healthcare-Lafollett Medical Center,La Follette,TN,36.39,-84.11
+440035,Gateway Medical Center,Clarksville,TN,36.58,-87.27
+440039,Vanderbilt University Hospital,Nashville,TN,36.14,-86.80
+440040,Perry Community Hospital,Linden,TN,35.59,-87.86
+440047,Gibson General Hospital,Trenton,TN,35.96,-88.94
+440048,Baptist Memorial Hospital,Memphis,TN,35.13,-89.86
+440050,Takoma Regional Hospital,Greeneville,TN,36.15,-82.85
+440051,Mcnairy Regional Hospital,Selmer,TN,35.16,-88.58
+440053,Middle Tennessee Medical Center Inc,Murfreesboro,TN,35.86,-86.41
+440056,Tennova Healthcare-Jefferson Memorial Hospital,Jefferson City,TN,36.11,-83.52
+440058,Southern Tennessee Medical Center,Winchester,TN,35.18,-86.09
+440060,Milan General Hospital,Milan,TN,35.91,-88.75
+440061,Volunteer Community Hospital,Martin,TN,36.33,-88.87
+440063,Johnson City Medical Center,Johnson City,TN,36.31,-82.38
+440064,Grandview Medical Center,Jasper,TN,35.05,-85.63
+440067,Lakeway Regional Hospital,Morristown,TN,36.21,-83.30
+440068,Athens Regional Medical Center,Athens,TN,35.44,-84.61
+440070,Decatur County General Hospital,Parsons,TN,35.64,-88.12
+440072,Dyersburg Regional Medical Center,Dyersburg,TN,36.05,-89.38
+440073,Maury Regional Hospital,Columbia,TN,35.61,-87.07
+440081,Leconte Medical Center,Sevierville,TN,35.85,-83.54
+440082,St Thomas Hospital,Nashville,TN,36.13,-86.84
+440083,Jamestown Regional Medical Center,Jamestown,TN,36.43,-84.94
+440084,Sweetwater Hospital Association,Sweetwater,TN,35.60,-84.46
+440091,"Memorial Healthcare System, Inc",Chattanooga,TN,35.04,-85.26
+440104,Erlanger Medical Center,Chattanooga,TN,35.05,-85.29
+440109,Hardin Medical Center,Savannah,TN,35.23,-88.23
+440110,Fort Loudoun Medical Center,Lenoir City,TN,35.83,-84.27
+440111,Metro Nashville General Hospital,Nashville,TN,36.17,-86.81
+440115,Humboldt General Hospital Inc,Humboldt,TN,35.82,-88.90
+440120,Tennova Healthcare,Knoxville,TN,35.99,-83.93
+440125,Fort Sanders Regional Medical Center,Knoxville,TN,35.96,-83.94
+440130,Baptist Memorial Hospital Union City,Union City,TN,36.41,-89.04
+440131,Baptist Memorial Hospital Tipton,Covington,TN,35.54,-89.68
+440132,Henry County Medical Center,Paris,TN,36.30,-88.31
+440133,Baptist Hospital,Nashville,TN,36.15,-86.80
+440137,Heritage Medical Center,Shelbyville,TN,35.56,-86.45
+440141,Cumberland River Hospital,Celina,TN,36.55,-85.51
+440148,Stones River Hospital And Dekalb Community Hosp,Smithville,TN,35.96,-85.83
+440150,Summit Medical Center,Hermitage,TN,36.18,-86.61
+440151,River Park Hospital,Mc Minnville,TN,35.70,-85.74
+440152,Regional Medical Center At Memphis,Memphis,TN,35.14,-90.03
+440153,Tennova Healthcare-Newport Medical Center,Newport,TN,35.97,-83.18
+440156,Parkridge Medical Center,Chattanooga,TN,35.03,-85.27
+440159,Delta Medical Center,Memphis,TN,35.07,-89.93
+440161,Centennial Medical Center,Nashville,TN,36.15,-86.81
+440168,Methodist Healthcare Fayette Hospital,Somerville,TN,35.25,-89.36
+440173,Parkwest Medical Center,Knoxville,TN,35.92,-84.10
+440174,Haywood Park Community Hospital,Brownsville,TN,35.61,-89.24
+440176,Indian Path Medical Center,Kingsport,TN,36.55,-82.51
+440180,Jellico Community Hospital,Jellico,TN,36.57,-84.13
+440181,Bolivar General Hospital,Bolivar,TN,35.27,-89.00
+440182,Mckenzie Regional Hospital,Mc Kenzie,TN,36.14,-88.49
+440183,St Francis Hospital,Memphis,TN,35.10,-89.86
+440184,Franklin Woods Community Hospital,Johnson City,TN,36.35,-82.37
+440185,Skyridge Medical Center,Cleveland,TN,35.18,-84.87
+440186,Riverview Regional Medical Center North,Carthage,TN,36.26,-85.95
+440189,Regional Hospital Of Jackson,Jackson,TN,35.68,-88.85
+440192,White County Community Hospital,Sparta,TN,35.95,-85.48
+440193,University Medical Center,Lebanon,TN,36.22,-86.33
+440194,Hendersonville Medical Center,Hendersonville,TN,36.33,-86.62
+440197,Southern Hills Medical Ctr,Nashville,TN,36.08,-86.72
+440200,Stones River Hospital & Dekalb Community Hospital,Woodbury,TN,35.83,-86.07
+440227,Stonecrest Medical Center,Smyrna,TN,35.98,-86.57
+440228,Saint Francis Bartlett Medical Center,Bartlett,TN,35.21,-89.80
+450002,Providence Memorial Hospital,El Paso,TX,31.77,-106.50
+450005,Memorial Hermann Baptist Orange Hospital,Orange,TX,30.10,-93.77
+450007,Peterson Regional Medical Center,Kerrville,TX,30.04,-99.15
+450010,United Regional Health Care System,Wichita Falls,TX,33.90,-98.50
+450011,St Joseph Regional Health Center,Bryan,TX,30.66,-96.35
+450015,Parkland Health And Hospital System,Dallas,TX,32.81,-96.83
+450018,University Of Texas Medical Branch Gal,Galveston,TX,29.31,-94.77
+450021,Baylor University Medical Center,Dallas,TX,32.79,-96.78
+450023,Citizens Medical Center,Victoria,TX,28.81,-96.98
+450024,University Medical Center Of El Paso,El Paso,TX,31.77,-106.44
+450028,"Vhs Brownsville Hospital Company, Llc",Brownsville,TX,25.92,-97.51
+450029,Laredo Medical Center,Laredo,TX,27.53,-99.48
+450032,Good Shepherd Medical Center Marshall,Marshall,TX,32.54,-94.37
+450033,Vhs Harlingen Hospital Company Llc,Harlingen,TX,26.17,-97.67
+450034,Christus Hospital,Beaumont,TX,30.09,-94.13
+450035,St Joseph Medical Center,Houston,TX,29.75,-95.37
+450037,Good Shepherd Medical Center,Longview,TX,32.50,-94.73
+450039,Jps Health Network,Fort Worth,TX,32.73,-97.33
+450040,Covenant Medical Center,Lubbock,TX,33.58,-101.89
+450042,Providence Health Center,Waco,TX,31.51,-97.20
+450044,Ut Southwestern University Hospital,Dallas,TX,32.81,-96.84
+450046,Christus Spohn Hospital Corpus Christi,Corpus Christi,TX,27.78,-97.40
+450051,Methodist Dallas Medical Center,Dallas,TX,32.76,-96.82
+450052,Goodall Witcher Hospital,Clifton,TX,31.78,-97.59
+450054,Scott & White Memorial Hospital,Temple,TX,31.09,-97.36
+450055,Rolling Plains Memorial Hospital,Sweetwater,TX,32.45,-100.40
+450056,Seton Medical Center Austin,Austin,TX,30.30,-97.75
+450058,Baptist Medical Center,San Antonio,TX,29.43,-98.49
+450064,Texas Health Arlington Memorial Hospital,Arlington,TX,32.75,-97.12
+450068,Memorial Hermann Texas Medical Center,Houston,TX,29.71,-95.40
+450072,Brazosport Regional Health System,Lake Jackson,TX,29.03,-95.45
+450073,Cogdell Memorial Hospital,Snyder,TX,32.69,-100.92
+450078,Anson General Hospital,Anson,TX,32.77,-99.90
+450079,Baylor Medical Center At Irving,Irving,TX,32.84,-96.96
+450080,Titus Regional Medical Center,Mount Pleasant,TX,33.18,-94.97
+450082,Christus Spohn Hospital Beeville,Beeville,TX,28.42,-97.73
+450083,East Texas Medical Center,Tyler,TX,32.34,-95.29
+450085,Graham Regional Medical Center,Graham,TX,33.09,-98.58
+450087,North Hills Hospital,North Richland Hills,TX,32.83,-97.21
+450097,Bayshore Medical Center,Pasadena,TX,29.67,-95.18
+450102,Mother Frances Hospital,Tyler,TX,32.34,-95.29
+450104,Guadalupe Regional Medical Center,Seguin,TX,29.57,-97.95
+450107,Las Palmas Medical Center,El Paso,TX,31.77,-106.50
+450108,Connally Memorial Medical Center,Floresville,TX,29.15,-98.16
+450119,South Texas Health System,Edinburg,TX,26.26,-98.18
+450123,Renaissance Hospital Groves,Groves,TX,29.94,-93.92
+450124,University Medical Center At Brackenridge,Austin,TX,30.27,-97.73
+450128,Knapp Medical Center,Weslaco,TX,25.95,-97.51
+450132,Medical Center Hospital,Odessa,TX,31.85,-102.37
+450133,Midland Memorial Hospital,Midland,TX,32.00,-102.10
+450135,Texas Health Harris Methodist Fort Worth,Fort Worth,TX,32.74,-97.34
+450137,Baylor All Saints Medical Center At Fw,Fort Worth,TX,32.73,-97.35
+450143,Seton Smithville Regional Hospital,Smithville,TX,30.00,-97.14
+450144,Permian Regional Medical Center Andrews County Ho,Andrews,TX,32.34,-102.55
+450147,Detar Hospital Navarro,Victoria,TX,28.81,-97.00
+450148,Texas Health Harris Methodist Hospital Cleburne,Cleburne,TX,32.33,-97.44
+450152,Metroplex Hospital,Killeen,TX,31.11,-97.80
+450154,Val Verde Regional Medical Center,Del Rio,TX,29.37,-100.89
+450155,Hereford Regional Medical Center,Hereford,TX,34.82,-102.39
+450162,Grace Medical Center,Lubbock,TX,33.55,-101.87
+450163,Christus Spohn Hospital Kleberg,Kingsville,TX,27.49,-97.85
+450165,South Texas Regional Medical Center,Jourdanton,TX,28.92,-98.54
+450176,Mission Regional Medical Center,Mission,TX,26.20,-98.31
+450177,Uvalde Memorial Hospital,Uvalde,TX,29.21,-99.77
+450178,Pecos County Memorial Hospital,Fort Stockton,TX,30.89,-102.88
+450184,Memorial Hermann Hospital System,Houston,TX,29.81,-95.43
+450187,Trinity Medical Center,Brenham,TX,30.15,-96.40
+450188,Etmc Clarksville,Clarksville,TX,33.61,-95.10
+450192,Hill Regional Hospital,Hillsboro,TX,32.01,-97.10
+450193,St Lukes Episcopal Hospital,Houston,TX,29.71,-95.40
+450194,East Texas Medical Center Jacksonville,Jacksonville,TX,31.96,-95.27
+450196,Paris Regional Medical Center,Paris,TX,33.66,-95.55
+450200,Wadley Regional Medical Center,Texarkana,TX,33.43,-94.05
+450203,Weatherford Regional Medical Center,Weatherford,TX,32.75,-97.78
+450209,Northwest Texas Hospital,Amarillo,TX,35.20,-101.92
+450210,Etmc Carthage,Carthage,TX,32.17,-94.35
+450211,Memorial Health System Of East Texas- Lufkin,Lufkin,TX,31.34,-94.74
+450213,University Health System,San Antonio,TX,29.51,-98.58
+450219,Scott & White Hospital-Llano,Llano,TX,30.74,-98.68
+450221,Moore County Hospital District,Dumas,TX,35.86,-101.97
+450222,Conroe Regional Medical Center,Conroe,TX,30.28,-95.47
+450229,Hendrick Medical Center,Abilene,TX,32.47,-99.73
+450231,Baptist St Anthonys Health System-Baptist Campus,Amarillo,TX,35.19,-101.92
+450234,Comanche County Medical Center,Comanche,TX,31.98,-98.56
+450235,Memorial Hospital,Gonzales,TX,29.52,-97.43
+450236,Hopkins County Memorial Hospital,Sulphur Springs,TX,33.16,-95.60
+450237,Christus Santa Rosa Hospital,San Antonio,TX,29.43,-98.50
+450241,Faith Community Hospital,Jacksboro,TX,33.23,-98.17
+450243,Hamlin Memorial Hospital,Hamlin,TX,32.89,-100.13
+450253,Bellville General Hospital,Bellville,TX,29.95,-96.26
+450270,Lake Whitney Medical Center,Whitney,TX,31.95,-97.32
+450272,Central Texas Medical Center,San Marcos,TX,29.85,-97.95
+450280,Baylor Medical Center At Garland,Garland,TX,32.92,-96.66
+450283,Cozby-Germany Hospital,Grand Saline,TX,32.68,-95.72
+450289,Harris County Hospital District,Houston,TX,29.69,-95.39
+450296,Cleveland Regional Medical Ctr,Cleveland,TX,30.34,-95.09
+450299,College Station Medical Center,College Station,TX,30.58,-96.29
+450306,Stamford Memorial Hospital,Stamford,TX,32.93,-99.78
+450324,Texoma Medical Center,Denison,TX,33.71,-96.58
+450330,Oakbend Medical Center,Richmond,TX,29.58,-95.77
+450340,San Angelo Community Medical Center,San Angelo,TX,31.42,-100.47
+450346,Memorial Hermann Baptist Beaumont Hospital,Beaumont,TX,30.07,-94.12
+450347,Huntsville Memorial Hospital,Huntsville,TX,30.70,-95.56
+450348,Falls Community Hospital And Clinic,Marlin,TX,31.31,-96.89
+450351,Texas Health Harris Methodist Hospital Stephenvill,Stephenville,TX,32.22,-98.20
+450352,Hunt Regional Medical Center,Greenville,TX,33.12,-96.12
+450358,"Methodist Hospital,The",Houston,TX,29.71,-95.40
+450370,Columbus Community Hospital,Columbus,TX,29.69,-96.54
+450372,Baylor Medical Center At Waxahachie,Waxahachie,TX,32.40,-96.86
+450373,East Texas Medical Center Mount Vernon,Mount Vernon,TX,33.19,-95.23
+450379,Dallas Medical Center,Dallas,TX,32.92,-96.87
+450388,Methodist Hospital,San Antonio,TX,29.51,-98.57
+450389,East Texas Medical Center Athens,Athens,TX,32.17,-95.84
+450395,Memorial Medical Center Livingston,Livingston,TX,30.69,-94.94
+450399,Brownfield Regional Medical Center,Brownfield,TX,33.19,-102.27
+450400,Parkview Regional Hospital,Mexia,TX,31.68,-96.48
+450403,Medical Center Of Mckinney,Mckinney,TX,33.16,-96.64
+450411,Eastland Memorial Hospital,Eastland,TX,32.40,-98.82
+450419,Texas Health Harris Methodist Hospital Azle,Azle,TX,32.88,-97.53
+450424,San Jacinto Methodist Hospital,Baytown,TX,29.77,-94.98
+450431,St Davids Medical Center,Austin,TX,30.29,-97.73
+450438,Colorado Fayette Medical Center,Weimar,TX,29.69,-96.78
+450447,Navarro Regional Hospital,Corsicana,TX,32.09,-96.50
+450451,Glen Rose Medical Center,Glen Rose,TX,32.24,-97.75
+450460,Tyler County Hospital,Woodville,TX,30.78,-94.43
+450462,Texas Health Presbyterian Hospital  Dallas,Dallas,TX,32.88,-96.76
+450465,Matagorda Regional Medical Center,Bay City,TX,28.98,-95.99
+450469,Texas Health Presbyterian Hospital-Wnj,Sherman,TX,33.64,-96.62
+450475,Etmc Henderson,Henderson,TX,32.16,-94.80
+450484,Woodland Heights Medical Center,Lufkin,TX,31.33,-94.76
+450488,Allegiance Specialty Hospital Of Kilgore,Kilgore,TX,32.37,-94.87
+450489,Medical Arts Hospital,Lamesa,TX,32.75,-101.97
+450497,Bowie Memorial Hospital,Bowie,TX,33.56,-97.84
+450498,Stephens Memorial Hospital,Breckenridge,TX,32.75,-98.89
+450508,Memorial Hospital,Nacogdoches,TX,31.61,-94.65
+450518,The Medical Center Of Southeast Texas,Port Arthur,TX,29.94,-93.99
+450537,Methodist Richardson Medical Center,Richardson,TX,32.97,-96.73
+450539,Covenant Hospital Plainview,Plainview,TX,34.21,-101.73
+450563,Baylor Regional Medical Center At Grapevine,Grapevine,TX,32.93,-97.09
+450565,Palo Pinto General Hospital,Mineral Wells,TX,32.80,-98.15
+450571,Shannon Medical Center,San Angelo,TX,31.47,-100.43
+450573,Christus Jasper Memorial Hospital,Jasper,TX,30.91,-94.01
+450580,East Texas Medical Center Crockett,Crockett,TX,31.32,-95.44
+450584,Wilbarger General Hospital,Vernon,TX,34.16,-99.31
+450586,Seymour Hospital,Seymour,TX,33.59,-99.25
+450587,Brownwood Regional Medical Center,Brownwood,TX,31.68,-98.99
+450591,Angleton-Danbury Medical Center,Angleton,TX,29.18,-95.40
+450596,Lake Granbury Medical Center,Granbury,TX,32.43,-97.80
+450597,Cuero Community Hospital,Cuero,TX,29.11,-97.28
+450604,Hill Country Memorial Hospital Inc,Fredericksburg,TX,30.26,-98.88
+450605,Care Regional Medical Center,Aransas Pass,TX,27.92,-97.16
+450610,Memorial Hermann Memorial City Medical Center,Houston,TX,29.78,-95.55
+450615,Atlanta Memorial Hospital,Atlanta,TX,33.11,-94.17
+450617,Clear Lake Regional Medical Center,Webster,TX,29.54,-95.13
+450620,Dimmit County Memorial Hospital,Carrizo Springs,TX,28.52,-99.86
+450630,Spring Branch Medical Center,Houston,TX,29.80,-95.51
+450638,Houston Northwest Medical Center,Houston,TX,30.02,-95.44
+450639,Texas Health Harris Methodist Hurst-Euless-Bedford,Bedford,TX,32.83,-97.12
+450643,Doctors Hospital Of Laredo,Laredo,TX,27.61,-99.48
+450644,West Houston Medical Center,Houston,TX,29.73,-95.59
+450647,Medical City Dallas Hospital,Dallas,TX,32.91,-96.77
+450651,Medical Center Of Plano,Plano,TX,33.02,-96.77
+450653,Scenic Mountain Medical Center,Big Spring,TX,32.24,-101.49
+450654,Starr County Memorial Hospital,Rio Grande City,TX,26.38,-98.86
+450656,Nacogdoches Medical Center,Nacogdoches,TX,31.65,-94.65
+450659,Park Plaza Hospital,Houston,TX,29.72,-95.39
+450661,Odessa Regional Hospital,Odessa,TX,31.85,-102.36
+450662,Valley Regional Medical Center,Brownsville,TX,25.98,-97.51
+450668,Sierra Medical Center,El Paso,TX,31.78,-106.48
+450669,Medical Center Of Lewisville,Lewisville,TX,33.05,-97.00
+450670,Tomball Regional Medical Center,Tomball,TX,30.09,-95.62
+450672,Plaza Medical Center Of Fort Worth,Fort Worth,TX,32.74,-97.34
+450675,Medical Center Of Arlington,Arlington,TX,32.69,-97.11
+450678,Doctors Hospital,Dallas,TX,32.83,-96.70
+450683,Renaissance Hospital Terrell,Terrell,TX,32.71,-96.28
+450684,Memorial Hermann Northeast,Humble,TX,30.00,-95.28
+450686,University Medical Center,Lubbock,TX,33.59,-101.89
+450688,Dallas Regional Medical Center,Mesquite,TX,32.78,-96.60
+450690,University Of Texas Health Science Center At Tyler,Tyler,TX,32.42,-95.21
+450694,El Campo Memorial Hospital,El Campo,TX,29.22,-96.29
+450697,Southwest General Hospital,San Antonio,TX,29.35,-98.55
+450698,Lamb Healthcare Center,Littlefield,TX,33.91,-102.35
+450702,Longview Regional Medical Center,Longview,TX,32.53,-94.73
+450709,Christus St John Hospital,Nassau Bay,TX,29.55,-95.09
+450711,Rio Grande Regional Hospital,Mcallen,TX,26.19,-98.22
+450713,St David's South Austin Medical Center,Austin,TX,30.23,-97.77
+450716,Cypress Fairbanks Medical Center,Houston,TX,29.93,-95.59
+450718,Round Rock Medical Center,Round Rock,TX,30.51,-97.71
+450723,Methodist Charlton Medical Center,Dallas,TX,32.64,-96.88
+450730,Baylor Medical Center At Carrollton,Carrollton,TX,33.03,-96.88
+450742,Lake Pointe Medical Center,Rowlett,TX,32.92,-96.51
+450743,Texas Health Presbyterian Hospital Denton,Denton,TX,33.22,-97.17
+450746,Knox County Hospital,Knox City,TX,33.42,-99.81
+450747,Palestine Regional Medical Center,Palestine,TX,31.73,-95.63
+450749,East Texas Medical Center Trinity,Trinity,TX,30.96,-95.38
+450754,Hamilton General Hospital,Hamilton,TX,31.70,-98.11
+450755,Covenant Hospital Levelland,Levelland,TX,33.57,-102.37
+450766,Ut Southwestern University Hospital-Zale Lipshy,Dallas,TX,32.81,-96.84
+450770,Central Texas Hospital,Cameron,TX,30.86,-96.98
+450771,Texas Health Presbyterian Hospital Plano,Plano,TX,33.04,-96.84
+450775,Kingwood Medical Center,Kingwood,TX,30.05,-95.26
+450779,Texas Health Harris Methodist Hospital Southwest F,Fort Worth,TX,32.66,-97.42
+450788,"Corpus Christi Medical Center,The",Corpus Christi,TX,27.69,-97.34
+450801,Christus St Michael Health System,Texarkana,TX,33.46,-94.07
+450803,Doctors Hospital Tidwell,Houston,TX,29.85,-95.40
+450809,North Austin Medical Center,Austin,TX,30.41,-97.71
+450820,Methodist Sugar Land Hospital,Sugar Land,TX,29.59,-95.63
+450822,Las Colinas Medical Center,Irving,TX,32.90,-96.96
+450827,Kell West Regional Hospital,Wichita Falls,TX,33.87,-98.58
+450828,Christus Spohn Hospital Alice,Alice,TX,27.77,-98.04
+450832,Christus St Catherine Hospital,Katy,TX,29.78,-95.72
+450833,Ennis Regional Medical Center,Ennis,TX,32.31,-96.64
+450839,Shelby Regional Medical Center,Center                        ,TX,31.80,-94.19
+450840,Texas Health Presbyterian Hospital Allen,Allen,TX,33.12,-96.67
+450844,Methodist Willowbrook Hospital,Houston,TX,29.97,-95.55
+450847,Memorial Hermann Katy Hospital,Katy,TX,29.79,-95.79
+450848,Memorial Hermann Sugar Land Hospital,Sugar Land,TX,29.57,-95.69
+450855,Harlingen Medical Center,Harlingen,TX,26.16,-97.68
+450862,St Luke's The Woodlands Hospital,The Woodlands,TX,30.20,-95.46
+450867,Seton  Northwest Hospital,Austin,TX,30.41,-97.74
+450869,Doctors Hospital At Renaissance,Edinburg,TX,26.32,-98.19
+450876,Lubbock Heart Hospital Lp,Lubbock,TX,33.60,-101.92
+450877,"East El Paso Physicians Medical Center, Llc",El Paso,TX,31.73,-106.30
+450884,East Texas Medical Center - Gilmer,Gilmer,TX,32.73,-94.94
+450885,Centennial Medical Center,Frisco,TX,33.11,-96.77
+450890,Baylor Regional Medical Center At Plano,Plano,TX,33.01,-96.79
+460001,Utah Valley Regional Medical Center,Provo,UT,40.25,-111.67
+460003,Salt Lake Regional Medical Center,Salt Lake City,UT,40.77,-111.86
+460004,Mckay Dee Hospital Center,Ogden,UT,41.18,-111.95
+460005,Ogden Regional Medical Center,Ogden,UT,41.16,-111.97
+460006,Lds Hospital,Salt Lake City,UT,40.78,-111.88
+460007,Valley View Medical Center,Cedar City,UT,37.65,-113.08
+460009,University Health Care/Univ Hospitals And  Clinics,Salt Lake City,UT,40.77,-111.84
+460011,Castleview Hospital,Price,UT,39.61,-110.83
+460013,Mountain View Hospital,Payson,UT,40.04,-111.71
+460014,Mountain West Medical Center,Tooele,UT,40.56,-112.30
+460015,Logan Regional Hospital,Logan,UT,41.76,-111.82
+460017,Brigham City Community Hospital,Brigham City,UT,41.49,-112.03
+460019,Uintah Basin Medical Center,Roosevelt,UT,40.30,-110.00
+460023,American Fork Hospital,American Fork,UT,40.38,-111.77
+460026,Sevier Valley Medical Center,Richfield,UT,38.78,-112.08
+460030,Ashley Valley Medical Center,Vernal,UT,40.46,-109.53
+460033,Garfield Memorial Hospital,Panguitch,UT,37.82,-112.43
+460035,Beaver Valley Hospital,Beaver,UT,38.29,-112.64
+460041,Davis Hospital And Medical Center,Layton,UT,41.09,-112.00
+460042,Lakeview Hospital,Bountiful,UT,40.89,-111.87
+460044,Alta View Hospital,Sandy,UT,40.58,-111.86
+460047,St Marks Hospital,Salt Lake City,UT,40.69,-111.86
+460051,Jordan Valley Medical Center,West Jordan,UT,40.59,-111.97
+460052,Timpanogos Regional Hospital,Orem,UT,40.31,-111.71
+470003,Fletcher Allen Hospital Of Vermont,Burlington,VT,44.48,-73.19
+470005,Rutland Regional Medical Center,Rutland,VT,43.60,-72.96
+470011,Brattleboro Memorial Hospital,Brattleboro,VT,42.84,-72.57
+470012,Southwestern Vermont Medical Center,Bennington,VT,42.87,-73.21
+470024,Northwestern Medical Center Inc,Saint Albans,VT,44.81,-73.07
+490001,Norton Community Hospital,Norton,VA,36.93,-82.64
+490004,Rockingham Memorial Hospital,Harrisonburg,VA,38.41,-78.86
+490007,Sentara Norfolk General Hospital,Norfolk,VA,36.86,-76.30
+490011,Bon Secours - Depaul Medical Center,Norfolk,VA,36.90,-76.28
+490017,Bon Secours Maryview Medical Center,Portsmouth,VA,36.84,-76.35
+490019,Culpeper Regional Hospital,Culpeper,VA,38.46,-78.01
+490020,John Randolph Medical Center,Hopewell,VA,37.31,-77.29
+490021,"Centra  Health, Inc",Lynchburg,VA,37.41,-79.17
+490022,"Mary Washington Hospital, Inc",Fredericksburg,VA,38.31,-77.48
+490023,"The Fauquier Hospital, Inc",Warrenton,VA,38.71,-77.81
+490024,Carilion Roanoke Memorial Center,Roanoke,VA,37.25,-79.94
+490033,Warren Memorial Hospital,Front Royal,VA,38.93,-78.20
+490037,Riverside Shore Memorial Hospital,Nassawadox,VA,37.48,-75.86
+490040,Inova Alexandria Hospital,Alexandria,VA,38.82,-77.11
+490041,Mary Immaculate Hospital,Newport News,VA,37.14,-76.51
+490042,Carilion New River Valley Medical Center,Christiansburg,VA,37.09,-80.50
+490043,Inova Loudoun Hospital,Leesburg,VA,39.07,-77.48
+490044,Sentara Obici Hospital,Suffolk,VA,36.77,-76.58
+490045,Prince William Hospital,Manassas,VA,38.77,-77.49
+490046,Sentara Leigh Hospital,Norfolk,VA,36.85,-76.19
+490048,Lewisgale Medical Center,Salem,VA,37.26,-80.03
+490050,Virginia Hospital Center - Arlington,Arlington,VA,38.89,-77.13
+490052,Riverside Regional Medical Center,Newport News,VA,37.07,-76.48
+490053,Johnston Memorial Hospital,Abingdon,VA,36.72,-81.91
+490057,Sentara Virginia Beach General Hospital,Virginia Beach,VA,36.86,-76.03
+490059,Bon Secours - St Marys Hospital Of Richmond,Richmond,VA,37.58,-77.51
+490060,Clinch Valley Medical Center,Richlands,VA,37.09,-81.83
+490063,Inova Fairfax Hospital,Falls Church,VA,38.86,-77.23
+490066,Sentara Williamsburg Regional Medical Center,Williamsburg,VA,37.34,-76.74
+490067,Southside Regional Medical Center,Petersburg,VA,37.18,-77.36
+490069,Bon Secours - Memorial Regional Medical,Mechanicsville,VA,37.63,-77.39
+490075,Danville Regional Medical Center,Danville,VA,36.58,-79.40
+490077,Martha Jefferson Hospital,Charlottesville,VA,38.02,-78.45
+490079,Memorial Hospital Of Martinsville & Henry County,Martinsville,VA,36.70,-79.86
+490084,Riverside Tappahannock Hospital,Tappahannock,VA,37.90,-76.88
+490088,Bedford Memorial Hospital,Bedford,VA,37.35,-79.52
+490089,Carilion Franklin Memorial Hospital,Rocky Mount,VA,36.99,-79.89
+490090,"Southside Community Hospital, Inc",Farmville,VA,37.30,-78.40
+490092,Southampton Memorial Hospital,Franklin,VA,36.69,-76.94
+490093,Sentara Careplex Hospital,Hampton,VA,37.06,-76.39
+490094,Bon Secours - Richmond Community Hospital,Richmond,VA,37.54,-77.41
+490097,Southern Virginia Regional Medical Center,Emporia,VA,36.70,-77.54
+490098,"Community Memorial Healthcenter, Inc",South Hill,VA,36.73,-78.13
+490101,Inova Fair Oaks Hospital,Fairfax,VA,38.88,-77.38
+490107,Reston Hospital Center,Reston,VA,38.96,-77.36
+490109,Eastern State Hospital,Williamsburg,VA,37.29,-76.74
+490110,Lewisgale Hospital Montgomery,Blacksburg,VA,37.19,-80.41
+490111,Wythe County Community Hospital,Wytheville,VA,36.95,-81.10
+490112,Cjw Medical Center,Richmond,VA,37.51,-77.60
+490113,Sentara Potomac Hospital,Woodbridge,VA,38.63,-77.28
+490114,Wellmont Lonesome Pine Hospital,Big Stone Gap,VA,36.88,-82.76
+490115,Twin County Regional Hospital,Galax,VA,36.67,-80.92
+490116,Lewisgale Hospital Pulaski,Pulaski,VA,37.07,-80.76
+490117,Carilion Tazewell Community Hospital,Tazewell,VA,37.12,-81.49
+490118,Henrico Doctors' Hospital,Richmond,VA,37.60,-77.54
+490120,Chesapeake Regional Medical Center,Chesapeake,VA,36.75,-76.25
+490122,Inova Mount Vernon Hospital,Alexandria,VA,38.74,-77.08
+490123,Rappahannock General Hospital,Kilmarnock,VA,37.70,-76.39
+490130,Riverside Walter Reed Hospital,Gloucester,VA,37.42,-76.54
+500001,Northwest Hospital,Seattle,WA,47.71,-122.34
+500002,Providence St Mary Medical Center,Walla Walla,WA,46.06,-118.34
+500003,Skagit Valley Hospital,Mount Vernon,WA,48.42,-122.32
+500005,Virginia Mason Medical Center,Seattle,WA,47.61,-122.33
+500007,Island Hospital,Anacortes,WA,48.50,-122.62
+500011,Highline Medical Center,Burien,WA,47.46,-122.34
+500012,Yakima Regional Medical And Cardiac Center,Yakima,WA,46.60,-120.52
+500014,Providence Regional Medical Center Everett,Everett,WA,48.00,-122.21
+500016,Central Washington Hospital,Wenatchee,WA,47.41,-120.32
+500019,Providence Centralia Hospital,Centralia,WA,46.71,-122.99
+500021,Saint Clare Hospital,Lakewood,WA,47.16,-122.50
+500024,Providence St Peter Hospital,Olympia,WA,47.05,-122.85
+500025,Swedish Medical Center/Cherry Hill,Seattle,WA,47.61,-122.31
+500026,Swedish Edmonds Hospital,Edmonds,WA,47.80,-122.34
+500027,Swedish Medical Center,Seattle,WA,47.61,-122.32
+500030,Peacehealth St Joseph Medical Center,Bellingham,WA,48.77,-122.47
+500031,Grays Harbor Community Hospital,Aberdeen,WA,46.98,-123.85
+500033,Samaritan Hospital,Moses Lake,WA,47.13,-119.27
+500036,Yakima Valley Memorial Hospital,Yakima,WA,46.59,-120.55
+500037,Toppenish Community Hospital,Toppenish,WA,46.37,-120.32
+500039,Harrison Medical Center,Bremerton,WA,47.58,-122.63
+500041,Peachealth St John Medical Center,Longview,WA,46.13,-122.94
+500044,Deaconess Hospital,Spokane,WA,47.65,-117.42
+500049,Walla Walla General Hospital,Walla Walla,WA,46.05,-118.33
+500050,Peacehealth Southwest Medical Center,Vancouver,WA,45.62,-122.58
+500051,Overlake Hospital Medical Center,Bellevue,WA,47.62,-122.19
+500053,Kennewick General Hospital,Kennewick,WA,46.20,-119.12
+500054,Providence Sacred Heart Medical Center,Spokane,WA,47.65,-117.41
+500058,Kadlec Regional Medical Center,Richland,WA,46.28,-119.28
+500060,Cascade Valley Hospital,Arlington,WA,48.19,-122.12
+500064,Harborview Medical Center,Seattle,WA,47.60,-122.32
+500072,Olympic Medical Center,Port Angeles,WA,48.12,-123.42
+500077,Providence Holy Family Hospital,Spokane,WA,47.71,-117.41
+500079,Multicare Good Samaritan Hospital,Puyallup,WA,47.18,-122.29
+500084,Valley General Hospital,Monroe,WA,47.86,-121.99
+500088,Valley Medical Center,Renton,WA,47.44,-122.21
+500108,St Joseph Medical Center,Tacoma,WA,47.25,-122.45
+500119,Valley Hospital,Spokane,WA,47.67,-117.24
+500124,Evergreen Hospital Medical Center,Kirkland,WA,47.72,-122.18
+500129,Tacoma General Allenmore Hospital,Tacoma,WA,47.26,-122.45
+500139,Capital Medical Center,Olympia,WA,47.04,-122.95
+500141,St Francis Community Hospital,Federal Way,WA,47.29,-122.33
+500150,Legacy Salmon Creek Medical Center,Vancouver,WA,45.72,-122.65
+510002,Greenbrier Valley Medical Center,Ronceverte,WV,37.77,-80.47
+510006,United Hospital Center,Bridgeport,WV,39.33,-80.24
+510007,St Mary's Medical Center,Huntington,WV,38.43,-82.40
+510008,City Hospital,Martinsburg,WV,39.48,-77.98
+510012,Pleasant Valley Hospital,Point Pleasant,WV,38.87,-82.12
+510013,Reynolds Memorial Hospital,Glen Dale,WV,39.95,-80.75
+510018,Jackson General Hospital,Ripley,WV,38.82,-81.73
+510022,Charleston Area Medical Center,Charleston,WV,38.35,-81.63
+510023,Weirton Medical Center,Weirton,WV,40.40,-80.53
+510024,Monongalia County General Hospital,Morgantown,WV,39.66,-79.95
+510029,Thomas Memorial Hospital,South Charleston,WV,38.36,-81.73
+510031,St Francis Hospital,Charleston,WV,38.35,-81.63
+510038,Stonewall Jackson Mem Hosp,Weston,WV,39.05,-80.49
+510039,Ohio Valley Medical Center,Wheeling,WV,40.06,-80.72
+510046,Princeton Community Hospital,Princeton,WV,37.36,-81.11
+510047,Fairmont General Hospital,Fairmont,WV,39.48,-80.17
+510048,Logan Regional Medical Center,Logan,WV,37.85,-82.00
+510050,Wheeling Hospital,Wheeling,WV,40.06,-80.69
+510053,St Joseph Hospital,Buckhannon,WV,38.99,-80.24
+510055,Cabell-Huntington Hospital Inc,Huntington,WV,38.41,-82.43
+510058,Camden Clark Medical Center,Parkersburg,WV,39.27,-81.56
+510062,Beckley Arh Hospital,Beckley,WV,37.80,-81.17
+510070,Raleigh General Hospital,Beckley,WV,37.79,-81.20
+510071,Bluefield Regional Medical Center,Bluefield,WV,37.26,-81.23
+510072,Wetzel County Hospital,New Martinsville,WV,39.68,-80.85
+510077,Williamson Memorial Hospital,Williamson,WV,37.68,-82.27
+510082,Summersville Regional Medical Center,Summersville,WV,38.29,-80.83
+10091,Grove Hill Memorial Hospital,Grove Hill,AL,31.69,-87.78
+520002,Ministry St Michaels Hospital Of Stevens Point,Stevens Point,WI,44.53,-89.57
+520004,"Mayo Clinic Hlth System- Franciscan Med Ctr, Inc",La Crosse,WI,43.80,-91.24
+520008,Waukesha Memorial Hospital,Waukesha,WI,43.01,-88.24
+520009,St Elizabeth Hsptl,Appleton,WI,44.25,-88.40
+520011,Lakeview Med Center,Rice Lake,WI,45.51,-91.76
+520013,Sacred Heart Hsptl,Eau Claire,WI,44.79,-91.51
+520017,St Josephs Hsptl,Chippewa Falls,WI,44.95,-91.36
+520019,Ministry St Marys Hospital,Rhinelander,WI,45.64,-89.37
+520021,United Hsptl Sys,Kenosha,WI,42.58,-87.82
+520027,"Columbia St Mary's Hospital Ozaukee, Inc",Mequon,WI,43.26,-87.92
+520028,The Monroe Clinic,Monroe,WI,42.61,-89.63
+520030,Aspirus Wausau Hospital,Wausau,WI,44.97,-89.67
+520033,Riverview Hsptl Assoc,Wisconsin Rapids,WI,44.38,-89.83
+520034,Aurora Med Ctr Manitowoc Cty,Two Rivers,WI,44.12,-87.62
+520035,Aurora Sheboygan Mem Med Ctr,Sheboygan,WI,43.77,-87.71
+520037,Ministry Saint Joseph's Hospital,Marshfield,WI,44.68,-90.18
+520038,Aurora Med Center-Washington County,Hartford,WI,43.32,-88.36
+520041,Divine Savior Hlthcare,Portage,WI,43.57,-89.47
+520044,St Nicholas Hospital,Sheboygan,WI,43.76,-87.75
+520048,Mercy Med Ctr Of Oshkosh,Oshkosh,WI,44.01,-88.60
+520049,Bellin Memorial Hsptl,Green Bay,WI,44.50,-88.01
+520051,Columbia St Mary's Hospital Milwaukee,Milwaukee,WI,43.06,-87.88
+520057,St Clare Hsptl Hlth Svcs,Baraboo,WI,43.48,-89.73
+520059,Aurora Memorial Hsptl Burlington,Burlington,WI,42.67,-88.28
+520062,Oconomowoc Mem Hsptl,Oconomowoc,WI,43.10,-88.49
+520063,St Josephs Com Hsptl West Bend,West Bend,WI,43.36,-88.19
+520066,Mercy Hlth Sys Corp,Janesville,WI,42.69,-89.03
+520070,Mayo Clinic Health System Eau Claire Hospital,Eau Claire,WI,44.81,-91.51
+520071,Fort Healthcare,Fort Atkinson,WI,42.93,-88.83
+520075,St Vincent Hsptl,Green Bay,WI,44.50,-88.01
+520076,Beaver Dam Com Hsptl,Beaver Dam,WI,43.45,-88.83
+520078,Wheaton Franciscan Healthcare- St Francis,Milwaukee,WI,42.99,-87.94
+520083,St Mary's Hospital,Madison,WI,43.06,-89.40
+520087,Gundersen Luth Med Ctr,La Crosse,WI,43.79,-91.25
+520088,St Agnes Hsptl,Fond Du Lac,WI,43.78,-88.43
+520089,Meriter Hsptl,Madison,WI,43.07,-89.40
+520091,Howard Young Med Ctr,Woodruff,WI,45.89,-89.70
+520095,Sauk Prairie Mem Hsptl,Prairie Du Sac,WI,43.28,-89.72
+520096,Wheaton Franciscan Healthcare- All Saints,Racine,WI,42.73,-87.83
+520097,St Marys Hsptl Med Ctr,Green Bay,WI,44.53,-88.06
+520098,University Of Wi  Hospitals & Clinics Authority,Madison,WI,43.08,-89.43
+520100,Beloit Mem Hsptl,Beloit,WI,42.55,-89.01
+520102,Aurora Lakeland Med Ctr,Elkhorn,WI,42.66,-88.50
+520107,Holy Family Memorial Inc,Manitowoc,WI,44.09,-87.68
+520109,"Mile Bluff Medical Center, Inc",Mauston,WI,43.78,-90.08
+520113,Bay Area Med Ctr,Marinette,WI,45.07,-87.62
+520116,Uw Hlth Partners - Watertown Regional Medical Ctr,Watertown,WI,43.20,-88.70
+520136,"Wheaton Franciscan, Inc- St Joseph",Milwaukee,WI,43.07,-87.98
+520138,Aurora St Lukes Medical Center,Milwaukee,WI,42.99,-87.95
+520139,Aurora West Allis Medical Center,West Allis,WI,43.00,-88.03
+520160,Appleton Med Ctr,Appleton,WI,44.28,-88.40
+520170,Wheaton Franciscan Healthcare- Elmbrook Memorial,Brookfield,WI,43.06,-88.15
+520177,Froedtert Mem Lutheran Hsptl,Milwaukee,WI,43.04,-88.02
+520189,Aurora Med Ctr Kenosha,Kenosha,WI,42.57,-87.94
+520193,Aurora Baycare Med Ctr,Green Bay,WI,44.47,-87.94
+520198,Aurora Med Ctr Oshkosh,Oshkosh,WI,44.03,-88.59
+530002,Campbell County Memorial Hospital,Gillette,WY,44.29,-105.52
+530006,Sheridan Memorial Hospital,Sheridan,WY,44.81,-106.98
+530008,Riverton Memorial Hospital,Riverton,WY,43.03,-108.42
+530010,Lander Regional Hospital,Lander,WY,42.82,-108.73
+530012,Wyoming Medical Center,Casper,WY,42.85,-106.31
+530014,Cheyenne Regional Medical Center,Cheyenne,WY,41.14,-104.82
+530015,St Johns Medical Center,Jackson,WY,43.48,-110.75
+530025,Ivinson Memorial Hospital,Laramie,WY,41.31,-105.56
+530032,Evanston Regional Hospital,Evanston,WY,41.24,-110.99
+670002,South Hampton Community Hospital,Dallas,TX,32.72,-96.86
+670004,St Marks Medical Center,La Grange,TX,29.94,-96.88
+30016,Casa Grande Regional Medical Center,Casa Grande,AZ,32.88,-111.71
+50152,Saint Francis Memorial Hospital,San Francisco,CA,37.79,-122.42
+70031,Griffin Hospital,Derby,CT,41.34,-73.09
+140150,University Of Illinois Hospital,Chicago,IL,41.87,-87.67
+140281,Northwestern Memorial Hospital,Chicago,IL,41.89,-87.62
+170006,Via Christi Hospital Pittsburg Inc,Pittsburg,KS,37.38,-94.68
+180067,University Of Kentucky Hospital,Lexington,KY,38.03,-84.51
+200031,Cary Medical Center,Caribou,ME,46.88,-68.01
+200037,Franklin Memorial Hospital,Farmington,ME,44.63,-70.16
+220052,Signature Healthcare Brockton Hospital,Brockton,MA,42.09,-70.99
+240115,Mercy Hospital,Coon Rapids,MN,45.18,-93.37
+260001,Mercy Hospital Joplin,Joplin,MO,37.06,-94.53
+260190,Lee's Summit Medical Center,Lees Summit,MO,38.90,-94.33
+280013,The Nebraska Medical Center,Omaha,NE,41.26,-95.98
+330005,Kaleida Health,Buffalo,NY,42.88,-78.85
+330386,Catskill Regional Medical Center,Harris,NY,41.71,-74.74
+330393,University Hospital ( Stony Brook ),Stony Brook,NY,40.91,-73.12
+340109,Albemarle Hospital Authority,Elizabeth City,NC,36.33,-76.22
+360089,Mercy Tiffin Hospital,Tiffin,OH,41.10,-83.22
+390079,Robert Packer Hospital,Sayre,PA,41.98,-76.52
+390266,Grove City Medical Center,Grove City,PA,41.17,-80.08
+440049,Methodist Healthcare Memphis Hospitals,Memphis,TN,35.14,-90.02
+450130,Nix Health Care System,San Antonio,TX,29.43,-98.49
+450634,Denton Regional Medical Center,Denton,TX,33.17,-97.11
+490005,Winchester Medical Center Inc,Winchester,VA,39.19,-78.20
+500008,University Of Washington Medical Ctr,Seattle,WA,47.65,-122.31
+510086,Welch Community Hospital,Welch,WV,37.37,-81.39

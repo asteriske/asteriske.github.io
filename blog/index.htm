@@ -1,0 +1,16 @@
+---
+layout: default_blogside
+category: blog
+title: Blog 
+---
+
+{% for post in site.posts limit:8%}
+	{% if post.categories contains 'blog' %}
+<span class="posttitle" ><a class="posttitle" href="{{ post.url }}"><h3 class="post">{{ post.title}}</h3></a></span>
+<br><div style="padding-bottom:10px">
+	{{ post.content}}
+	<br>
+	<em style="font-size:.8em">Posted on {{ post.date | date_to_long_string }}.</em>
+</div>
+	{% endif %}
+{% endfor %} 
