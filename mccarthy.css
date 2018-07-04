@@ -68,7 +68,7 @@ div.content {
 	font-size:16px;
 	margin: 0px 20px 40px 25px;
 	padding: 0 0 0 0;
-	width:605px;
+	width:805px;
 }
 
 div.headimg{
@@ -80,6 +80,18 @@ div.headimg{
 div.main {
 	margin:0 auto;
 	width:920px}
+
+div.resumeContainer{
+	display:flex
+}
+div.resumeTitle{
+#	width:500px
+}
+div.resumeDate{
+	flex-grow:1; 
+	text-align:right
+}
+
 div.rightnav {
 	background-color:#FFFFFF;
 	float:right;
@@ -186,6 +198,7 @@ pre {
 }
 
 ul.resume{
+	text-align:justify;
 	margin-bottom: 0px;
 	margin-top: 0px;
 }
