@@ -1,8 +1,6 @@
 ---
-layout: default
-title: Home
+layout: single 
+author_profile: true
+classes: wide
 ---
-<figure class="insetLeft">
-<img src="img/portrait.png" alt="Patrick">
-</figure>
-I'm Patrick. I'm a data scientist with an IT background who loves working on the whole stack, walking places and finding interesting things to eat off the beaten path. Before coming to New York City I lived, worked and studied in Los Angeles and Boston.
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/homesplash.webp" alt="">
