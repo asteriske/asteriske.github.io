@@ -1,7 +1,10 @@
 ---
+layout: single
+category: blog
+tags: 
+  - linux 
 layout: single 
 category: blog
-published: false
 ---
 
 I do my work on a few different machines at once, and in order to keep things reasonably sane I like to sync my client machines back to my share hosted on the department server. I do this with some simple rsync scripts, and to facilitate the connection I use shared SSH keys. For one reason or another I find myself recreating these a few times a year, and so to find the instructions I post them here. (Thanks to [Debian Administration] (http://www.debian-administration.org/articles/530) from whom I draw the info.)
