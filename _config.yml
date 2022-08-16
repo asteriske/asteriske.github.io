@@ -27,7 +27,6 @@ plugins:
   - jekyll-include-cache
 
 include: 
-  - "blog.md"
   - "_pages"
   - "_projects"
 exclude: ['.git']
