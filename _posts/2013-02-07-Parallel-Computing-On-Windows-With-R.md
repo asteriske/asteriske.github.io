@@ -1,5 +1,8 @@
 ---
-layout: single 
+layout: single
+category: blog
+tags: 
+  - R 
 title: Parallel Computing on Windows with R
 ---
 
@@ -17,10 +20,17 @@ The `cl` command creates our cluster object, and `registerDoSNOW` allows it to b
 
 `outputList <- foreach(i=1:1000) %dopar% foo(args)`  
 
-(you can do testing on one core by swapping %dopar% for %do%)  
+(you can do testing on one core by swapping `%dopar%` for `%do%`)  
 
 One wrinkle in this is that each instance of `foo` effectively runs in its own environment, and so other libraries needed (*e.g.* the `survey` package) need to be loaded *within* `foo()`.
 
-![My cpu, maxed out on both cores](img/maxedOutCPU.png)  
+{% capture fig_img %}
+![Foo]({{ "/assets/images/maxedOutCPU.png" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>My cpu, maxed out on both cores</figcaption>
+</figure>
 
 Looks satisfying, doesn't it?
