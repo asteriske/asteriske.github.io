@@ -1,0 +1,337 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Five-night itinerary options across the Red Lion Inn, the Wayside Inn and the Sherwood Inn group, with live rates shown with and without the New York resident discount.">
+<title>Country Inns Trip</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400&family=Karla:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{
+  --paper:#eef1f0; --surface:#f9fbfa; --sunk:#e4e9e8;
+  --ink:#131b1e; --muted:#56676b; --faint:#7d8d90;
+  --line:#d3dcda; --line-strong:#b0bfbc;
+  --verd:#1d6a5c; --verd-ink:#145146; --verd-soft:#dfece9;
+  --ochre:#8a6a12; --ochre-soft:#f0e8d2;
+  --rose:#8f3f36; --rose-soft:#f6e3e0;
+  --shadow:0 1px 2px rgba(19,27,30,.05);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#0f1516; --surface:#161f21; --sunk:#1b2528;
+    --ink:#e7edec; --muted:#96a7a9; --faint:#75878a;
+    --line:#263234; --line-strong:#3b4c4e;
+    --verd:#63c3ae; --verd-ink:#8ad6c3; --verd-soft:#15302b;
+    --ochre:#dcb765; --ochre-soft:#2f2712;
+    --rose:#e79185; --rose-soft:#361e1b;
+    --shadow:0 1px 2px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0f1516; --surface:#161f21; --sunk:#1b2528;
+  --ink:#e7edec; --muted:#96a7a9; --faint:#75878a;
+  --line:#263234; --line-strong:#3b4c4e;
+  --verd:#63c3ae; --verd-ink:#8ad6c3; --verd-soft:#15302b;
+  --ochre:#dcb765; --ochre-soft:#2f2712;
+  --rose:#e79185; --rose-soft:#361e1b;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+}
+*{box-sizing:border-box}
+body{
+  background:var(--paper); color:var(--ink);
+  font-family:Karla,"Helvetica Neue",Arial,sans-serif;
+  font-size:15px; line-height:1.6; margin:0;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1080px; margin:0 auto; padding:0 26px 80px}
+h1,h2,h3{font-family:Newsreader,Georgia,"Times New Roman",serif; text-wrap:balance; margin:0}
+.mono{font-family:"IBM Plex Mono",ui-monospace,Menlo,monospace; font-variant-numeric:tabular-nums}
+a{color:var(--verd-ink)}
+
+/* ---------- masthead ---------- */
+.mast{padding:52px 0 26px; border-bottom:2px solid var(--ink)}
+.eyebrow{font-family:Newsreader,Georgia,serif; font-style:italic; font-size:16px; color:var(--verd); margin:0 0 10px}
+.mast h1{font-size:clamp(38px,6.2vw,62px); font-weight:600; line-height:1.02; letter-spacing:-.015em}
+.mast .sub{margin:16px 0 0; color:var(--muted); max-width:62ch; font-size:15.5px}
+.facts{display:flex; flex-wrap:wrap; gap:0 30px; margin-top:22px; padding-top:16px; border-top:1px solid var(--line)}
+.fact{display:flex; flex-direction:column; gap:2px}
+.fact .k{font-size:10.5px; letter-spacing:.13em; text-transform:uppercase; color:var(--faint); font-weight:600}
+.fact .v{font-size:14px; font-weight:600}
+
+/* ---------- section furniture ---------- */
+.sec{padding-top:46px}
+.sechead{display:flex; align-items:baseline; gap:12px; margin-bottom:18px; padding-bottom:9px; border-bottom:1px solid var(--line-strong)}
+.sechead h2{font-size:25px; font-weight:600; letter-spacing:-.01em}
+.sechead .note{font-size:12.5px; color:var(--faint); margin-left:auto; text-align:right}
+p.lede{margin:0 0 18px; max-width:66ch; color:var(--muted); font-size:15px}
+p.lede b, li b{color:var(--ink); font-weight:600}
+
+/* ---------- alert / open question ---------- */
+.alert{background:var(--rose-soft); border:1px solid var(--rose); border-left-width:4px; padding:20px 22px; margin-top:26px}
+.alert h2{font-size:20px; font-weight:600; margin-bottom:8px}
+.alert p{margin:0 0 10px; font-size:14.5px; max-width:70ch}
+.alert p:last-child{margin-bottom:0}
+.alert .tel{font-family:"IBM Plex Mono",monospace; font-weight:600; background:var(--surface); padding:2px 7px; border:1px solid var(--line-strong); white-space:nowrap}
+
+/* ---------- route rail ---------- */
+.rail{display:flex; flex-wrap:wrap; align-items:stretch; gap:0; border:1px solid var(--line); background:var(--surface)}
+.stop{flex:1 1 150px; padding:14px 16px; border-right:1px solid var(--line); display:flex; flex-direction:column; gap:3px}
+.stop:last-child{border-right:0}
+.stop .town{font-family:Newsreader,Georgia,serif; font-size:17px; font-weight:600; line-height:1.2}
+.stop .st{font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--faint); font-weight:600}
+.stop .leg{font-size:12.5px; color:var(--verd); margin-top:6px; font-weight:600}
+.stop.far{background:var(--verd-soft)}
+
+/* ---------- option cards ---------- */
+.opt{border:1px solid var(--line-strong); background:var(--surface); margin-top:26px}
+.opt.pick{border-color:var(--verd); border-width:2px}
+.opt > header{display:flex; flex-wrap:wrap; align-items:baseline; gap:10px 14px; padding:16px 20px; border-bottom:1px solid var(--line); background:var(--sunk)}
+.opt h3{font-size:21px; font-weight:600}
+.opt .dates{font-size:13px; color:var(--muted); font-weight:500}
+.badge{font-size:10.5px; letter-spacing:.11em; text-transform:uppercase; font-weight:700; padding:3px 9px; border:1px solid currentColor}
+.badge.rec{color:var(--verd)}
+.badge.alt{color:var(--faint)}
+.opt .pull{margin-left:auto; text-align:right; font-size:12.5px; color:var(--muted); max-width:34ch}
+
+.nights{display:grid; grid-template-columns:repeat(5,1fr); border-bottom:1px solid var(--line)}
+@media(max-width:900px){.nights{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:520px){.nights{grid-template-columns:1fr}}
+.nt{padding:14px 15px; border-right:1px solid var(--line); display:flex; flex-direction:column; gap:5px}
+.nt:last-child{border-right:0}
+@media(max-width:900px){.nt{border-bottom:1px solid var(--line)}}
+.nt .when{font-size:10.5px; letter-spacing:.12em; text-transform:uppercase; color:var(--faint); font-weight:700}
+.nt .prop{font-family:Newsreader,Georgia,serif; font-size:16.5px; font-weight:600; line-height:1.2}
+.nt .bldg{font-size:11.5px; font-weight:700; letter-spacing:.04em; color:var(--verd); text-transform:uppercase}
+.nt .bldg.other{color:var(--faint)}
+.nt .room{font-size:13px; color:var(--muted); margin-top:1px}
+.nt .rate{margin-top:auto; padding-top:8px; font-size:14px; font-weight:600}
+.nt .rate s{color:var(--faint); font-weight:400; margin-right:5px}
+.nt .rate .ny{color:var(--ochre)}
+
+.tots{display:flex; flex-wrap:wrap; gap:0; }
+.tot{flex:1 1 210px; padding:15px 20px; border-right:1px solid var(--line); display:flex; flex-direction:column}
+.tot:last-child{border-right:0}
+.tot .lab{font-size:10.5px; letter-spacing:.12em; text-transform:uppercase; color:var(--faint); font-weight:700}
+.tot .amt{font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums; font-size:22px; font-weight:600; letter-spacing:-.02em; margin-top:3px}
+.tot.ny .amt{color:var(--ochre)}
+.tot .fine{font-size:11.5px; color:var(--faint); margin-top:2px}
+.swap{padding:13px 20px; border-top:1px dashed var(--line-strong); font-size:13px; color:var(--muted); background:var(--paper)}
+.swap b{color:var(--ink)}
+
+/* ---------- comparison table ---------- */
+.tablewrap{overflow-x:auto; border:1px solid var(--line)}
+table{border-collapse:collapse; width:100%; min-width:720px; background:var(--surface)}
+th,td{text-align:left; padding:11px 14px; border-bottom:1px solid var(--line); font-size:13.5px; vertical-align:top}
+thead th{background:var(--sunk); font-size:10.5px; letter-spacing:.11em; text-transform:uppercase; color:var(--faint); font-weight:700; border-bottom:1px solid var(--line-strong)}
+tbody tr:last-child td{border-bottom:0}
+td.num{font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums; white-space:nowrap; font-weight:500}
+td.num.ny{color:var(--ochre); font-weight:600}
+.yes{color:var(--verd); font-weight:700}
+.partial{color:var(--muted)}
+
+/* ---------- detail lists ---------- */
+.cols{display:grid; gap:0 40px}
+@media(min-width:780px){.cols{grid-template-columns:1fr 1fr}}
+.row{display:flex; gap:12px; align-items:baseline; padding:12px 0; border-bottom:1px solid var(--line)}
+.row .mk{flex:none; width:6px; height:6px; background:var(--verd); transform:rotate(45deg) translateY(-2px)}
+.row p{margin:0; font-size:13.5px; color:var(--muted); max-width:48ch}
+.row p b{color:var(--ink); font-weight:600}
+
+footer{margin-top:52px; padding-top:16px; border-top:1px solid var(--line); font-size:12px; color:var(--faint); display:flex; flex-wrap:wrap; gap:6px 20px}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+
+<header class="mast">
+  <p class="eyebrow">Five nights, three inns, two states</p>
+  <h1>Country Inns Trip</h1>
+  <p class="sub">Two nights at the Red Lion, one at the Wayside, back to the Red Lion for one, and a last night in Skaneateles. Rates read live from each booking engine on 5 September 2026, for two people in one room.</p>
+  <div class="facts">
+    <div class="fact"><span class="k">Nights</span><span class="v">5</span></div>
+    <div class="fact"><span class="k">Party</span><span class="v">2 guests, 1 room</span></div>
+    <div class="fact"><span class="k">Check-in window</span><span class="v">Sat 26 – Mon 28 Sep 2026</span></div>
+    <div class="fact"><span class="k">Inns</span><span class="v">Red Lion · Wayside · Sherwood group</span></div>
+    <div class="fact"><span class="k">Discount tested</span><span class="v">We Love NY! (20%)</span></div>
+  </div>
+</header>
+
+<div class="alert">
+  <h2>The bathtub has to be arranged by phone</h2>
+  <p>You asked for a tub on the two-night Red Lion stay, and that is the one thing none of these booking engines will tell you. The Red Lion's room-details panel has a Room&nbsp;Amenities section that is <b>completely empty</b> for every room type, and its website describes all eight Main Inn types identically as “a private bath” — no mention of tub or shower anywhere on either site.</p>
+  <p>There is a structural reason, too. The Red Lion states that <b>each of its 82 rooms is individually decorated</b> and that images “may not reflect the exact room and amenities assigned to guests,” so tub presence almost certainly varies <i>within</i> a room type. Booking a type would not secure a tub even if a photo showed one.</p>
+  <p>Book whichever itinerary you like online, then call <span class="tel">(413) 298-5545</span> and have a tub noted on the reservation. The Wayside is the one property that commits in writing — every room there has a “full bath.”</p>
+</div>
+
+<section class="sec">
+  <div class="sechead">
+    <h2>The shape of the trip</h2>
+    <span class="note">Night 3 sits about 120 miles east of the rest</span>
+  </div>
+  <p class="lede">Four of the five nights sit in the Berkshires and central New York. The Wayside night is the outlier — Sudbury is in Boston's western suburbs, so nights&nbsp;2→3 and 3→4 are the same road run twice.</p>
+  <div class="rail">
+    <div class="stop"><span class="st">Nights 1–2</span><span class="town">Stockbridge</span><span class="leg">Massachusetts · Berkshires</span></div>
+    <div class="stop far"><span class="st">Night 3</span><span class="town">Sudbury</span><span class="leg">≈120 mi east, then back</span></div>
+    <div class="stop"><span class="st">Night 4</span><span class="town">Stockbridge</span><span class="leg">Massachusetts · Berkshires</span></div>
+    <div class="stop"><span class="st">Night 5</span><span class="town">Skaneateles</span><span class="leg">≈250 mi west · New York</span></div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="sechead">
+    <h2>Three ways to run it</h2>
+    <span class="note">Rates per night, before tax and fees</span>
+  </div>
+  <p class="lede">Each check-in day produces a different set of rooms. The gold figure is the <b>We Love NY!</b> rate — 20% off for New York residents, valid <b>Sunday through Thursday nights only</b>, which is why the Saturday start barely benefits.</p>
+
+  <!-- ============ OPTION 1 ============ -->
+  <article class="opt pick">
+    <header>
+      <h3>Monday start</h3>
+      <span class="badge rec">Best for your priorities</span>
+      <span class="dates">Mon 28 Sep → Sat 3 Oct</span>
+      <span class="pull">All three Red Lion nights in the Main Inn, with a king bed on the two-night stay.</span>
+    </header>
+    <div class="nights">
+      <div class="nt"><span class="when">Night 1 · Mon 9/28</span><span class="prop">Red Lion Inn</span><span class="bldg">Main Inn</span><span class="room">Main Inn King Room</span><span class="rate"><s>$304</s><span class="ny">$249</span></span></div>
+      <div class="nt"><span class="when">Night 2 · Tue 9/29</span><span class="prop">Red Lion Inn</span><span class="bldg">Main Inn</span><span class="room">Main Inn King Room</span><span class="rate"><s>$304</s><span class="ny">$249</span></span></div>
+      <div class="nt"><span class="when">Night 3 · Wed 9/30</span><span class="prop">The Wayside Inn</span><span class="bldg other">Sudbury, MA</span><span class="room">One of 10 rooms · breakfast for two included</span><span class="rate">$220–250</span></div>
+      <div class="nt"><span class="when">Night 4 · Thu 10/1</span><span class="prop">Red Lion Inn</span><span class="bldg">Main Inn</span><span class="room">Main Inn Queen Room</span><span class="rate"><s>$274</s><span class="ny">$225</span></span></div>
+      <div class="nt"><span class="when">Night 5 · Fri 10/2</span><span class="prop">Village Inn</span><span class="bldg other">Sherwood group</span><span class="room">Cottage Room</span><span class="rate">$321</span></div>
+    </div>
+    <div class="tots">
+      <div class="tot"><span class="lab">All-in, best available</span><span class="amt">$1,674 – $1,704</span><span class="fine">taxes and fees included</span></div>
+      <div class="tot ny"><span class="lab">All-in, We Love NY!</span><span class="amt">$1,497 – $1,527</span><span class="fine">saves about $178</span></div>
+      <div class="tot"><span class="lab">Main-building nights</span><span class="amt">3 of 3</span><span class="fine">every Red Lion night</span></div>
+    </div>
+    <p class="swap"><b>Cheaper configuration:</b> Queen Village Room ×2 and a King Village Room on night 4 brings it to <b>$1,489–1,519</b> best-available, or <b>$1,346–1,376</b> with the NY rate — trading the Main Inn for the village houses.</p>
+  </article>
+
+  <!-- ============ OPTION 2 ============ -->
+  <article class="opt">
+    <header>
+      <h3>Sunday start</h3>
+      <span class="badge alt">The Sherwood main building</span>
+      <span class="dates">Sun 27 Sep → Fri 2 Oct</span>
+      <span class="pull">The only itinerary whose last night lands in the Sherwood Inn's own main building.</span>
+    </header>
+    <div class="nights">
+      <div class="nt"><span class="when">Night 1 · Sun 9/27</span><span class="prop">Red Lion Inn</span><span class="bldg">Main Inn</span><span class="room">Main Inn King Suite</span><span class="rate"><s>$399</s><span class="ny">$325</span></span></div>
+      <div class="nt"><span class="when">Night 2 · Mon 9/28</span><span class="prop">Red Lion Inn</span><span class="bldg">Main Inn</span><span class="room">Main Inn King Suite</span><span class="rate"><s>$399</s><span class="ny">$325</span></span></div>
+      <div class="nt"><span class="when">Night 3 · Tue 9/29</span><span class="prop">The Wayside Inn</span><span class="bldg other">Sudbury, MA</span><span class="room">One of 10 rooms · breakfast for two included</span><span class="rate">$220–250</span></div>
+      <div class="nt"><span class="when">Night 4 · Wed 9/30</span><span class="prop">Red Lion Inn</span><span class="bldg">Main Inn</span><span class="room">Main Inn Queen Room</span><span class="rate"><s>$274</s><span class="ny">$225</span></span></div>
+      <div class="nt"><span class="when">Night 5 · Thu 10/1</span><span class="prop">Sherwood Inn</span><span class="bldg">Main building</span><span class="room">Room 29 · last room open</span><span class="rate">$435</span></div>
+    </div>
+    <div class="tots">
+      <div class="tot"><span class="lab">All-in, best available</span><span class="amt">$2,023 – $2,053</span><span class="fine">taxes and fees included</span></div>
+      <div class="tot ny"><span class="lab">All-in, We Love NY!</span><span class="amt">$1,803 – $1,833</span><span class="fine">saves about $220</span></div>
+      <div class="tot"><span class="lab">Main-building nights</span><span class="amt">4 of 4</span><span class="fine">Red Lion and Sherwood</span></div>
+    </div>
+    <p class="swap"><b>Worth knowing:</b> the two-night Red Lion stay is only offered as a <b>King Suite</b> on these dates — the standard Main Inn rooms are taken. <b>Cheaper configuration:</b> King Village Room ×2, Queen Village Room, and Arbor House's Cayuga on the last night gives <b>$1,421–1,451</b>, or <b>$1,273–1,303</b> with the NY rate — the least expensive way to run the trip at all.</p>
+  </article>
+
+  <!-- ============ OPTION 3 ============ -->
+  <article class="opt">
+    <header>
+      <h3>Saturday start</h3>
+      <span class="badge alt">Earliest departure</span>
+      <span class="dates">Sat 26 Sep → Thu 1 Oct</span>
+      <span class="pull">Finishes soonest, and puts the cheapest Skaneateles night at the end.</span>
+    </header>
+    <div class="nights">
+      <div class="nt"><span class="when">Night 1 · Sat 9/26</span><span class="prop">Red Lion Inn</span><span class="bldg other">Maple Glen</span><span class="room">King Fireplace Room</span><span class="rate"><s>$564</s><span class="ny">$536</span></span></div>
+      <div class="nt"><span class="when">Night 2 · Sun 9/27</span><span class="prop">Red Lion Inn</span><span class="bldg other">Maple Glen</span><span class="room">King Fireplace Room</span><span class="rate"><s>$564</s><span class="ny">$536</span></span></div>
+      <div class="nt"><span class="when">Night 3 · Mon 9/28</span><span class="prop">The Wayside Inn</span><span class="bldg other">Sudbury, MA</span><span class="room">Monday rate · kitchen closed, no breakfast</span><span class="rate">$200–230</span></div>
+      <div class="nt"><span class="when">Night 4 · Tue 9/29</span><span class="prop">Red Lion Inn</span><span class="bldg">Main Inn</span><span class="room">Main Inn King Room</span><span class="rate"><s>$304</s><span class="ny">$249</span></span></div>
+      <div class="nt"><span class="when">Night 5 · Wed 9/30</span><span class="prop">Arbor House</span><span class="bldg other">Sherwood group</span><span class="room">Cayuga · cheapest en-suite</span><span class="rate">$217</span></div>
+    </div>
+    <div class="tots">
+      <div class="tot"><span class="lab">All-in, best available</span><span class="amt">$2,144 – $2,174</span><span class="fine">taxes and fees included</span></div>
+      <div class="tot ny"><span class="lab">All-in, We Love NY!</span><span class="amt">$2,020 – $2,050</span><span class="fine">saves about $124</span></div>
+      <div class="tot"><span class="lab">Main-building nights</span><span class="amt">1 of 3</span><span class="fine">night 4 only</span></div>
+    </div>
+    <p class="swap"><b>Why the NY discount does less here:</b> Saturday nights fall outside the Sunday–Thursday window, so only half the two-night stay is discounted. <b>Cheaper configuration:</b> King Village Room ×2 gives <b>$1,823–1,853</b>, or <b>$1,720–1,750</b> with the NY rate.</p>
+  </article>
+</section>
+
+<section class="sec">
+  <div class="sechead">
+    <h2>Side by side</h2>
+    <span class="note">Main-building configurations · all-in</span>
+  </div>
+  <div class="tablewrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Start</th><th>Two-night Red Lion room</th><th>Red Lion building</th><th>Last night</th>
+          <th>Best available</th><th>We Love NY!</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><b>Mon 9/28</b></td><td>Main Inn King Room</td><td class="yes">Main Inn ×3</td><td>Village Inn, Cottage Room</td>
+          <td class="num">$1,674–1,704</td><td class="num ny">$1,497–1,527</td>
+        </tr>
+        <tr>
+          <td><b>Sun 9/27</b></td><td>Main Inn King Suite</td><td class="yes">Main Inn ×3</td><td>Sherwood Inn, Room 29</td>
+          <td class="num">$2,023–2,053</td><td class="num ny">$1,803–1,833</td>
+        </tr>
+        <tr>
+          <td><b>Sat 9/26</b></td><td>Maple Glen King Fireplace</td><td class="partial">Main Inn ×1</td><td>Arbor House, Cayuga</td>
+          <td class="num">$2,144–2,174</td><td class="num ny">$2,020–2,050</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="lede" style="margin-top:14px">Ranges reflect the Wayside's published rate band. Every other figure is a live quoted rate with tax and fees applied.</p>
+</section>
+
+<section class="sec">
+  <div class="sechead">
+    <h2>What the numbers include</h2>
+    <span class="note">Verified against each property</span>
+  </div>
+  <div class="cols">
+    <div>
+      <div class="row"><span class="mk"></span><p><b>Red Lion:</b> a $25.00 per-night Preservation Fee plus 11.7% Massachusetts lodging tax, both folded into every total shown.</p></div>
+      <div class="row"><span class="mk"></span><p><b>Sherwood group:</b> a flat 20.0% New York lodging tax, applied to Skaneateles nights.</p></div>
+      <div class="row"><span class="mk"></span><p><b>Wayside:</b> quoted rates are pre-tax; the inn publishes $220–250 double occupancy and does not list its tax rate. Massachusetts lodging tax runs 11.7% in Stockbridge, and Sudbury's local rate is unconfirmed — budget roughly $25–30 on top.</p></div>
+      <div class="row"><span class="mk"></span><p><b>Breakfast for two</b> in the Old Tap Room comes with every Wayside stay, except after Sunday and Monday nights, when the kitchen is closed and the rate drops $20.</p></div>
+    </div>
+    <div>
+      <div class="row"><span class="mk"></span><p><b>We Love NY!</b> gives New York residents 20% off, Sunday through Thursday nights only. It is the strongest public discount at the Red Lion on these dates.</p></div>
+      <div class="row"><span class="mk"></span><p><b>Roar Longer</b> takes 10% off a two-night stay without a residency test — useful if the NY rate does not apply, though it lands above the NY rate wherever both are offered.</p></div>
+      <div class="row"><span class="mk"></span><p><b>Friday 2 October</b> carries a two-night minimum at the Red Lion, which is what fixes the check-in window at Saturday through Monday.</p></div>
+      <div class="row"><span class="mk"></span><p><b>Sherwood Inn's main building</b> has one room open across this window — Room 29 on Thursday 1 October. Its sister houses have wide availability throughout.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="sechead">
+    <h2>Booking the Wayside</h2>
+    <span class="note">Telephone only</span>
+  </div>
+  <div class="cols">
+    <div>
+      <div class="row"><span class="mk"></span><p>The Wayside takes <b>no online reservations</b>. The website offers an inquiry form that explicitly does not hold a room. Call the front desk at <b>978-443-1776 ×1</b>.</p></div>
+      <div class="row"><span class="mk"></span><p>There are <b>ten guest rooms</b> in total. Rooms 9 and 10 date to the late 18th century and are noted as booking first.</p></div>
+    </div>
+    <div>
+      <div class="row"><span class="mk"></span><p>Every room has <b>a full bath</b>, king, queen, or full beds, and all queens are four-poster canopies. No pets.</p></div>
+      <div class="row"><span class="mk"></span><p>Check-in 3:00&nbsp;pm, check-out 11:00&nbsp;am, and <b>72 hours' notice</b> to cancel. Availability for these dates can only be confirmed by phone.</p></div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <span>Rates gathered 5 September 2026 · two guests, one room</span>
+  <span>The Red Lion Inn, Stockbridge MA · The Wayside Inn, Sudbury MA · The Sherwood Inn group, Skaneateles NY</span>
+</footer>
+
+</div>
+</body>
+</html>
